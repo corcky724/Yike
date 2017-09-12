@@ -5,18 +5,18 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>豆瓣一刻</title>
 	<link rel="shortcut icon" href="./favicon.ico" type="image/x-icon">
-	<link rel="stylesheet" href="./less/main.css">
+	<link rel="stylesheet" href="./public/less/main.css">
 </head>
-<body>
-	<div class="viewport">
-		<!-- 侧边导航 -->
-		<div class="navs">
+<body ng-app="Yike">
+	<div class="viewport" ng-controller="DemoController">
+		<!-- 側邊導航 -->
+		<div ng-class="{navs: true, collapse: collapsed}">
 			<dl>
 				<dt class="login">
 					<div class="avatar">
-						<img src="./images/avatar.png" alt="">
+						<img src="./public/images/avatar.png" alt="">
 					</div>
-					<span>登录</span>
+					<span>登入</span>
 				</dt>
 				<dd class="active">
 					<a href="./index.html" class="icon-home">
@@ -25,27 +25,27 @@
 				</dd>
 				<dd>
 					<a href="./older.html" class="icon-file-empty">
-						<span>往期内容</span>
+						<span>往期內容</span>
 					</a>
 				</dd>
 				<dd>
 					<a href="./author.html" class="icon-pencil">
-						<span>热门作者</span>
+						<span>熱門作者</span>
 					</a>
 				</dd>
 				<dd>
 					<a href="./category.html" class="icon-menu">
-						<span>栏目浏览</span>
+						<span>欄目瀏覽</span>
 					</a>
 				</dd>
 				<dd>
 					<a href="./favourite.html" class="icon-heart">
-						<span>我的喜欢</span>
+						<span>我的喜歡</span>
 					</a>
 				</dd>
 				<dd>
 					<a href="./settings.html" class="icon-cog">
-						<span>设置</span>
+						<span>設置</span>
 					</a>
 				</dd>
 			</dl>
@@ -55,114 +55,78 @@
 			</div>
 		</div>
 		<div class="container">
-			<!-- 头部 -->
-			<div class="header">
-				<a href="javascript:;" class="menu icon-menu"></a>
+			<!-- 頭部 -->
+			<div ng-class="{header: true, collapse: collapsed}">
+				<a href="javascript:;" class="menu icon-menu" ng-click="toggle()"></a>
 				<h2>今日一刻</h2>
 				<a href="javascript:;" class="search icon-search"></a>
 			</div>
-			<!-- 主体 -->
+			<!-- 主體 -->
 			<div class="body">
-				<div class="item">
-					<!-- 日期分类 -->
-					<div class="mark">13Aug</div>
-					<ul class="posts large">
-						<!-- 文章 -->
-						<li>
-							<span href="javascript:;" class="tag">去远方</span>
-							<div class="cont">
-								<h3>朝圣山南扎央宗--探索藏文化之源探索藏文化之源</h3>
-								<div class="brief">
-									<p class="only">那里有个很窄的洞，钻进去曾是莲花生大师修行的地方，在藏民心中钻洞是为了洗清那里有个很窄的洞，钻进去曾是莲花生大师修行的地方，在藏民心中钻洞是为了洗清中钻洞是为了洗清那里有个很窄的洞，钻进去曾是莲花生大师修行的地方</p>
-								</div>							
-							</div>
-						</li>
-						<li>
-							<span href="javascript:;" class="tag">去远方</span>
-							<div class="cont">
-								<h3>朝圣山南扎央宗--探索藏文化之源探索藏文化之源探索藏文化之源</h3>
-								<div class="brief">
-									<p>那里有个很窄的洞，钻进去曾是莲花生大师修行的地方，在藏民心中钻洞是为了洗清</p>
-									<div class="thumb">
-										<img src="./uploads/post_1.png" alt="">
-									</div>
-								</div>							
-							</div>
-						</li>
-						<li>
-							<span href="javascript:;" class="tag">去远方</span>
-							<div class="cont">
-								<h3>朝圣山南扎央宗--探索藏文化之源</h3>
-								<div class="brief">
-									
-									<div class="gallery">
-										<img src="./uploads/post_2.png" alt="">
-									</div>
-								</div>							
-							</div>
-						</li>
-						<li>
-							<span href="javascript:;" class="tag">去远方</span>
-							<div class="cont">
-								<h3>朝圣山南扎央宗--探索藏文化之源探索藏文化之源探索藏文化之源</h3>
-								<div class="brief">
-									<p>那里有个很窄的洞，钻进去曾是莲花生大师修行的地方，在藏民心中钻洞是为了洗清</p>
-									<div class="thumb">
-										<img src="./uploads/post_1.png" alt="">
-									</div>
-								</div>							
-							</div>
-						</li>
-						<li>
-							<span href="javascript:;" class="tag">去远方</span>
-							<div class="cont">
-								<h3>朝圣山南扎央宗--探索藏文化之源探索藏文化之源探索藏文化之源</h3>
-								<div class="brief">
-									<p>那里有个很窄的洞，钻进去曾是莲花生大师修行的地方，在藏民心中钻洞是为了洗清</p>
-									<div class="thumb">
-										<img src="./uploads/post_1.png" alt="">
-									</div>
-								</div>							
-							</div>
-						</li>
-						<li>
-							<span href="javascript:;" class="tag">去远方</span>
-							<div class="cont">
-								<h3>朝圣山南扎央宗--探索藏文化之源探索藏文化之源探索藏文化之源</h3>
-								<div class="brief">
-									<p>那里有个很窄的洞，钻进去曾是莲花生大师修行的地方，在藏民心中钻洞是为了洗清</p>
-									<div class="thumb">
-										<img src="./uploads/post_1.png" alt="">
-									</div>
-								</div>							
-							</div>
-						</li>
-						<li>
-							<span href="javascript:;" class="tag">去远方</span>
-							<div class="cont">
-								<h3>朝圣山南扎央宗--探索藏文化之源探索藏文化之源探索藏文化之源</h3>
-								<div class="brief">
-									<p>那里有个很窄的洞，钻进去曾是莲花生大师修行的地方，在藏民心中钻洞是为了洗清</p>
-									<div class="thumb">
-										<img src="./uploads/post_1.png" alt="">
-									</div>
-								</div>							
-							</div>
-						</li>
-					</ul>
-				</div>
+				<!-- 佔位符 -->
 			</div>
 		</div>
 	</div>
-	<script src="./libs/toggle.js"></script>
+	<!--<script src="./libs/toggle.js"></script>-->
+	<script src="node_modules/angular/angular.min.js"></script>
+	<script src="node_modules/angular-route/angular-route.min.js"></script>
+	<!-- AngularJs 入口 -->
+	<script src="scripts/app.js"></script>
+	<!-- 控制器模塊 -->
+	<script src="scripts/controllers.js"></script>
+	<!-- 指令模塊 -->
+	<script src="scripts/directives.js"></script>
+	<script src="scripts/services.js"></script>
 </body>
 </html>
 <!--
-
 	* 步驟說明
 	
 		** 首先分析，專案需要使用那些框架。
 		
+			*** 單頁面應用程式
+			
+			*** AngularJS 1.6
+			
+		** 設計目錄。
+		
+			*** public 靜態資源目錄，展示網頁的固定資源。
+			
+				**** CSS、LESS、調整頁面的JS、UI圖片、... 。
+			
+				**** public/css
+				
+				**** public/js
+				
+				**** public/images
+				
+			*** uploads 上傳的檔案。
+			
+			*** views 視圖，模板、共用部分的HTML檔案、... 。
+			
+			*** scripts 與業務相關的邏輯JS檔案。
+			
+			*** api 後台接口。
+		
 		** 使用 Git 新增倉庫，並初始化存檔。
-
+		
+			*** git init
+			
+			*** git add .
+			
+			***	gir commit -m "Yike專案 初始化存檔"
+		
+		** 新增 Git 平行分支，開發時使用平行分支。
+		
+			*** git checkout -b developer
+			
+		** 新增 Git 平行分支，依照功能進行分支。
+		
+			*** git checkout -b framework
+			
+				**** 引入框架
+				
+		** 讓 App 主模塊依賴多個模塊，多個模塊則依照功能新增。
+		
+			*** Controllers 模塊，用於管理所有的控制器。
 -->
