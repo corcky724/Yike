@@ -1,84 +1,27 @@
 <div class="item">
 	<!-- 日期分类 -->
-	<div class="mark">13Aug</div>
+	<div class="mark">{{date|date:'ddMMM'}}</div>
 	<ul class="posts large">
 		<!-- 文章 -->
-		<li>
-			<span href="javascript:;" class="tag">去远方</span>
+		<li ng-repeat="(key, value) in data">
+			<span href="javascript:;" class="tag" ng-if="value.column.name" ng-bind="value.column.name"></span>
 			<div class="cont">
-				<h3>朝圣山南扎央宗--探索藏文化之源探索藏文化之源</h3>
+				<h3 ng-bind="value.title"></h3>
 				<div class="brief">
-					<p class="only">那里有个很窄的洞，钻进去曾是莲花生大师修行的地方，在藏民心中钻洞是为了洗清那里有个很窄的洞，钻进去曾是莲花生大师修行的地方，在藏民心中钻洞是为了洗清中钻洞是为了洗清那里有个很窄的洞，钻进去曾是莲花生大师修行的地方</p>
-				</div>							
-			</div>
-		</li>
-		<li>
-			<span href="javascript:;" class="tag">去远方</span>
-			<div class="cont">
-				<h3>朝圣山南扎央宗--探索藏文化之源探索藏文化之源探索藏文化之源</h3>
-				<div class="brief">
-					<p>那里有个很窄的洞，钻进去曾是莲花生大师修行的地方，在藏民心中钻洞是为了洗清</p>
-					<div class="thumb">
-						<img src="./uploads/post_1.png" alt="">
+					<!-- 10001 -->
+					<!-- 10002 -->
+					<p ng-class="{only: value.display_style == 10001}" ng-bind="value.abstract" ng-if="value.display_style != 10003"></p>
+					
+					<!-- 10002 -->
+					<div class="thumb" ng-if="value.display_style == 10002">
+						<!-- 錯誤代碼 403 暫時無解，可能是伺服器設置防盜鏈接 -->
+						<!--<img ng-src="{{value.thumbs[0].small.url}}" alt="">-->
 					</div>
-				</div>							
-			</div>
-		</li>
-		<li>
-			<span href="javascript:;" class="tag">去远方</span>
-			<div class="cont">
-				<h3>朝圣山南扎央宗--探索藏文化之源</h3>
-				<div class="brief">
-					<div class="gallery">
-						<img src="./uploads/post_2.png" alt="">
-					</div>
-				</div>							
-			</div>
-		</li>
-		<li>
-			<span href="javascript:;" class="tag">去远方</span>
-			<div class="cont">
-				<h3>朝圣山南扎央宗--探索藏文化之源探索藏文化之源探索藏文化之源</h3>
-				<div class="brief">
-					<p>那里有个很窄的洞，钻进去曾是莲花生大师修行的地方，在藏民心中钻洞是为了洗清</p>
-					<div class="thumb">
-						<img src="./uploads/post_1.png" alt="">
-					</div>
-				</div>							
-			</div>
-		</li>
-		<li>
-			<span href="javascript:;" class="tag">去远方</span>
-			<div class="cont">
-				<h3>朝圣山南扎央宗--探索藏文化之源探索藏文化之源探索藏文化之源</h3>
-				<div class="brief">
-					<p>那里有个很窄的洞，钻进去曾是莲花生大师修行的地方，在藏民心中钻洞是为了洗清</p>
-					<div class="thumb">
-						<img src="./uploads/post_1.png" alt="">
-					</div>
-				</div>							
-			</div>
-		</li>
-		<li>
-			<span href="javascript:;" class="tag">去远方</span>
-			<div class="cont">
-				<h3>朝圣山南扎央宗--探索藏文化之源探索藏文化之源探索藏文化之源</h3>
-				<div class="brief">
-					<p>那里有个很窄的洞，钻进去曾是莲花生大师修行的地方，在藏民心中钻洞是为了洗清</p>
-					<div class="thumb">
-						<img src="./uploads/post_1.png" alt="">
-					</div>
-				</div>							
-			</div>
-		</li>
-		<li>
-			<span href="javascript:;" class="tag">去远方</span>
-			<div class="cont">
-				<h3>朝圣山南扎央宗--探索藏文化之源探索藏文化之源探索藏文化之源</h3>
-				<div class="brief">
-					<p>那里有个很窄的洞，钻进去曾是莲花生大师修行的地方，在藏民心中钻洞是为了洗清</p>
-					<div class="thumb">
-						<img src="./uploads/post_1.png" alt="">
+					
+					<!-- 10003 -->
+					<div class="gallery" ng-if="value.display_style == 10003">
+						<!-- 錯誤代碼 403 暫時無解，可能是伺服器設置防盜鏈接 -->
+						<!--<img ng-src="{{value.thumbs[0].small.url}}">-->
 					</div>
 				</div>							
 			</div>

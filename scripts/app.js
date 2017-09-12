@@ -1,18 +1,41 @@
 // Yike 主模塊。
 var Yike = angular.module('Yike', ['ngRoute', 'Controllers', 'Directives']);
 
+// 單頁面應用程式，通過 哈希值 完成。
+/*
+	使用 angular-route 差件，並通過 AJAX 完成。
+	
+	需要應對 側邊導航
+*/
 Yike.config(['$routeProvider', function($routeProvider) {
-//	$routeProvider.when('/today', {
-//		templateUrl: './views/today.html',
-//		controller: 'TodayController'
-//	})
-//	.when('/older', {
-//		templateUrl: './views/older.html',
-//		controller: 'OlderController'
-//	})
-//	.otherwise({
-//		redirectTo: '/today'
-//	});
+	$routeProvider
+	.when('/today', {
+		'templateUrl': './views/today.html',
+		'controller': 'TodayController'
+	})
+	.when('/older', {
+		'templateUrl': './views/older.html',
+		'controller': 'OlderController'
+	})
+	.when('/author', {
+		'templateUrl': './views/author.html',
+		'controller': 'AuthorController'
+	})
+	.when('/category', {
+		'templateUrl': './views/category.html',
+		'controller': 'CategoryController'
+	})
+	.when('/favourite', {
+		'templateUrl': './views/favourite.html',
+		'controller': 'FavouriteController'
+	})
+	.when('/settings', {
+		'templateUrl': './views/settings.html',
+		'controller': 'SettingsController'
+	})
+	.otherwise({
+		'redirectTo': '/today'
+	});
 }]);
 
 // run 方法，直接使用 AngularJS物件，並且不使用 AngularJS表達式、模型、數據、... 等等數據相關時使用的方法。

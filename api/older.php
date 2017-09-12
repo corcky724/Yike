@@ -7,7 +7,7 @@
 	// echo date('Y-m-d', time());
 	
 	// php 获得时间
-	$today = strtotime('-1day', time());
+	$today = strtotime('-2day', time());
 
 	// 
 	$older = date('Y-m-d', $today);

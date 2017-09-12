@@ -1,8 +1,8 @@
 <?php
 	
-	// phpinfo();
-
-	// exit();
+//	 phpinfo();
+//
+//	 exit();
 
 	$today = $_GET['today'];
 

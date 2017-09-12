@@ -7,10 +7,10 @@
 	<link rel="shortcut icon" href="./favicon.ico" type="image/x-icon">
 	<link rel="stylesheet" href="./public/less/main.css">
 </head>
-<body ng-app="Yike">
-	<div class="viewport" ng-controller="DemoController">
+<body ng-app="Yike" ng-controller="DemoController">
+	<div class="viewport">
 		<!-- 側邊導航 -->
-		<div ng-class="{navs: true, collapse: collapsed}">
+		<div ng-class="{navs: true, collapse: collapsed}" ng-controller="NavController">
 			<dl>
 				<dt class="login">
 					<div class="avatar">
@@ -18,52 +18,28 @@
 					</div>
 					<span>登入</span>
 				</dt>
-				<dd class="active">
-					<a href="./index.html" class="icon-home">
-						<span>今日一刻</span>
-					</a>
-				</dd>
-				<dd>
-					<a href="./older.html" class="icon-file-empty">
-						<span>往期內容</span>
-					</a>
-				</dd>
-				<dd>
-					<a href="./author.html" class="icon-pencil">
-						<span>熱門作者</span>
-					</a>
-				</dd>
-				<dd>
-					<a href="./category.html" class="icon-menu">
-						<span>欄目瀏覽</span>
-					</a>
-				</dd>
-				<dd>
-					<a href="./favourite.html" class="icon-heart">
-						<span>我的喜歡</span>
-					</a>
-				</dd>
-				<dd>
-					<a href="./settings.html" class="icon-cog">
-						<span>設置</span>
+				<dd class="active" ng-repeat="(value, key) in navs">
+					<a href="{{key.link}}" class="{{key.icon}}" ng-click="toggle()">
+						<span ng-bind="key.title"></span>
 					</a>
 				</dd>
 			</dl>
 			<div class="extra">
 				<a href="javascript:;" class="icon-image">夜晚</a>
-				<a href="javascript:;" class="icon-download">离线</a>
+				<a href="javascript:;" class="icon-download">離線</a>
 			</div>
 		</div>
 		<div class="container">
 			<!-- 頭部 -->
 			<div ng-class="{header: true, collapse: collapsed}">
 				<a href="javascript:;" class="menu icon-menu" ng-click="toggle()"></a>
-				<h2>今日一刻</h2>
+				<h2>暫時放著</h2>
 				<a href="javascript:;" class="search icon-search"></a>
 			</div>
 			<!-- 主體 -->
-			<div class="body">
+			<div ng-class="{body: true, collapse: collapsed}">
 				<!-- 佔位符 -->
+				<div ng-view></div>
 			</div>
 		</div>
 	</div>
