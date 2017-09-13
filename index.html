@@ -33,11 +33,12 @@
 			<!-- 頭部 -->
 			<div ng-class="{header: true, collapse: collapsed}">
 				<a href="javascript:;" class="menu icon-menu" ng-click="toggle()"></a>
-				<h2>暫時放著</h2>
+				<h2 ng-bind="title"></h2>
 				<a href="javascript:;" class="search icon-search"></a>
 			</div>
 			<!-- 主體 -->
 			<div ng-class="{body: true, collapse: collapsed}">
+				<img class="loading" src="./public/images/loading.gif" ng-hide="loaded">
 				<!-- 佔位符 -->
 				<div ng-view></div>
 			</div>

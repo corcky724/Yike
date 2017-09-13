@@ -29,23 +29,39 @@ angular.module('Controllers', [])
 	*/
 	var today = $filter('date')(new Date, 'yyyy-MM-dd');
 	
+	// $rootScope 物件可以設置控制器父級的 AngularJS表達式。
+	$rootScope.title = '今日一刻';
+	$rootScope.index = 0;
+	
+	// 用於 AJAX 數據獲取到後，隱藏 GIF 和 顯示 日期。
+	$rootScope.loaded = false;
+	
 	$http({
 		'url': './api/today.php',
 		'method': 'get',
 		'params': {'today': today}
 	}).then(function (request) {
+		// 用於 AJAX 數據獲取到後，隱藏 GIF 和 顯示 日期。
+		$rootScope.loaded = true;
+		
 		$scope.data = request.data.posts;
+		$scope.date = request.data.date;
 		console.log( request.data );
 	});
 }])
 
 // 往期內容 控制器。
 .controller('OlderController', ['$scope', '$http', '$rootScope', function ($scope, $http ,$rootScope) {
+	// $rootScope 物件可以設置控制器父級的 AngularJS表達式。
+	$rootScope.title = '往期內容';
+	$rootScope.index = 1;
+	
 	$http({
 		'url': './api/older.php',
 		'method': 'get'
 	}).then(function (request) {
 		$scope.data = request.data.posts;
+		$scope.date = request.data.date;
 		console.log( request.data );
 	});
 }])
