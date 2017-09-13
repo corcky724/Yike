@@ -44,9 +44,9 @@ angular.module('Controllers', [])
 		// 用於 AJAX 數據獲取到後，隱藏 GIF 和 顯示 日期。
 		$rootScope.loaded = true;
 		
-		$scope.data = request.data.posts;
 		$scope.date = request.data.date;
-		console.log( request.data );
+		$scope.posts = request.data.posts;
+		console.log( $scope.posts );
 	});
 }])
 
@@ -56,24 +56,65 @@ angular.module('Controllers', [])
 	$rootScope.title = '往期內容';
 	$rootScope.index = 1;
 	
+	// 用於 AJAX 數據獲取到後，隱藏 GIF 和 顯示 日期。
+	$rootScope.loaded = false;
+	
 	$http({
 		'url': './api/older.php',
 		'method': 'get'
 	}).then(function (request) {
-		$scope.data = request.data.posts;
+		// 用於 AJAX 數據獲取到後，隱藏 GIF 和 顯示 日期。
+		$rootScope.loaded = true;
+		
 		$scope.date = request.data.date;
-		console.log( request.data );
+		$scope.posts = request.data.posts;
+		console.log( $scope.posts );
 	});
 }])
 
-// 熱門內容 控制器。
-.controller('AuthorController', ['$scope', function ($scope) {
+// 熱門作者 控制器。
+.controller('AuthorController', ['$scope', '$http', '$rootScope', function ($scope, $http, $rootScope) {
+	// $rootScope 物件可以設置控制器父級的 AngularJS表達式。
+	$rootScope.title = '熱門作者';
+	$rootScope.index = 2;
 	
+	// 用於 AJAX 數據獲取到後，隱藏 GIF 和 顯示 日期。
+	$rootScope.loaded = false;
+	
+	$http({
+		'url': './api/author.php',
+		'method': 'get'
+	}).then(function (request) {
+		// 用於 AJAX 數據獲取到後，隱藏 GIF 和 顯示 日期。
+		$rootScope.loaded = true;
+		
+		$scope.rec = request.data.rec.authors;
+		$scope.all = request.data.all.authors;
+		
+		console.log( $scope.rec );
+		console.log( $scope.all );
+	});
 }])
 
 // 欄目瀏覽 控制器。
-.controller('CategoryController', ['$scope', function ($scope) {
+.controller('CategoryController', ['$scope', '$http', '$rootScope', function ($scope, $http, $rootScope) {
+	// $rootScope 物件可以設置控制器父級的 AngularJS表達式。
+	$rootScope.title = '項目瀏覽';
+	$rootScope.index = 3;
 	
+	// 用於 AJAX 數據獲取到後，隱藏 GIF 和 顯示 日期。
+	$rootScope.loaded = false;
+	
+	$http({
+		'url': './api/category.php',
+		'method': 'get'
+	}).then(function (request) {
+		// 用於 AJAX 數據獲取到後，隱藏 GIF 和 顯示 日期。
+		$rootScope.loaded = true;
+		
+		$rootScope.columns = request.data.columns;
+		console.log( $rootScope.columns );
+	});
 }])
 
 // 我的喜歡 控制器。

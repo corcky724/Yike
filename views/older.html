@@ -3,7 +3,7 @@
 	<div class="mark" ng-show="loaded">{{date|date:'ddMMM'}}</div>
 	<ul class="posts large">
 		<!-- 文章 -->
-		<li ng-repeat="(key, value) in data">
+		<li ng-repeat="(key, value) in posts">
 			<span href="javascript:;" class="tag" ng-if="value.column.name" ng-bind="value.column.name"></span>
 			<div class="cont">
 				<h3 ng-bind="value.title"></h3>

@@ -1,0 +1,1172 @@
+﻿{"data":{"count":0,"posts":[{"display_style":10002,"short_url":"https://dou.bz/3lQDWp","abstract":"是谁偷偷偷走了月光……#光绘摄影#单次成像，非合成。地点：杭州太子湾，设备：大法a7RII","app_css":7,"like_count":93,"thumbs":[{"medium":{"url":"https://img1.doubanio.com/view/presto/medium/public/t126447.jpg","width":460,"height":306},"description":"","large":{"url":"https://img1.doubanio.com/view/presto/large/public/t126447.jpg","width":460,"height":306},"tag_name":"img_1","small":{"url":"https://img1.doubanio.com/view/presto/small/public/t126447.jpg","width":320,"height":212},"id":126447}],"created_time":"2017-08-14 15:29:33","id":181332,"is_editor_choice":false,"original_url":"","content":"
+\n \n
+\n 洗洗睡\n
+\n \n
+洗洗睡｜群云青了脸，结伴回家去
+\n
+\n \n \n
+\n \n 来自：\n \n 一刻编辑\n \n
+\n \n
+\n
+\n \n \n
+\n
+\n\n
+
+张佳玮
+ 的广播
+立秋那天黄昏，群云青了脸，结伴回家去
+
+
+老肥狗
+ 的广播
+住在山脚下，顺便染个山 #扎染#
+
+
+葫芦娃你站住
+ 的广播
+现实中的魔界。
+
+
+喵呜不停
+ 的广播
+猫起云涌～
+
+
+bibabo
+ 的广播
+是谁偷偷偷走了月光……#光绘摄影#单次成像，非合成。地点：杭州太子湾，设备：大法a7RII
+
+晚安。
+\n\n
+\n \n \n \n\n \n \n \n\n \n
+栏目：\n
+\n 洗洗睡\n
+\n
+\n \n \n
+\n\n","share_pic_url":"https://moment.douban.com/share_pic/post/181332.jpg","type":"1001","is_liked":false,"photos":[{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/625040.jpg","width":460,"height":613},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/625040.jpg","width":460,"height":613},"tag_name":"img_1","small":{"url":"https://img3.doubanio.com/view/presto/small/public/625040.jpg","width":320,"height":426},"id":625040},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/625041.jpg","width":460,"height":613},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/625041.jpg","width":460,"height":613},"tag_name":"img_2","small":{"url":"https://img3.doubanio.com/view/presto/small/public/625041.jpg","width":320,"height":426},"id":625041},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/625046.jpg","width":460,"height":306},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/625046.jpg","width":460,"height":306},"tag_name":"img_3","small":{"url":"https://img3.doubanio.com/view/presto/small/public/625046.jpg","width":320,"height":212},"id":625046},{"medium":{"url":"https://img1.doubanio.com/view/presto/medium/public/625047.jpg","width":460,"height":295},"description":"","large":{"url":"https://img1.doubanio.com/view/presto/large/public/625047.jpg","width":460,"height":295},"tag_name":"img_4","small":{"url":"https://img1.doubanio.com/view/presto/small/public/625047.jpg","width":320,"height":205},"id":625047},{"medium":{"url":"https://img1.doubanio.com/view/presto/medium/public/625048.jpg","width":460,"height":306},"description":"","large":{"url":"https://img1.doubanio.com/view/presto/large/public/625048.jpg","width":460,"height":306},"tag_name":"img_5","small":{"url":"https://img1.doubanio.com/view/presto/small/public/625048.jpg","width":320,"height":212},"id":625048},{"medium":{"url":"https://img1.doubanio.com/view/presto/medium/public/625049.jpg","width":460,"height":306},"description":"","large":{"url":"https://img1.doubanio.com/view/presto/large/public/625049.jpg","width":460,"height":306},"tag_name":"img_6","small":{"url":"https://img1.doubanio.com/view/presto/small/public/625049.jpg","width":320,"height":212},"id":625049},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/625051.jpg","width":460,"height":345},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/625051.jpg","width":460,"height":345},"tag_name":"img_7","small":{"url":"https://img3.doubanio.com/view/presto/small/public/625051.jpg","width":320,"height":240},"id":625051},{"medium":{"url":"https://img1.doubanio.com/view/presto/medium/public/625057.jpg","width":460,"height":460},"description":"","large":{"url":"https://img1.doubanio.com/view/presto/large/public/625057.jpg","width":460,"height":460},"tag_name":"img_8","small":{"url":"https://img1.doubanio.com/view/presto/small/public/625057.jpg","width":320,"height":320},"id":625057},{"medium":{"url":"https://img1.doubanio.com/view/presto/medium/public/625058.jpg","width":460,"height":460},"description":"","large":{"url":"https://img1.doubanio.com/view/presto/large/public/625058.jpg","width":460,"height":460},"tag_name":"img_9","small":{"url":"https://img1.doubanio.com/view/presto/small/public/625058.jpg","width":320,"height":320},"id":625058},{"medium":{"url":"https://img1.doubanio.com/view/presto/medium/public/625059.jpg","width":460,"height":460},"description":"","large":{"url":"https://img1.doubanio.com/view/presto/large/public/625059.jpg","width":460,"height":460},"tag_name":"img_10","small":{"url":"https://img1.doubanio.com/view/presto/small/public/625059.jpg","width":320,"height":320},"id":625059},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/625060.jpg","width":460,"height":460},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/625060.jpg","width":460,"height":460},"tag_name":"img_11","small":{"url":"https://img3.doubanio.com/view/presto/small/public/625060.jpg","width":320,"height":320},"id":625060},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/625061.jpg","width":460,"height":460},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/625061.jpg","width":460,"height":460},"tag_name":"img_12","small":{"url":"https://img3.doubanio.com/view/presto/small/public/625061.jpg","width":320,"height":320},"id":625061},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/625063.jpg","width":460,"height":690},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/625063.jpg","width":460,"height":690},"tag_name":"img_13","small":{"url":"https://img3.doubanio.com/view/presto/small/public/625063.jpg","width":320,"height":480},"id":625063}],"date":"2017-08-14","published_time":"2017-08-14 22:00:00","url":"https://moment.douban.com/post/181332/?douban_rec=1","column":{"id":57,"icon":"https://img3.doubanio.com/f/presto/ba4d062068874f7452f174b904fad2a609ee83bd/images/column/column-57.png","description":"睡前静静，做个好梦。","name":"洗洗睡","post_total":565},"comments_count":96,"title":"洗洗睡｜群云青了脸，结伴回家去"},{"display_style":10001,"short_url":"https://dou.bz/4d6xQk","abstract":"小煞的真气疯狂地倾泻着。起风了，火势冲天，尖叫不绝于耳。我看着他倒在人群中，无数双脚在他身上踏过。我就那样看着他，直到他的真气散尽。然后，我用从凡人那里顺来的迷香，让他显出了真身。","app_css":7,"like_count":73,"thumbs":[],"created_time":"2017-07-31 10:58:00","id":180150,"is_editor_choice":false,"original_url":"https://www.douban.com/note/630854046/","content":"
+\n \n
+\n 连载\n
+\n \n
+100个邪邪的小故事｜飞行执照
+\n
+\n \n \n
+\n \n
+\n \n
+\n \n
+红酥手贱
+\n 的日记\n
+\n \n
+\n
+\n \n \n
+\n
+\n\n
+狂风大作，雷鸣隐隐。这样的天气还在外面晃荡的家伙，比如我，总有着不得不出门的理由。身下的乌云翻滚得愈发汹涌了，潮气在我的睫毛上形成了无数细小的水珠。我一面躲避着闪电，一面在云层之上腾空穿行，赶去做一件十万火急的事——捞个朋友。
+粗糙的鳞片虽然用了快有千年，却依然能够有效防水和保温。据说，在“下面”，许多凡人将我们的鳞片当成美玉来售卖；又据说，为了取得鳞片，他们的那些手段可怕至极……
+正分神，猛然间，我的前方出现了一张顶天立地的大网，我没刹住，一下撞在上面，顿时眼冒金星。两个已得了人形、却还未化尽胎象的交通管制员笑嘻嘻地出现在我面前。想不到这种鬼天气，他们也不歇歇！上面这些年不景气，大家都看在眼里。可是，也不能拿天罗地网来对付我们平头百姓吧！其中一个头上长着独角的家伙瞄了瞄我的尾部，然后对我说：老人家，请把您的飞行执照拿出来，例行检查。
+我藏起尾巴，化回人形，爬了起来。扭头一瞅，后面也张着网呢——今天算是栽了。我故作镇定地说：没带！
+独角打量了我一番：是没带还是没有？
+我说：忘带了。
+另一个只有两根手指的家伙说：那就得请您跟我们走一趟了。没带执照，是不能在公共区域飞行的！
+我装作很凶的样子道：老子好好地飞了快一千年，怎么就不能飞了？
+独角说：看，还是没有执照嘛！没执照不能飞，这是规定，是为了您自己的安全。
+两根手指说：没有执照，您就去考一个嘛！
+我沉默了。
+考飞行执照这件事历时七年，我这辈子，还从来没有像这七年一样，这么怀疑过人生。我自幼居住在云巅之上的小龙渊，那里有山，也有海。山没有尽头，海也没有尽头。尽头都包裹在雾气中，那雾，浓得像一张网。很小的时候，我就被告知，在成年之前，不要对浓雾之外的世界心存好奇。那外面，除了各种凶兽，还有着最为可怕的凡人，他们的个性最为凶残嗜血，若是捉住了我这样年纪的小孩子，就会抽出我们背上那条大筋做鞭子。
+三岁的时候，我就开始学飞了。到了七岁，就已经跟父亲飞得一样好了。我在旷野之上驰骋，在险峰之癫盘旋，可从来没有人说过让我考执照这回事。
+飞，比走快多了。于是，故乡变小了——不过是三条山脉夹着五个湖，总共也就七百多人口。我问父亲：浓雾的外面，真的都是毒蛇猛兽吗？
+父亲说：你还小，不要问那么多。
+父亲说完这句话，就去上班了。那时他还没有退休，管着人间很大一片地方行云布雨的事。我心念一动，偷偷跟在了父亲后面。
+那天要降一寸二分雨，是一场久旱后的大雨。其实，雨早就该下了，只是上面对于那些凡人的贡品很不满意，连两口像样的猪首都没有，用羊头糊弄过去了。不过也不能再拖了，不然要出人命了。
+父亲驱着一片乌云，赶到了要布雨的地方。我远远跟在后面，见他显出威风凛凛的真身，一丈粗细，百丈长短，金鳞熠熠，银角铮铮。等了好久，布雷司电的那两公婆还没来，父亲只好自己开工了。他在乌云中飞速翻滚，与此同时，急急的雨点就落到了凡间。我探出头去，隐隐看到无数凡人正在干涸的河岸上跪拜。
+那是我这一生中最崇拜父亲的时刻。可是，那场雨，就是父亲的谢幕演出。迟到的两公婆倒打一耙，参了父亲一本“逾越”，父亲就被贬了闲职，直至退休。
+后来，我长大了，也知道了浓雾外面的世界，有很多精彩的风景，也有着许多心怀鬼胎的家伙。不过，与外面那个花花世界相比，小龙渊太安静了，也太小了。我和一个儿时的小伙伴——他叫老咸菜，别着急，后面我就会讲到他——结伴离开了那里，四处漂泊。后来，我们都娶妻生子，在他乡安顿下来。我们的孩子慢慢长大，也娶妻生子。这时，我们终于发现，自己老了，气力和精力都大不如从前了，又重新开始向往安静了。在我们的妻子都故去后，我和老咸菜又回到了小龙渊。
+两个歪瓜裂枣的协管员还在与我纠缠，从他们的气质，不难看出，这是两个临时工。如今上面真是什么样的小角色都笼络起来了。这种货色之前起码要再修炼一千年才能跟我搭上话！
+瞅准一个机会，我就窜了出去。不料浑身一紧，已经倒在地上。原来，为了查这个无照飞行，连缚仙绳都用上了！
+独角一副厌恶的语气：你跑什么啊？老胳膊老腿摔坏了怎么办？不是我说你，现在公共交通这么方便，你想去哪儿，在云站等公交云不就行了？
+他说的公交云，是一种从凡人的公共交通系统那里学来的不伦不类的东西。这东西比最老的牛都要慢，靠一种最古老的法术，把乘客托在灰蒙蒙的云彩上，去一趟一千里外的地方，飞过去也就几个时辰，坐这云得半个月！
+所幸小龙渊交通协管处的临时看管室里不远。一个多时辰后，我就被关在了里面。房间不大，人挤人，大概有二十来个，全是老头老太太——不用问都是因为无证飞行被抓进来的。老咸菜瞅见我到了门口，激动得挤到了最前面，再一看我也被推了进来，立刻就蔫了。我本来就要到这个地方来——来保~释~老咸菜。我接到他的千里传音，立刻就出发了。不消说，他也无照飞行了。
+我说过，老咸菜是我从小玩到大的朋友，他生下来就很特别，皮肤是咸菜色的。所以，以前他叫小咸菜，后来叫咸菜头，现在那样子，倒像咸菜干了！
+老咸菜问：你怎么也栽了？
+我活动着筋骨：唉，别提了，这以后，难道哪儿都不能去了？
+他摇了摇头，再问：现在怎么办？
+我说：给小多捎个信儿吧，让他来捞咱们两个老不死的！
+小多是我的独孙，只是他的父母在他很小的时候就分道扬镳了，这孩子是我一手带大的。小时候，他是整个小龙渊最可爱的孩子。可是，这几年他长大了，越来越不爱跟我说话了。自从一年前他偷偷做了真气加速手术，我骂了他一顿后，他还没回小龙渊看过我。
+我们这一族，本来就是以腾云驾雾，迅疾如风闻名的。可是，年轻人们总想要更快一点。跟小多差不多大的孩子，几乎都做了这个该死的手术——在尾巴上打了孔，装上了那个难看得要死的黑色片片儿——飞行加速器。因为这东西是要真气做能量的，所以现在真气小偷越来越多。比如，走在街上，卖馄饨的吆喝着试吃，闻着香喷喷，不要钱。敢吃吗？吃下去，你的真气就会从头顶散逸出来，远看你就变成了刚出笼的小笼包子。再比如，迎面来个问路的，你给指了，人家要跟你握手道谢，你敢握吗？人家的手心藏着梅花针呢！在你合谷穴一刺，真气呲呲就冒出来了，人家早备着倒吸葫芦，捏住你的脉门，你连敛气都敛不住！总之，这些小偷们有一百种偷走你真气的法子！
+不是我草木皆兵，我就中过招儿。小多这孩子啊，经常厮混的那帮孩子们，没几个好的。其中有一个叫小煞的，尤其坏得流水儿——当然，没人这么给孩子起名字，这是外号。我不知道这小子的真名，反正长得人模狗样的。他也没有父母，只有一个老得不得了的老祖母，也管不住他。小多倒是跟他玩得很好，这孩子经常在我们家吃饭。
+这孩子还挺小的时候吧，有天他来找小多，小多不在。我让他等着，就回书房写大字了。这小子嘴那个甜，给我泡了杯茶进来。我喝了，然后不知怎地就睡着了。等醒了，小煞跑了，我一站起来，天旋地转。稳住了才发现，我的真气也不见了至少十之一二！
+我把这事儿告诉小多，他指天咒地说小煞绝对不会偷我的真气，一定是我老糊涂了。为了不伤孩子的心，我忍了。可没想到，就这样一个偷鸡摸狗的孩子，过了几年竟然成了名人，成了偶像。就是模样好些、比别人飞得快些，竟然弄了个什么青年会，当了会长！走到街上，姑娘们见了他都要尖叫，小伙子们包括小多，全卯足了劲儿打扮成他那个样子！
+家家都有孩子，家家的孩子都想加入青年会。没入会的孩子，鬼哭狼嚎；入了会的，喜气洋洋。
+我为什么这么讨厌青年会？妒忌年轻人？当然不是。就因为这个青年会，一次次不停地请~愿，上面才规定人人都得考飞行执照！
+青年会请~愿，是因为他们死了一个孩子，还是上面一个大官的孩子。天上能飞的地方就那么宽，电闪雷鸣之上，那个风平浪静的区域。我们平时行路就在那里，凡人的飞机也盯上了那里，这个刚装了加速器的孩子，当然也要在那里一试身手。也是胆子大，让人一挑唆，就敢跟人比赛！结果为了躲一个路人，撞了一架大飞机，当场就撞出脑浆子来了。你说，这孩子作死，居然能害得我们这些老头子出门要偷偷摸摸的，还有没有天理了？！
+这不是我第一次被拦住了。早在七年前，第一次遇到协管员的时候，我真不敢相信，一辈子奉公守法，临了让个小辈给抢白了一番！我跟他吵了一架，就因为妨~害~公~共~秩~序~被关了起来。那次是老咸菜保的我。我一出去，就写了一封告状信给上面，没想到石沉大海。
+那时青年会还没这么大的势力，不过，已经有点儿要成气候的意思了。我一琢磨，这以后就没有说理的地方了？不行，人多力量大，我也得弄个什么会！跟老咸菜一商量，后来就鼓捣了一个“敦睦会”。这名字可能没选好，听上去不知道是干什么的。其实，就是跟青年会对着干的！
+考不上飞行执照的老头老太太们，个个憋着一肚子火。不到一年的时间吧，除了小龙渊的一百多个老人，外面也有了无数个大大小小的敦睦分会，形势一片大好！大家都说：老白，加油，一定把这个飞行执照的事儿给它弄翻盘！
+我们开始上~书、请~愿。一次又一次。可是，上面一直没有回复。有天，小多从外面回来，拿出厚厚一沓材料，对我说：爷爷，你别白费劲了，现在这一片儿的投~诉~举~报，都归青年会管了！
+我接过一看，全是我又熬夜、又绞尽脑汁写出来的请~愿~书。我气得大病一场，险些丢了半条命。
+等能下床了，我就搞了那次示~威。联合了八百多个老头老太太，在通往上面的必经之路上，静~坐了三天。那几天偏偏都是大太阳，我们晒得发烫、饿得发晕、渴得冒烟。可是，没人来理我们。第三天，小多偷偷给我传讯：爷爷，上面早用了障眼法儿，把你们这些人罩起来了！
+我不信，冲出人群十丈远，一回望，差点儿气死——根本看不到人，只能看到一大堆乌云。乌云上面，搭了个临时的小桥，桥边上还立了个牌子——修路，请从此桥通行，给大家带来不便，敬请原谅！
+再后来，我就妥协了，去报了名，准备考执照了。
+第一次到考场，我就傻了。地方特别小，一十八个火圈正在熊熊燃烧。小多在一旁跟我解释规则——要通过考试，就得在规定时间里按顺序通过十八个火圈，不时还有装了加速器的“路人”出来捣乱。他们身上都涂着白粉，蹭上一点儿就算不及格！
+又是过火圈儿，又是限时，考试的成分少，耍猴的成分多！想要拂袖而去吧，再想想，忍住了。我又伸胳膊又撂腿儿，半天才把这身老筋骨活动开。
+第一次考试，一切还算顺利。火圈的顺序没错，七八个使坏的小子，我也轻松躲开了，可到了终点，一看——不及格！
+我急了，人家考官指着一旁的沙漏：老人家，你飞到第八个圈，沙子就漏光了！
+我一看，果然如此。心里就犯了嘀咕：难道不装加速器，就考不过去？
+事实证明，确实如此。小多劝我：爷爷，以后装加速器就是趋势了，你得跟上时代的潮流！
+我说：你这潮流才流行了一两年吧？你爷爷可是飞了快一千年了！
+小多说：有些东西它是革命性的，爷爷，你听我的，不会错的！
+我说：刚才慢了，我再来一次！
+小多说：爷爷，这个考试，一年只能考一次！
+我瞪大眼睛，傻了。
+过了几天，老咸菜神神秘秘来找我，说不用考试了。他拿出两本执照来，上面写着我跟他的名字。我问：哪儿来的？
+他说：天机不可泄露！
+我问：这是真的还是假的？
+他说：我可花了大价钱，几可乱真！
+这个几可乱真的执照，我俩提心吊胆地用了一年多。后来，造假的越来越多，只要看到没装加速器的人，协管员就挨个拦，拦住了就仔细查执照。那假执照上面，少了一道上面的开光护罩，用三味真火一烤，真的一点儿不会损坏，假的登时化为灰烬！
+那天，有几个很多年没见过面的老朋友准备聚聚，说好了地方，我就有点儿犯嘀咕。小多已经跟我说过了好几次，不要再用那个“乱真”的执照了，会被人抓起来。可是，这种老朋友的聚会，是去一次少一次，我和老咸菜商量了半天——去！
+结果，还没到地方，就让人给拦住了。那时还没有天罗地网，用的是绊仙索——一样缺德！
+那次出来以后，我就很少出门了。三五步就一个天罗地网，让交通管制员抓到就得被关起来。必须得有保人来保，交了钱，才能放你走。而且，就算没被抓住，天上那景象也够渗人的——无数装了加速器的小青年们，嗖嗖地在你眼前飞过，你敢跟他们抢道儿，他们就敢撞断你的老胳膊老腿！
+以前，早上我最爱去小龙渊最深处那个湖边转转。在湖面上贴着湖水飞过，感受扑面的晨风，得意至极。可是，现在不能去了。要去湖边，只能走着去，得走三个钟头。我要么得半夜起床，要么赶到就到中午了。什么朝露什么朝阳，都跟我无缘了！
+我给小多传了信儿，传的是：赶紧来救你爷爷，晚了就见不上面儿了！
+老咸菜说：这次出去，我要装加速器了。我这人跟你不一样，闲不住。让我不出门，还不如杀了我呢！
+我说：咱都这个岁数了，搁身上动刀子的事儿，你可得想好！
+他正色说：老白，你知道我多少岁了吗？
+我说：九百多岁啊！
+他长叹了一口气：都说咱们的阳寿有一千年，今年，我已经九百九十九岁了！
+我一惊，我只比他小一岁，那也就意味着……我们快死了？
+我看向老咸菜，他瞪着眼睛，像一条被人捞上来的鱼一样，望着天花板。于是，我也跟他统一了姿势，神游起来。
+约摸半个时辰，小多来了。没想到，小煞也来了。小多眼圈通红，他问我：爷爷，你没事吧？听说你也撞飞机了？
+我说：呸！别废话了，赶紧交钱！还有你咸菜爷爷，他的钱也给交了！
+小煞说：不忙。白爷爷，咸菜爷爷，你们的委屈，我都知道了！
+我瞪了他一眼。这孩子以为自己视察工作来了，还是搞慰问来了呢？
+老咸菜也拧过脖子不理他。小多尴尬地提醒着：爷爷，会长跟你说话呢！
+小煞笑了笑，说：没关系。有情绪，能理解！说着，他走到了屋子中间，对着大家说：爷爷们，奶奶们，你们的情况，青年会已经跟上面反映了。上面很重视，已经专门给你们开辟了一个低速飞行区，很大一片地方！以后在飞行区里，你们想怎么飞，就怎么飞！
+老头老太太们窃窃私语起来。
+小煞又说：空口无凭，青年会的高速云就在外面等着，大家跟我去看看吧。
+老头老太太们见不用交赎金了，都赶紧跑了出去。小多拉住我和老咸菜，说：爷爷，你别去了！
+我奇道：为什么？
+小多吞吞吐吐道：以后再看吧……这个也不着急……
+小煞过来了，他对小多说：爷爷要去，你拦着干什么？
+小多不说话了。
+我和老咸菜跟着大家踏上了那团七彩的高速云。小多在旁边扶着我，不知道为什么，这孩子好像有点儿不高兴。
+这还是我第一次乘坐这种云。这东西上面，当然也是有着真气加速装置的。确实非常快，比我的飞行速度快了太多，快得让我都有点儿头晕了。
+不知道飞了多久，因为我们醒过来的时候，已经是黑夜了。我们似乎是在一片旷野之上。不知道什么时候睡着的，也不知道是如何来到了这里。大家站起身来，这才发现，每个人的真气都只已经到了维持意识清醒的极限——有人偷了我们的真气！
+老咸菜说：不，不是有人，就是那个小煞！
+旷野上风很大，老家伙们挤在一起，还是冻得瑟瑟发抖。没有了真气的护佑，我们就像失去了羽毛的飞鸟一样，衣物完全不能抵挡旷野的寒意。
+我已经不能再用千里传音联系小多了，因为我的真气不够用了。而且，小多明明是陪着我一起乘的云，他怎么能眼睁睁看着我被人扔在这里？我不敢再往下想了。
+第二天早上，有些人没有醒来。他们没了鼻息，身体又冰冷又僵硬。当然，只是几个人。这景象真是吓坏了其他人。不过，接下来的景象更令人毛骨悚然——许多衣衫褴褛的老人，正向我们围过来。我说的许多，是非常多，目测至少有几百人。为首的那几个捉住了我们这群人里站在最前面的那个老太太。其中一个死死扣住了她的脉门，其他人开始抢食她的真气。不到一分钟，老太太就面如金纸地倒在了地上。其他人这才想到跑，可是，没人能跑动。
+突然，我认出了那个为首的老头，我连忙喊他：老蛐蛐！老蛐蛐！
+他一惊：老白？
+我一阵头晕，真气马上就要耗尽了。我说：不就是我！
+这个人就是我上次聚会的时候没见到的老朋友之一。他慌忙喊道：停手，大家都停手！是认识的！
+一阵混乱。还是有几个人趁乱又抢光了几个老太太的真气，老太太立时倒毙。不过，老蛐蛐终于把局面控制住了。他对我说：你怎么也来了？小多不是要当副会长了吗？他没给你弄个特~赦？
+我问：什么特~赦？
+他说：你不知道啊？咱们这些闹事的老家伙，都被扔到这荒泽来等死了！
+老咸菜一声怪叫：这里是荒泽？
+人群大哗。我看了看四周——没有树、没有水，只有无尽的荒漠。这是我小时候流放重犯的地方。这里没有食物，犯人们只能以彼此为食。凡人们也常常到这里来打秋风。因为太过无道，这里已经被上面封印了。我们怎么会来了这里？
+中午了，大太阳烤着地面，我们都躺在了地上，没有人说话，因为已经没有力气说话了。有几个凡人就在我们身边忙活，陌生的气息钻进我的鼻孔。他们在用一种迷香让那几个已经倒闭的老太太显出真身，然后，把真身上的鳞片一片片拔下来，末了再把背上的大筋也抽出来。刀子割肉的声音那么刺耳。
+我闭上了眼睛，老咸菜在我旁边，他在哭。这是我这辈子第一次见他哭。可是，我已经不能好好安慰一下他了。我只是艰难地伸出手，拍了拍他的手。
+不知道过了多久，我感觉到一股真气正在充入我的丹田。睁眼一看，是小多！他的双手，正在给我和老咸菜传输真气！
+小多带着一个巨大的倒吸葫芦，他说，里面是我们所有人的真气，可惜，已经被用掉了一半——我没问怎么用掉的。我一站起来，马上就开始给还活着的人传输真气。大家得到了真气，也都赶紧救身边的人。终于，我们这群奄奄一息的老头老太太，都彻底活过来了。
+我问小多：你救了我们，你们那个会长能饶了你？
+他说：其实他也没办法，你们闹得太厉害了……他后悔着呢……再说，我们俩从小玩到大，他不会把我怎么样的！
+小多驾着一朵高速云，不知道穿行了多少趟，才把所有人带回小龙渊。
+这事闹得太大，我们都说，上面这次肯定要砍那个杀千刀的小煞的头了。可是，过了半个多月，才贴出来一个告示，连姓名都没有提，只是说青年会在工作中存在简单粗暴的问题，希望“有则改之，无则加勉”！
+小多劝我：爷爷，别折腾了，你闹不过会长他们的。要不，你就试试装加速器吧！
+我说：休想！
+小多说：爷爷，我告诉你一个秘密，你千万不要说出去。再过几个月，没装加速器的人，都要被统一送到荒泽去。
+听到荒泽这两个字，我不禁打了个冷颤。
+过了几天，小多陪着我去做手术。可是，等从手术室出来，他人不见了。其实手术时间不长，跟小多说得一样，那个黑色片片也很轻，感觉不到重量。可我就是觉得，手术做完，我好像不是我自己了。
+做手术的时候，我做了一个梦，梦见了我早已故去的父亲。梦中我的尾巴变成了一个木头狼牙棒，一点儿知觉都没有。父亲看着那个狼牙棒，对我说：身体发肤，受之父母，你怎么能这么干？
+我哭道：我是走投无路了！
+回到家里休养了一个礼拜，小多一直没出现。不过，我也习惯了——这孩子总是满世界跑。我还在艰难地适应新速度。手术的大夫说：不要从心里排斥加速器，不然，它就不能完全听你的！
+那天，半夜，我听到门口传来轻轻的叩击声。我下了床，打开门，没人。正要关门，突然看到，地上似乎匍匐着一一滩什么。我再仔细一看——是小多！
+我连忙要扶起他，可是，他的身子好像没了骨头。我的手顺着他的脊椎一摸，顿时魂飞魄散——他被人抽了背上的大筋！
+我问他是谁干的，他闭上眼睛一言不发。
+小多撑了一个多礼拜才走，只是，他再也没有说过一句话。
+半年后，我考到了飞行执照。老咸菜已经死了，他在做手术的时候出了意外——或者是大限已至。也好，再没什么牵挂了。
+那天是小煞当选小龙渊龙主的日子，热闹极了。龙主这个位子，已经空缺了几百年了。以前的规矩是，必须是为小龙渊做出了特别大的贡献的人才能当选。年轻人们说，小煞让整个小龙渊改换了天地，这就是伟大的贡献。他们投票，他们游~街，于是，小龙渊又有了龙主。
+小煞在台上演讲，讲了好久。突然，演讲台着了火。混乱中，我在小煞的左后膝处刺了下去。小煞得罪的人不少，他早就隐藏了自己的脉门。可是，他忘记了，他跟小多，是在我们家玩大的，他的秘密，我都知道。
+小煞的真气疯狂地倾泻着。起风了，火势冲天，尖叫不绝于耳。我看着他倒在人群中，无数双脚在他身上踏过。我就那样看着他，直到他的真气散尽。然后，我用从凡人那里顺来的迷香，让他显出了真身。我再用从凡人那里顺来的手术刀片，割开了他的背脊，再斩断首尾的连接处。
+然后我的手探进去，捉到了他的大筋。湿~滑，充满年轻的弹性。
+我闭上眼睛，狠狠一拉。
+\n\n
+\n \n \n \n
+\n
+\n \n 系列文章：\n
+\n
+\n \n
+100个邪邪的小故事｜ 幸福了以后
+\n \n
+100个邪邪的小故事｜陈志杰的梦幻人生
+\n \n
+\n
+\n \n \n\n \n \n
+作者：\n \n
+\n \n \n
+红酥手贱
+\n \n \n
+\n \n \n\n \n
+栏目：\n
+\n 连载\n
+\n
+\n \n \n
+\n
+查看原文
+\n ©版权属于作者 商业转载联系作者\n
+\n \n
+\n\n","share_pic_url":"https://moment.douban.com/share_pic/post/180150.jpg","type":"1001","is_liked":false,"photos":[],"date":"2017-08-14","published_time":"2017-08-14 21:00:00","url":"https://moment.douban.com/post/180150/?douban_rec=1","author":{"is_followed":false,"uid":"cindereeeella","url":"https://www.douban.com/people/cindereeeella/","avatar":"https://img3.doubanio.com/icon/u38627532-20.jpg","name":"红酥手贱","is_special_user":false,"n_posts":0,"alt":"身体不适，暂时两天一更╥﹏╥","large_avatar":"https://img3.doubanio.com/icon/up38627532-20.jpg","id":"38627532","is_auth_author":false},"column":{"id":46,"icon":"https://img3.doubanio.com/f/presto/481f0f2cad43d53571870ec6d5b9327480a8ca04/images/column/column-46.png","description":"精彩内容，分批装载","name":"连载","post_total":393},"comments_count":5,"title":"100个邪邪的小故事｜飞行执照"},{"display_style":10003,"short_url":"https://dou.bz/2NPNgT","abstract":"白日梦先生的相册","app_css":7,"like_count":173,"thumbs":[{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/t126395.jpg","width":800,"height":543},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/t126395.jpg","width":800,"height":543},"tag_name":"img_1","small":{"url":"https://img3.doubanio.com/view/presto/small/public/t126395.jpg","width":320,"height":217},"id":126395},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/t126396.jpg","width":800,"height":543},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/t126396.jpg","width":800,"height":543},"tag_name":"img_2","small":{"url":"https://img3.doubanio.com/view/presto/small/public/t126396.jpg","width":320,"height":217},"id":126396},{"medium":{"url":"https://img1.doubanio.com/view/presto/medium/public/t126397.jpg","width":800,"height":543},"description":"","large":{"url":"https://img1.doubanio.com/view/presto/large/public/t126397.jpg","width":800,"height":543},"tag_name":"img_3","small":{"url":"https://img1.doubanio.com/view/presto/small/public/t126397.jpg","width":320,"height":217},"id":126397}],"created_time":"2017-08-08 14:21:10","id":180994,"is_editor_choice":false,"original_url":"https://www.douban.com/photos/album/111755330/","content":"
+\n \n
+\n 去远方\n
+\n \n
+迷踪西藏
+\n
+\n \n \n
+\n \n
+\n \n
+\n \n
+白日梦先生
+\n 的相册\n
+\n \n
+\n
+\n \n \n
+\n
+\n\n
+
+照片
+
+照片
+
+照片
+
+照片
+
+照片
+
+照片
+
+照片
+
+照片
+
+照片
+
+照片
+
+
+
+
+
+\n\n
+\n \n \n \n\n \n \n
+作者：\n \n
+\n \n \n
+白日梦先生
+\n \n \n
+\n \n \n\n \n
+栏目：\n
+\n 去远方\n
+\n
+\n \n \n
+\n
+查看原文
+\n ©版权属于作者 商业转载联系作者\n
+\n \n
+\n\n","share_pic_url":"https://moment.douban.com/share_pic/post/180994.jpg","type":"1004","is_liked":false,"photos":[{"medium":{"url":"https://img1.doubanio.com/view/presto/medium/public/622528.jpg","width":800,"height":543},"description":"照片","large":{"url":"https://img1.doubanio.com/view/presto/large/public/622528.jpg","width":800,"height":543},"tag_name":"img_1","small":{"url":"https://img1.doubanio.com/view/presto/small/public/622528.jpg","width":320,"height":217},"id":622528},{"medium":{"url":"https://img1.doubanio.com/view/presto/medium/public/622529.jpg","width":800,"height":543},"description":"照片","large":{"url":"https://img1.doubanio.com/view/presto/large/public/622529.jpg","width":800,"height":543},"tag_name":"img_2","small":{"url":"https://img1.doubanio.com/view/presto/small/public/622529.jpg","width":320,"height":217},"id":622529},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/622530.jpg","width":800,"height":543},"description":"照片","large":{"url":"https://img3.doubanio.com/view/presto/large/public/622530.jpg","width":800,"height":543},"tag_name":"img_3","small":{"url":"https://img3.doubanio.com/view/presto/small/public/622530.jpg","width":320,"height":217},"id":622530},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/622531.jpg","width":800,"height":543},"description":"照片","large":{"url":"https://img3.doubanio.com/view/presto/large/public/622531.jpg","width":800,"height":543},"tag_name":"img_4","small":{"url":"https://img3.doubanio.com/view/presto/small/public/622531.jpg","width":320,"height":217},"id":622531},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/622532.jpg","width":800,"height":543},"description":"照片","large":{"url":"https://img3.doubanio.com/view/presto/large/public/622532.jpg","width":800,"height":543},"tag_name":"img_5","small":{"url":"https://img3.doubanio.com/view/presto/small/public/622532.jpg","width":320,"height":217},"id":622532},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/622533.jpg","width":800,"height":543},"description":"照片","large":{"url":"https://img3.doubanio.com/view/presto/large/public/622533.jpg","width":800,"height":543},"tag_name":"img_6","small":{"url":"https://img3.doubanio.com/view/presto/small/public/622533.jpg","width":320,"height":217},"id":622533},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/622534.jpg","width":800,"height":543},"description":"照片","large":{"url":"https://img3.doubanio.com/view/presto/large/public/622534.jpg","width":800,"height":543},"tag_name":"img_7","small":{"url":"https://img3.doubanio.com/view/presto/small/public/622534.jpg","width":320,"height":217},"id":622534},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/622535.jpg","width":800,"height":543},"description":"照片","large":{"url":"https://img3.doubanio.com/view/presto/large/public/622535.jpg","width":800,"height":543},"tag_name":"img_8","small":{"url":"https://img3.doubanio.com/view/presto/small/public/622535.jpg","width":320,"height":217},"id":622535},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/622536.jpg","width":800,"height":543},"description":"照片","large":{"url":"https://img3.doubanio.com/view/presto/large/public/622536.jpg","width":800,"height":543},"tag_name":"img_9","small":{"url":"https://img3.doubanio.com/view/presto/small/public/622536.jpg","width":320,"height":217},"id":622536},{"medium":{"url":"https://img1.doubanio.com/view/presto/medium/public/622537.jpg","width":800,"height":543},"description":"照片","large":{"url":"https://img1.doubanio.com/view/presto/large/public/622537.jpg","width":800,"height":543},"tag_name":"img_10","small":{"url":"https://img1.doubanio.com/view/presto/small/public/622537.jpg","width":320,"height":217},"id":622537},{"medium":{"url":"https://img1.doubanio.com/view/presto/medium/public/622538.jpg","width":800,"height":543},"description":"","large":{"url":"https://img1.doubanio.com/view/presto/large/public/622538.jpg","width":800,"height":543},"tag_name":"img_11","small":{"url":"https://img1.doubanio.com/view/presto/small/public/622538.jpg","width":320,"height":217},"id":622538},{"medium":{"url":"https://img1.doubanio.com/view/presto/medium/public/622539.jpg","width":800,"height":543},"description":"","large":{"url":"https://img1.doubanio.com/view/presto/large/public/622539.jpg","width":800,"height":543},"tag_name":"img_12","small":{"url":"https://img1.doubanio.com/view/presto/small/public/622539.jpg","width":320,"height":217},"id":622539},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/622540.jpg","width":800,"height":543},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/622540.jpg","width":800,"height":543},"tag_name":"img_13","small":{"url":"https://img3.doubanio.com/view/presto/small/public/622540.jpg","width":320,"height":217},"id":622540},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/622541.jpg","width":800,"height":543},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/622541.jpg","width":800,"height":543},"tag_name":"img_14","small":{"url":"https://img3.doubanio.com/view/presto/small/public/622541.jpg","width":320,"height":217},"id":622541},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/622542.jpg","width":800,"height":543},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/622542.jpg","width":800,"height":543},"tag_name":"img_15","small":{"url":"https://img3.doubanio.com/view/presto/small/public/622542.jpg","width":320,"height":217},"id":622542}],"date":"2017-08-14","published_time":"2017-08-14 19:00:00","url":"https://moment.douban.com/post/180994/?douban_rec=1","author":{"is_followed":false,"uid":"1982059","url":"https://www.douban.com/people/1982059/","avatar":"https://img3.doubanio.com/icon/u1982059-12.jpg","name":"白日梦先生","is_special_user":false,"n_posts":0,"alt":"一切随缘","large_avatar":"https://img3.doubanio.com/icon/up1982059-12.jpg","id":"1982059","is_auth_author":false},"column":{"id":40,"icon":"https://img3.doubanio.com/f/presto/e61f6c7da9d418c0c5cb4c3debe400b3e25804c8/images/column/column-40.png","description":"旅行见闻，带你看远处风景","name":"去远方","post_total":1938},"comments_count":7,"title":"迷踪西藏"},{"display_style":10002,"short_url":"https://dou.bz/23T7Xu","abstract":"太无序，太杂乱了。然而还是忍不住原谅他，然后爱上他。秩序混乱又有奇妙运行法则的印度，所有的生物都能找到自己的生存模式。","app_css":7,"like_count":103,"thumbs":[{"medium":{"url":"https://img1.doubanio.com/view/presto/medium/public/t126378.jpg","width":640,"height":360},"description":"","large":{"url":"https://img1.doubanio.com/view/presto/large/public/t126378.jpg","width":640,"height":360},"tag_name":"img_1","small":{"url":"https://img1.doubanio.com/view/presto/small/public/t126378.jpg","width":320,"height":180},"id":126378}],"created_time":"2017-07-10 10:25:05","id":178025,"is_editor_choice":false,"original_url":"https://www.douban.com/note/627907042/","content":"
+\n \n
+\n 去远方\n
+\n \n
+这里可是印度啊！先认输然后你就会爱上他
+\n
+\n \n \n
+\n \n
+\n \n
+\n \n
+旅人說
+\n 的日记\n
+\n \n
+\n
+\n \n \n
+\n
+\n\n
+
+我的印度之行是从后半程才开始渐入佳境。说是后半程，再准确一点，其实是准备从最后一站斋普尔返程回国。
+总之还是先从头说起。
+
+《
+涉外大饭店
+》这部电影，是让我下定决心一定要来印度的原因。除了老人家不管人生走到几岁仍然要潇洒过活这个点完全击中心脏，更因为电影是发生在让人又爱又恨的这个国度。而最后证明，北印最喜欢的城市，就在斋普尔。
+经历了新德里的酷热与被路人要求合照过分的热情，经历了阿格拉漫天弥散着垃圾焚烧气味和随之而来的发烧，似乎真的验证了那句话——“凡事到最后必然皆大欢喜。如果没有皆大欢喜，那就是还没到最后”。
+
+琥珀堡
+再华丽的宫殿
+也比不上街头贫穷的自由
+从老城区粉红的门楼和城墙穿城而过，探头张望，原应熙来攘往的宝石市场冷清得很，大多数店铺还关闭着，听说中午十一点左右才是开门营业的时候。
+身穿纱丽头顶水罐的女郎，脚步覆在牛车过后留下的湿辙印上，还不待人细看，婀娜多姿的身影便消失在粉红巷子深处。
+
+或许是额头的热度消退，街边踱步自若清瘦的牛看着也变得和蔼可亲起来。也或许是空气里混合着金盏花若有似无的清新花香和久违的湿润，饱受挑战的鼻黏膜终于不必忧心在炎热干燥的四十度高温里随时脆弱地淌出鼻血。
+
+前往琥珀堡。这座莫卧儿王朝时代沿山脊而建的巍峨城堡，甚至不是印度皇帝的行宫，只是藩王的住所，仍然因为曼妙的拱顶、玲珑的塔楼、繁复到不可思议的花纹雕刻著称，只一瞥就可以遥想当年王朝盛况。
+来到山脚，被无奈地堵在了杂乱无章的集市街头，墙面刷了一排显眼的禁止停靠的标志，前面还是横七竖八停满了摩托车，颇有一点黑色幽默。然后在这黑色幽默中我第一次近距离地看到了金盏花的小摊。
+
+这赶早的花摊遗世独立，妇人旁若无人地拾掇她的花串。嘈杂的路况似乎与她无关，她只关心巍峨琥珀堡下自己的小小生计。一字排开的花串，有美艳的金盏花和清丽的茉莉，用棉线串连出长长的花串。大鸣大放，大俗大雅，印度似乎天生就是矛盾的集合体，不可思议又合理至极。
+哪怕是这样一位街头的妇人，也充满了日常的奇妙感。
+
+上到琥珀堡的时候，倒是被里头的热闹吓了一跳。广阔的前庭拉起了喜庆艳丽的巨大帷幕，男人们脱去了鞋子和皮带，喧嚣着拥成一团从另一个斜坡往宫殿里跑。男孩们扯着各色的旗帜在庭院里比划挥舞，而穿戴着各色纱丽的女人，娇媚地点着眉心一点红，在幕布下安安静静地排着队，似乎是某个隆重的庆典。只是后来翻查资料，却无论如何找不到相关的只言片语，实在有些不解。
+
+向宫殿深处进发，最著名的莫过于镜宫。墙上华丽密集的卷草花纹图案上镶嵌着无数拇指大小的水银镜片和宝石，据说在夜里点燃蜡烛，挂上帘幕，烛光映照四壁折射，寝宫内就成了渺无边际、斗转星移的苍穹。而整座宫殿似巨大的迷宫，通过十二道独立楼梯能通往当年十二位妃子的房间，各位王妃居室被隔断，唯有受到临幸的妃子才得见王公。
+
+在迷雾一样曲折的黑暗廊道里穿梭，走出城堡外抬头仰望，湛蓝的天被庭院内四四方方高耸的宫墙切割成方正的形状。我忽然有点迫切地想离开这里，那些繁密逼人的美丽花纹，那些优美曼妙的玲珑穹顶让人无法呼吸，对于曾生活于此的人而言，再华丽也不过是一座牢笼。
+超现实的天文台
+印度人的美学超越宗教
+时至中午，温度又开始慢慢攀升至让人无法忍耐的四十度以上。好心的司机在我们下车前提醒了一句注意防晒，当我步入简塔曼塔天文台时，仍然感觉眼前一黑。这可是一片宽阔而毫无遮挡的空地啊！
+默念着熬过这一关就去看电影，咬咬牙，走近了天文台里的建筑。简塔·曼塔是印度三座古天文台里保存最完好的一座，至今甚至仍然能为天文学家所用。而Janta Manta的名字本身，在印度语中就意为计量仪。
+
+空旷的场地里，散落着二十多座造型前卫的砖砌建筑，一不留神仿佛在参观某些后现代主义流派建筑群，显然它与印象中的所有天文台都毫不相似。我把自己尽可能缩小成任何能被仪器阴影遮挡住的形状，奄奄一息地偷听往来的导游讲解。
+然而听着听着，被高温晒得云里雾里的脑袋却神思清明起来。每一座建筑，原来都是一个巨大的仪器。日晷、星座仪、子午线仪、黄道仪和天体经纬仪，古印度人就是利用它们的日照和建筑投影，来推算时间，测量宇宙星体的位置，甚至修正历法和预测日食月食。
+
+渐渐有个奇妙的想法生发出来。印度的建筑几乎都具有某种不可思议的瞻前性，这超脱于现实主义的魔幻美学，难道不是某种近于神迹的朴素哲学吗。
+以月亮水井为例，这同样坐落于拉贾斯坦邦的神秘建筑，放眼望去像是某座古老神秘的地底宫殿。但其实它只是一口千年的人造阶梯井，供附近的人们四季取水。
+
+然而，这座深至地底30米，由3500个极致对称的阶梯构成的水井，从地面最宽处向下收束，仿佛倒三角的金字体，精细得令人惊叹。同时也正是因为这个特殊的设计，才令珍贵的雨水能够存储供给使用。
+
+而那些极端对称而繁复的美学构造，通过精细曲直的线条，丰富多样的结构，硬是将实用的建筑本身升华成了空间的艺术品，甚至无法言明真相，却因为无限接近神秘而成为一个感叹号。在那些曲廊之间，在那些被穹顶和雕花切割的空间面前，一定有一些接近科学和真相的道理。
+而这些设计，究竟是科学凌驾于美学，还是美学凌驾于科学，就不得而知了。或许只有曾听说的一句哲言能解释这一切，“当科学攀登至顶峰时，哲学早就在此恭候了”。
+斋普尔的最后一夜
+印度我还会再来的
+斋普尔的最后一夜，街头车水马龙中如入无人之境的突突车，飞速刮过身旁掀起一阵尾气和街道的尘霾。我们才从Noris ——被时代杂志亚洲刊评选为《2012印度最佳中国菜餐厅》的印度餐厅（啥？）——摸着滚圆肚皮心满意足地终于吃上一顿饱饭，出门就义无反顾地大头冲外向马路对面号称印度最最好喝最最正宗的Lassi酸奶店进发。
+
+后来，我们很遗憾地发现，自己在左右并排两间看起来非常相似的酸奶店里，选中了山寨一家。墨菲定律么，不管A面B面，只要落地的总是涂着黄油的一面。不过没关系，第二天一大早冒着误车的风险，我们又去尝了尝正宗的那一家。正牌Lassi，请认准“LASSIWALA KISHAN LAL GOVIND NARIAN AGARWAL”——这么长的店名，认得准才怪。
+
+不过别担心。要如何在一整条街道都整整齐齐地号称自家是Lassi Wala的店铺里找到这一家呢，只要找到标记着“shop 312”和“since 1944”那间就对了。
+
+距离发车倒数三分钟，我和同行的姑娘稳稳当当地坐在了冷气十足的大巴车上，一公斤的大吉岭特等红茶、印度手工银饰首饰若干、印度本地“大宝”喜马拉雅护肤品若干袋，满载而归向机场出发。
+思及令人回味无穷的Lassi，只遗憾不能再借两只手好打包十杯。姑娘十分实诚地问了一句，酸奶确实挺好喝的，只是和昨晚喝的有分别吗。
+
+我想起叶酱写过的印度系列里面，关于斋普尔的Lassi，她说，“（不知是不是）被正牌冒牌货一起愉快共事的商业模式感动，我一厢情愿地认为这杯酸奶是整趟一个月印度之旅中最好喝的。” 我忽然觉得，这可再正确不过了。
+大巴开往机场的路上，脑海里回闪过印度一路上遇见的人事，想起了在天文台遇见的小男孩。
+
+他大概是近十年我所遇到过最可爱的小男孩，带着纯真的好奇和热情，带有不疑会被拒绝的直爽，和一点点的羞涩，用小手比划着想要我用相机拍他。得到应承后乖乖跑到四五步外背手站好，羞涩地露出小小的笑容。
+我在相机后头忍不住微笑，对他说，big smile，然后他就笑得更开心一些。这一刻，印度至少四十度的天气，都变得很像手里雪碧瓶身清凉的水汽，宜人得很。尽管在简塔曼塔天文台被晒得两眼直冒金星，还是觉得暂时可以原谅这个国家酷热的杀人高温。
+
+而这也正是我对印度的感觉。太无序，太杂乱了。然而还是忍不住原谅他，然后爱上他。秩序混乱又有奇妙运行法则的印度，所有的生物都能在这里，找到自己生存模式的出路。
+他是女孩们穿戴上有整个宇宙色彩的艳丽纱丽和手工镶嵌着黄金、珐琅、宝石的昆丹珠宝。他是风之宫殿、月亮水井、泰姬陵、简塔曼塔天文台接近数字真理和美学极限的绝对对称和极致。他是大巴车顶能容得下全副家当、突突车在车流里横冲直撞、火车延误永不可预期的喧闹嘈杂。
+但那又怎么样呢，这全部加起来，才是印度啊。
+
+【多图原文戳这里】这里可是印度啊！先认输然后你就会爱上他
+欢迎关注我的公众号：旅人說
+公众号ID：travelwonderland
+\n\n
+\n \n \n \n\n \n \n
+作者：\n \n
+\n \n \n
+旅人說
+\n \n \n
+\n \n \n\n \n
+栏目：\n
+\n 去远方\n
+\n
+\n \n \n
+\n
+查看原文
+\n ©版权属于作者 商业转载联系作者\n
+\n \n
+\n\n","share_pic_url":"https://moment.douban.com/share_pic/post/178025.jpg","type":"1001","is_liked":false,"photos":[{"medium":{"url":"https://img1.doubanio.com/view/presto/medium/public/605417.jpg","width":640,"height":360},"description":"","large":{"url":"https://img1.doubanio.com/view/presto/large/public/605417.jpg","width":640,"height":360},"tag_name":"img_1","small":{"url":"https://img1.doubanio.com/view/presto/small/public/605417.jpg","width":320,"height":180},"id":605417},{"medium":{"url":"https://img1.doubanio.com/view/presto/medium/public/605419.jpg","width":640,"height":360},"description":"","large":{"url":"https://img1.doubanio.com/view/presto/large/public/605419.jpg","width":640,"height":360},"tag_name":"img_3","small":{"url":"https://img1.doubanio.com/view/presto/small/public/605419.jpg","width":320,"height":180},"id":605419},{"medium":{"url":"https://img1.doubanio.com/view/presto/medium/public/605418.jpg","width":640,"height":480},"description":"","large":{"url":"https://img1.doubanio.com/view/presto/large/public/605418.jpg","width":640,"height":480},"tag_name":"img_2","small":{"url":"https://img1.doubanio.com/view/presto/small/public/605418.jpg","width":320,"height":240},"id":605418},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/605420.jpg","width":640,"height":360},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/605420.jpg","width":640,"height":360},"tag_name":"img_4","small":{"url":"https://img3.doubanio.com/view/presto/small/public/605420.jpg","width":320,"height":180},"id":605420},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/605421.jpg","width":640,"height":360},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/605421.jpg","width":640,"height":360},"tag_name":"img_5","small":{"url":"https://img3.doubanio.com/view/presto/small/public/605421.jpg","width":320,"height":180},"id":605421},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/605422.jpg","width":640,"height":360},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/605422.jpg","width":640,"height":360},"tag_name":"img_6","small":{"url":"https://img3.doubanio.com/view/presto/small/public/605422.jpg","width":320,"height":180},"id":605422},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/605423.jpg","width":640,"height":360},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/605423.jpg","width":640,"height":360},"tag_name":"img_7","small":{"url":"https://img3.doubanio.com/view/presto/small/public/605423.jpg","width":320,"height":180},"id":605423},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/605425.jpg","width":640,"height":360},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/605425.jpg","width":640,"height":360},"tag_name":"img_9","small":{"url":"https://img3.doubanio.com/view/presto/small/public/605425.jpg","width":320,"height":180},"id":605425},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/605424.jpg","width":640,"height":360},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/605424.jpg","width":640,"height":360},"tag_name":"img_8","small":{"url":"https://img3.doubanio.com/view/presto/small/public/605424.jpg","width":320,"height":180},"id":605424},{"medium":{"url":"https://img1.doubanio.com/view/presto/medium/public/605427.jpg","width":640,"height":480},"description":"","large":{"url":"https://img1.doubanio.com/view/presto/large/public/605427.jpg","width":640,"height":480},"tag_name":"img_11","small":{"url":"https://img1.doubanio.com/view/presto/small/public/605427.jpg","width":320,"height":240},"id":605427},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/605426.jpg","width":640,"height":360},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/605426.jpg","width":640,"height":360},"tag_name":"img_10","small":{"url":"https://img3.doubanio.com/view/presto/small/public/605426.jpg","width":320,"height":180},"id":605426},{"medium":{"url":"https://img1.doubanio.com/view/presto/medium/public/605428.jpg","width":640,"height":360},"description":"","large":{"url":"https://img1.doubanio.com/view/presto/large/public/605428.jpg","width":640,"height":360},"tag_name":"img_12","small":{"url":"https://img1.doubanio.com/view/presto/small/public/605428.jpg","width":320,"height":180},"id":605428},{"medium":{"url":"https://img1.doubanio.com/view/presto/medium/public/605429.jpg","width":640,"height":360},"description":"","large":{"url":"https://img1.doubanio.com/view/presto/large/public/605429.jpg","width":640,"height":360},"tag_name":"img_13","small":{"url":"https://img1.doubanio.com/view/presto/small/public/605429.jpg","width":320,"height":180},"id":605429},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/605430.jpg","width":640,"height":360},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/605430.jpg","width":640,"height":360},"tag_name":"img_14","small":{"url":"https://img3.doubanio.com/view/presto/small/public/605430.jpg","width":320,"height":180},"id":605430},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/605431.jpg","width":640,"height":360},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/605431.jpg","width":640,"height":360},"tag_name":"img_15","small":{"url":"https://img3.doubanio.com/view/presto/small/public/605431.jpg","width":320,"height":180},"id":605431},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/605433.jpg","width":640,"height":480},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/605433.jpg","width":640,"height":480},"tag_name":"img_17","small":{"url":"https://img3.doubanio.com/view/presto/small/public/605433.jpg","width":320,"height":240},"id":605433},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/605432.jpg","width":640,"height":360},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/605432.jpg","width":640,"height":360},"tag_name":"img_16","small":{"url":"https://img3.doubanio.com/view/presto/small/public/605432.jpg","width":320,"height":180},"id":605432},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/605435.jpg","width":640,"height":640},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/605435.jpg","width":640,"height":640},"tag_name":"img_19","small":{"url":"https://img3.doubanio.com/view/presto/small/public/605435.jpg","width":320,"height":320},"id":605435},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/605434.jpg","width":640,"height":640},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/605434.jpg","width":640,"height":640},"tag_name":"img_18","small":{"url":"https://img3.doubanio.com/view/presto/small/public/605434.jpg","width":320,"height":320},"id":605434},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/605436.jpg","width":640,"height":191},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/605436.jpg","width":640,"height":191},"tag_name":"img_20","small":{"url":"https://img3.doubanio.com/view/presto/small/public/605436.jpg","width":320,"height":95},"id":605436}],"date":"2017-08-14","published_time":"2017-08-14 17:00:00","url":"https://moment.douban.com/post/178025/?douban_rec=1","author":{"is_followed":false,"uid":"121888343","url":"https://www.douban.com/people/121888343/","avatar":"https://img3.doubanio.com/icon/u121888343-2.jpg","name":"旅人說","is_special_user":false,"n_posts":0,"alt":"世界終須自己看","large_avatar":"https://img3.doubanio.com/icon/up121888343-2.jpg","id":"121888343","is_auth_author":false},"column":{"id":40,"icon":"https://img3.doubanio.com/f/presto/e61f6c7da9d418c0c5cb4c3debe400b3e25804c8/images/column/column-40.png","description":"旅行见闻，带你看远处风景","name":"去远方","post_total":1938},"comments_count":14,"title":"这里可是印度啊！先认输然后你就会爱上他"},{"display_style":10002,"short_url":"https://dou.bz/3Upugg","abstract":"一本正经的假装自己会做衣服，有模有样的画起了图纸~这让想起了小学时候给盗版的芭比娃娃做衣服的情景……","app_css":7,"like_count":171,"thumbs":[{"medium":{"url":"https://img1.doubanio.com/view/presto/medium/public/t126377.jpg","width":960,"height":960},"description":"","large":{"url":"https://img1.doubanio.com/view/presto/large/public/t126377.jpg","width":1600,"height":1600},"tag_name":"img_1","small":{"url":"https://img1.doubanio.com/view/presto/small/public/t126377.jpg","width":320,"height":320},"id":126377}],"created_time":"2017-07-25 23:32:59","id":179669,"is_editor_choice":false,"original_url":"https://www.douban.com/note/630076427/","content":"
+\n \n
+\n 生活家\n
+\n \n
+多图｜原来你是这么可爱的小兔纸！（附羊毛毡手作过程）
+\n
+\n \n \n
+\n \n
+\n \n
+\n \n
+藏木Qinni
+\n 的日记\n
+\n \n
+\n
+\n \n \n
+\n
+\n\n
+
+哈啰，我是藏木，是枚小小插画师，对于关注过我的朋友来说，肯定知道我之前养了一只心爱的小母兔“八子”，照片里像小奶猪一样的就是她啦~
+虽然wuli可爱的小八八在去年变成了萤火虫，但我还是依旧用各种创作形式来怀念她，最近我尝试了制作一个人形的八子羊毛毡玩偶~
+所以接下来我要和大家分享的就是这个羊毛毡玩偶的制作过程啦~！（要进入正题了(〃'▽'〃)）
+
+首先戳出一个兔头来~主要就是利用戳针使羊毛条毡化、定形，这个过程不难，就是特别花时间，一点一点的调整细节。
+
+接下来就是做身体了，我希望最终的偶是可以动的，所以就哀求玄先森帮忙用铁丝做了个简易骨架。中间灰色橡皮泥样的东东叫做“速成钢”，刚使用的时候是软趴趴的，等干了后就会变得特别硬，主要是用来加固骨架中心躯干的部位。（要不然铁丝拼接的部位会滑动￣ω￣=略有些尴尬...）
+为了让小兔兔站稳，其实在骨架的背后还多加了一根支柱，有点像三脚架那样~拍照的时候调整好角度就看不到后面的那根支架啦~~
+
+接下来用羊毛包裹住身体，这个时候就可以掰动四肢，做出一些简单萌萌哒的动作~
+没有穿衣服是不是感觉有点羞羞哒~哈哈，所以接下来就给小兔兔做衣服咯~
+
+
+一本正经的假装自己会做衣服，有模有样的画起了图纸~这让想起了小学时候给盗版的芭比娃娃做衣服的情景...
+原本设想的是白色的棉质上衣+粉色格子裙，但穿上去后被玄先森嫌弃“像条围裙”。
+
+然后我换了条小碎花的裙子，然鹅依旧被玄先森嫌弃为“土气”，感觉小八子都有那么一丢丢不开心了╮(╯-╰）╭
+所以为了拍出下面这组写真是多么不容易，让我们来静静地看图吧~
+
+
+
+
+
+
+
+
+最后来一张八子与 玄先森手部的合照，拍照用的美能达700相机+柯达胶卷，这就是我第一次做全身的羊毛毡玩偶的过程啦~小小纪念下：）
+因为木木平时也偶尔做做羊毛毡，所以家里有现成的“美丽奴”羊毛条+戳针+泡沫垫，这三样是必备的材料和工具哦（某宝上都有卖）~
+另外我还买了一对黑眼豆豆，用来做小兔兔的眼睛~没有材料的朋友可以先开启买买买的节奏￣ω￣=
+
+2017.29-30这两天藏木会参加深圳梧桐岛的“夏添市集”，到时候会把小八子的玩偶一起带去哦，欢迎豆瓣同城的小伙伴来一起合照~~
+市集的时间为 10:00-17：00 ，百度地图搜索“梧桐岛”即可找到位置，在深圳市宝安区航空路与顺昌路交叉口，地铁1号线“固戍”站D口出，直行再左转（步行约1000米）的样子。
+
+
+
+♥ see you ♥
+———
+A B O U T 藏木Qinni
+一枚小小插画师
+在这里和你分享 插画 手作 和 生活
+在自己渺小而微不足道的生命里
+努力做一枚人生体验者。
+手作小店：zangmu.taobao.com
+\n\n
+\n \n \n \n\n \n \n
+作者：\n \n
+\n \n \n
+藏木Qinni
+\n \n \n
+\n \n \n\n \n
+栏目：\n
+\n 生活家\n
+\n
+\n \n \n
+\n
+查看原文
+\n ©版权属于作者 商业转载联系作者\n
+\n \n
+\n\n","share_pic_url":"https://moment.douban.com/share_pic/post/179669.jpg","type":"1001","is_liked":false,"photos":[{"medium":{"url":"https://img1.doubanio.com/view/presto/medium/public/614577.jpg","width":960,"height":642},"description":"","large":{"url":"https://img1.doubanio.com/view/presto/large/public/614577.jpg","width":1200,"height":803},"tag_name":"img_20","small":{"url":"https://img1.doubanio.com/view/presto/small/public/614577.jpg","width":320,"height":214},"id":614577},{"medium":{"url":"https://img1.doubanio.com/view/presto/medium/public/614578.jpg","width":960,"height":637},"description":"","large":{"url":"https://img1.doubanio.com/view/presto/large/public/614578.jpg","width":1280,"height":850},"tag_name":"img_21","small":{"url":"https://img1.doubanio.com/view/presto/small/public/614578.jpg","width":320,"height":212},"id":614578},{"medium":{"url":"https://img1.doubanio.com/view/presto/medium/public/614579.jpg","width":960,"height":1280},"description":"","large":{"url":"https://img1.doubanio.com/view/presto/large/public/614579.jpg","width":1200,"height":1600},"tag_name":"img_22","small":{"url":"https://img1.doubanio.com/view/presto/small/public/614579.jpg","width":320,"height":426},"id":614579},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/614580.jpg","width":960,"height":1280},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/614580.jpg","width":960,"height":1280},"tag_name":"img_23","small":{"url":"https://img3.doubanio.com/view/presto/small/public/614580.jpg","width":320,"height":426},"id":614580},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/614581.jpg","width":960,"height":720},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/614581.jpg","width":1200,"height":900},"tag_name":"img_24","small":{"url":"https://img3.doubanio.com/view/presto/small/public/614581.jpg","width":320,"height":240},"id":614581},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/614582.jpg","width":960,"height":720},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/614582.jpg","width":1200,"height":900},"tag_name":"img_25","small":{"url":"https://img3.doubanio.com/view/presto/small/public/614582.jpg","width":320,"height":240},"id":614582},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/614583.jpg","width":960,"height":1344},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/614583.jpg","width":1000,"height":1400},"tag_name":"img_26","small":{"url":"https://img3.doubanio.com/view/presto/small/public/614583.jpg","width":320,"height":448},"id":614583},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/614584.jpg","width":960,"height":640},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/614584.jpg","width":1200,"height":800},"tag_name":"img_27","small":{"url":"https://img3.doubanio.com/view/presto/small/public/614584.jpg","width":320,"height":213},"id":614584},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/614585.jpg","width":960,"height":640},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/614585.jpg","width":1200,"height":800},"tag_name":"img_28","small":{"url":"https://img3.doubanio.com/view/presto/small/public/614585.jpg","width":320,"height":213},"id":614585},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/614586.jpg","width":960,"height":640},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/614586.jpg","width":1200,"height":800},"tag_name":"img_29","small":{"url":"https://img3.doubanio.com/view/presto/small/public/614586.jpg","width":320,"height":213},"id":614586},{"medium":{"url":"https://img1.doubanio.com/view/presto/medium/public/614587.jpg","width":960,"height":640},"description":"","large":{"url":"https://img1.doubanio.com/view/presto/large/public/614587.jpg","width":1200,"height":800},"tag_name":"img_30","small":{"url":"https://img1.doubanio.com/view/presto/small/public/614587.jpg","width":320,"height":213},"id":614587},{"medium":{"url":"https://img1.doubanio.com/view/presto/medium/public/614588.jpg","width":960,"height":640},"description":"","large":{"url":"https://img1.doubanio.com/view/presto/large/public/614588.jpg","width":1200,"height":800},"tag_name":"img_31","small":{"url":"https://img1.doubanio.com/view/presto/small/public/614588.jpg","width":320,"height":213},"id":614588},{"medium":{"url":"https://img1.doubanio.com/view/presto/medium/public/614589.jpg","width":960,"height":640},"description":"","large":{"url":"https://img1.doubanio.com/view/presto/large/public/614589.jpg","width":1200,"height":800},"tag_name":"img_32","small":{"url":"https://img1.doubanio.com/view/presto/small/public/614589.jpg","width":320,"height":213},"id":614589},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/614590.jpg","width":960,"height":640},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/614590.jpg","width":1200,"height":800},"tag_name":"img_33","small":{"url":"https://img3.doubanio.com/view/presto/small/public/614590.jpg","width":320,"height":213},"id":614590},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/614591.jpg","width":960,"height":960},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/614591.jpg","width":1200,"height":1200},"tag_name":"img_34","small":{"url":"https://img3.doubanio.com/view/presto/small/public/614591.jpg","width":320,"height":320},"id":614591},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/614592.jpg","width":960,"height":720},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/614592.jpg","width":1200,"height":900},"tag_name":"img_35","small":{"url":"https://img3.doubanio.com/view/presto/small/public/614592.jpg","width":320,"height":240},"id":614592},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/614593.jpg","width":960,"height":720},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/614593.jpg","width":1200,"height":900},"tag_name":"img_36","small":{"url":"https://img3.doubanio.com/view/presto/small/public/614593.jpg","width":320,"height":240},"id":614593},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/614594.jpg","width":960,"height":720},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/614594.jpg","width":1200,"height":900},"tag_name":"img_37","small":{"url":"https://img3.doubanio.com/view/presto/small/public/614594.jpg","width":320,"height":240},"id":614594},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/614595.jpg","width":960,"height":720},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/614595.jpg","width":1200,"height":901},"tag_name":"img_38","small":{"url":"https://img3.doubanio.com/view/presto/small/public/614595.jpg","width":320,"height":240},"id":614595}],"date":"2017-08-14","published_time":"2017-08-14 16:00:00","url":"https://moment.douban.com/post/179669/?douban_rec=1","author":{"is_followed":false,"uid":"tuopu_youth","url":"https://www.douban.com/people/tuopu_youth/","avatar":"https://img3.doubanio.com/icon/u3022531-13.jpg","name":"藏木Qinni","is_special_user":false,"n_posts":0,"alt":"小小插画师","large_avatar":"https://img3.doubanio.com/icon/up3022531-13.jpg","id":"3022531","is_auth_author":false},"column":{"id":54,"icon":"https://img3.doubanio.com/f/presto/90b1d55371b6ce186a140bcdf6a4abcb6581bbdc/images/column/column-54.png","description":"你可以过得更精致","name":"生活家","post_total":316},"comments_count":6,"title":"多图｜原来你是这么可爱的小兔纸！（附羊毛毡手作过程）"},{"display_style":10002,"short_url":"https://dou.bz/0t6eE2","abstract":"坐港岛线，去了在终点站柴湾的神州书店，它是孔夫子旧书网上唯一的香港书店，而近四百平方米的书店实际库存更像个中型图书馆。","app_css":7,"like_count":92,"thumbs":[{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/t126376.jpg","width":750,"height":1000},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/t126376.jpg","width":750,"height":1000},"tag_name":"img_1","small":{"url":"https://img3.doubanio.com/view/presto/small/public/t126376.jpg","width":320,"height":426},"id":126376}],"created_time":"2017-08-01 10:34:48","id":180318,"is_editor_choice":false,"original_url":"https://www.douban.com/note/631242122/","content":"
+\n \n
+香港书展及其以外的书店风景
+\n
+\n \n \n
+\n \n
+\n \n
+\n \n
+阿布
+\n 的日记\n
+\n \n
+\n
+\n \n \n
+\n
+\n\n
+我本来不想去今年的香港书展，因为自从2009年起已经去过五次，心态从最初的兴奋逐渐恢复平静，何况那些年在广州工作可以当天往返两地，而自从去年起我已离香港有两千里之遥。
+
+《最后的天朝》沈志华签名本
+但今年我还是去了，一来有书友初访香港希望我带路；二来在开幕前一周传出消息，一批好书即将在香港书展首发，特别是著名冷战史学者、档案解密大家
+沈志华
+先生《
+最后的天朝
+》在日文版、韩文版相继出版后，终于由香港中文大学出版社推出了简体中文版，沈先生在书展前一天在香港中文大学还有一个讲座，可惜我行程已定来不及更改，不过好在我和书友在书展第一天请他为新书签了名。沈先生在后记中说，本书的研究缘于2009年，当时中国有关部门找他梳理朝鲜战争以来的中朝关系史，他于2011年提交了15万字的研究报告；在课题结项时，他发现国家有关职能部门的多数朝鲜问题专家，对中朝关系史的很多基本史实竟也知之甚少，于是决定从学术研究的角度写一部现代中朝关系史。在书展签售会上，沈先生回答我的提问时说，希望这本书也能在中国内地出版。
+
+秘鲁摊位售卖“世界上最小的书”
+除了签售会和讲座，香港书展并不比一般香港书店多些什么。以折扣为例，旺角西洋菜南街的楼上书店一般是港版书八折、台版书七折，这个力度基本就是书展全场的折扣。但因为占香港出版市场大头的连锁书店如香港三联书店、中华书局及商务印书馆等平时对非会员不打折，所以书展期间的折扣对平时不怎么买书的市民来说非常优惠，何况这些连锁书店还会视情况（如7月23日受台风影响书展闭馆到下午才开）在八折基础上再减价促销，特别是香港家长会购买大量教辅及儿童图书给子女在暑期充电。但对于初次去的书迷来说，香港书展仍不失为一个开阔眼界的地方，特别是去过同样在酷暑举办的上海书展、广东南国书香节的人，会佩服香港书展在场地设置、人员分流等方面的有序安排，更不用提书种的多元丰富程度了。
+
+
+关于台湾书店的3本书
+
+《开店指难》，可能并不适用于大陆
+这次香港书展我连续三天到场，前两天主要是为了签名书，第三天是凭第二天的票根于下午五时后免费入场并带书友逛了逛。三楼的台湾独立书店协会展区布置得大方又精致，众多独立书店及出版社都亮出了自己的代表作，特别是在展区一角陈列了近十本关于台湾书店的书及杂志，其中《
+书丛中的微光
+》等三本我在台北买过，这次替一位上海书友各收了一本，我自己则买了本小巧如字典的《开店指难》，引得同行书友以为我要回去开书店。
+
+本书收录香港旧书店群像
+另外值得一提的是买了本《
+香港旧书店地图
+》，封面是请日本画家山口洁子画的香港旧书店招牌群像，颇有韵味。相比去年的《
+书店日常：香港独立书店在地行旅
+》，这本书只访旧书店，而且由于作者是财经记者出身，比较重视旧书店的经营之道，他发现访谈的15家旧书店除了两家亏损外，其他都能收支平衡甚至颇有盈利。而这15家书店中，我去过8家；此次香港之行，又有新发现，试述如下：
+
+任性的学津书店每天只营业4个小时
+我这次先后带了三名分别来自江苏、安徽和深圳的书友逛香港书店，有些店去了两次。访书行程沿香港地铁由北而南或反向展开，第一站是太子附近的我的书房，它在荃湾时我就去过一次，那时位于一座购物中心的顶层，上万本书堆得像杂货仓库，要在其间寻宝要多费点力气，我买到过颇为罕见的揭秘港英时期香港警察最神秘部门的《
+政治部回忆录
+》。现址临街分上下两层，不但面积大增，而且分门别类方便找书，室内空调也开得够凉爽；不过，由于全店只有一名80后店主打理（偶尔会见他父母来帮忙），图书分类及上架仍不够完善；但店主几乎每天都会在Facebook 上传收的新书照片，香港本地书迷可即时请他留书。所以，店门未开时已有好几人包括我和俩书友在等候，平均同时在店内流连的感觉有近十人。一楼并不排斥流行畅销书，但仍有英文、中国古代史、哲学等专架颇吸引人，二楼则以文史哲为主，价格则相当便宜，我这次去买了四本书一共才一百港元，包括港版《金庸与报业》，内容比台版和简体版都要丰富不少。
+接着去的是号称旺角书店街的西洋菜南街，虽然有几家已结业但仍然颇有人气。乐文书店的台版书颇成规模，但有时折扣不及旁边的田园书屋优惠。梅馨书舍虽然我第一次去香港时就逛过，但我嫌它大陆书多过港台书，后来只去过一次。这次做“带路党”进去纯粹是杀时间，因为它楼上的序言书室下午两点才开，没想到闲翻那几套并不齐全的金庸武侠小说《
+倚天屠龙记
+》和《
+鹿鼎记
+》（香港明河社版），发现它们有内地版所无的古书及古迹插图，足见金庸之博学，简体版舍弃未免太可惜了。
+序言书室在我看来是以贩卖西方左派学术书为特色的书店，不过有些个人独立出版物唯有此处才可找到，我就发现一本
+许鞍华
+电影《千言万语》男主角原型吴仲贤文集《大志未竟》，我几年前在香港一流动摊位原价购得此书，此店物以稀为贵，售价是我那本的五倍多。
+而在这条街上最大的惊喜是发现学津书店开门了，我以往几次去都吃了闭门羹。虽然它写明营业时间是每天下午三点至七点半（星期三休息），但比这更任性的是，店主一般在下午三点半后才来开门，第二次见他时我说“你好”，但他见坐在台阶上等待的我和朋友却摇了摇头。更古怪的传说是，以前到过学津书店的书友告诉我，他买单时却被店主告知有些书不买。不过，我这两次光顾都如愿以偿结帐。值得一提的是，学津书店虽然也有相当多内地简体文史书，但价格比孔网上的同类便宜，而且和店内其他港台上世纪八九十年代出版的诸如沈从文、鲁迅等作品一样，不仅品相奇好（有的近乎十品），而且有好多复本！另外，买单时在标价基础上八折，在二手书店中也算是异类。
+最后坐港岛线，先去了在终点站柴湾的神州书店，它是孔夫子旧书网上唯一的香港书店，而近四百平方米的书店实际库存更像个中型图书馆，据说还有特大型仓库，不仅在收入最高（但物价不是最高）的港岛乃至全香港都是第一位。其实我先前来过两次，第一次拿书店名片问楼下女保安，顺利升堂入室；第二次找错大楼加之营业时间将尽铩羽而归；这次和书友同去，开始进错了隔壁大楼，问一年长保安但他不懂普通话，反问我们“Can you speak English?”，于是得蒙正确指示，结果我们又把B座当A座折腾了几分钟。乘着古旧的升降机进入23楼这家有51年历史的老店，有一种在旧图书馆的紧迫感：空间逼仄、营业时间也只从下午一点到五点，而如果一架架书检索，时间是绝对不够的。好在分类很明晰，我们寻书近两小时，书友满手而归，我只挑了一本画册，虽然是绝版书但盛惠一百二十港元。
+
+森记书店的猫，店主更希望访客为书而来，不买书也没关系
+从柴湾上地铁，反向坐到炮台山站，走几十米就可以看到森记书店和二手书店的招牌，这两家书分新旧实为一家。以前到访两次都无甚感觉，因为店内堪称齐全的漫画和武侠小说都不是我的菜。上个月来时淘到一本香港《文汇报》前社长李子诵题签书名的绝版书，在二手书店亦舒小说专架前则发现空调滴水打湿了书页，于是买单时提醒店主去修整。这次发现二手书店玻璃门内就有好几本绝版书刊，包括董桥几本书的初版。我帮书友买了本亦舒的《
+伤城记
+》，这本与最近根据她小说改编而热播的《我的前半生》风格迥异，女人心之外更见家国情怀。当然，来过森记书店的人无法回避猫。这些喵星人哪个国家的访客没见过，即使它卧于我脚下或躺在我浏览的书架顶上，或者闭目养神当人不存在，偶有活泼者会蹭我手提装书用的布袋。在这里，玩猫是不受欢迎的。而更显森记风格的是书架上的各色纸条，它们可以看作是店主的阅读手札：哪本书好但翻译不好，强烈推荐王鼎钧《文学江湖》等等……需要注意的是，森记书店和学津书店一样，买单只收现金，另有一定限额的折扣。
+至于港岛上的湾仔天地图书和铜锣湾诚品书店，我这次为找最新一期英国《经济学人》周刊也匆匆逛过，论富丽堂皇当然诚品居上，论藏书丰富还是天地更胜一筹，甚至有些台湾研究类书都比诚品多。
+刊于2017年7月31日
+《上海书评》
+\n\n
+\n \n \n \n\n \n \n
+作者：\n \n
+\n \n \n
+阿布
+\n \n \n
+\n \n \n\n \n \n
+\n
+查看原文
+\n ©版权属于作者 商业转载联系作者\n
+\n \n
+\n\n","share_pic_url":"https://moment.douban.com/share_pic/post/180318.jpg","type":"1001","is_liked":false,"photos":[{"medium":{"url":"https://img1.doubanio.com/view/presto/medium/public/618219.jpg","width":750,"height":1000},"description":"《最后的天朝》沈志华签名本","large":{"url":"https://img1.doubanio.com/view/presto/large/public/618219.jpg","width":750,"height":1000},"tag_name":"img_13","small":{"url":"https://img1.doubanio.com/view/presto/small/public/618219.jpg","width":320,"height":426},"id":618219},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/618220.jpg","width":750,"height":1000},"description":"秘鲁摊位售卖“世界上最小的书”","large":{"url":"https://img3.doubanio.com/view/presto/large/public/618220.jpg","width":750,"height":1000},"tag_name":"img_14","small":{"url":"https://img3.doubanio.com/view/presto/small/public/618220.jpg","width":320,"height":426},"id":618220},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/618221.jpg","width":600,"height":474},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/618221.jpg","width":600,"height":474},"tag_name":"img_17","small":{"url":"https://img3.doubanio.com/view/presto/small/public/618221.jpg","width":320,"height":252},"id":618221},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/618222.jpg","width":600,"height":742},"description":"关于台湾书店的3本书","large":{"url":"https://img3.doubanio.com/view/presto/large/public/618222.jpg","width":600,"height":742},"tag_name":"img_18","small":{"url":"https://img3.doubanio.com/view/presto/small/public/618222.jpg","width":320,"height":395},"id":618222},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/618223.jpg","width":750,"height":1000},"description":"《开店指难》，可能并不适用于大陆","large":{"url":"https://img3.doubanio.com/view/presto/large/public/618223.jpg","width":750,"height":1000},"tag_name":"img_19","small":{"url":"https://img3.doubanio.com/view/presto/small/public/618223.jpg","width":320,"height":426},"id":618223},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/618224.jpg","width":750,"height":1000},"description":"本书收录香港旧书店群像","large":{"url":"https://img3.doubanio.com/view/presto/large/public/618224.jpg","width":750,"height":1000},"tag_name":"img_20","small":{"url":"https://img3.doubanio.com/view/presto/small/public/618224.jpg","width":320,"height":426},"id":618224},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/618225.jpg","width":750,"height":1000},"description":"任性的学津书店每天只营业4个小时","large":{"url":"https://img3.doubanio.com/view/presto/large/public/618225.jpg","width":750,"height":1000},"tag_name":"img_21","small":{"url":"https://img3.doubanio.com/view/presto/small/public/618225.jpg","width":320,"height":426},"id":618225},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/618226.jpg","width":750,"height":750},"description":"森记书店的猫，店主更希望访客为书而来，不买书也没关系","large":{"url":"https://img3.doubanio.com/view/presto/large/public/618226.jpg","width":750,"height":750},"tag_name":"img_22","small":{"url":"https://img3.doubanio.com/view/presto/small/public/618226.jpg","width":320,"height":320},"id":618226}],"date":"2017-08-14","published_time":"2017-08-14 14:00:00","url":"https://moment.douban.com/post/180318/?douban_rec=1","author":{"is_followed":false,"uid":"abuxu","url":"https://www.douban.com/people/abuxu/","avatar":"https://img3.doubanio.com/icon/u12546787-2.jpg","name":"阿布","is_special_user":false,"n_posts":0,"alt":"保守大法好","large_avatar":"https://img3.doubanio.com/icon/up12546787-2.jpg","id":"12546787","is_auth_author":false},"column":{"id":1,"icon":"https://img3.doubanio.com/f/presto/8bff95d769e4677b2eb579b124dc50660a6f60a5/images/column/icon_default.png","description":"","name":"","post_total":9563},"comments_count":3,"title":"香港书展及其以外的书店风景"},{"display_style":10002,"short_url":"https://dou.bz/3FlyhD","abstract":"西安是一个很有历史文化的底蕴的城市，每到一个地方，我这个戏精就已经开始魂穿了脑补自己的前世今生，我爱给自己加戏……","app_css":7,"like_count":1003,"thumbs":[{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/t126375.jpg","width":600,"height":590},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/t126375.jpg","width":600,"height":590},"tag_name":"img_1","small":{"url":"https://img3.doubanio.com/view/presto/small/public/t126375.jpg","width":320,"height":314},"id":126375}],"created_time":"2017-07-28 10:16:35","id":179993,"is_editor_choice":false,"original_url":"https://www.douban.com/note/630591406/","content":"
+\n \n
+\n 食记\n
+\n \n
+多图｜西安：一座好吃到可以治愈失恋的城市
+\n
+\n \n \n
+\n \n
+\n \n
+\n \n
+宇宙大队长
+\n 的日记\n
+\n \n
+\n
+\n \n \n
+\n
+\n\n
+
+行程定的很匆忙，但是完成度很高，除了现在很热以外，啊西安真的超级好吃！ 第一次来西安旅游，所以对吃的要求就是：西安特色、陕菜必吃榜，不然我一定不会甘心的，还有一点是要离景点近，以后再来就会随意啦。
+住宿定的是华清御汤和万豪，交通全程打车，觉得滴滴专车会比出租好很多，就打了一次出租结果把我拉去玉厂买玉了摊手。
+华清御汤就在华清池景区里，因为华清池和兵马俑都在临潼区所以第一晚就住临潼了，方便第二天一早去看兵马俑，推荐这家服务超级好的酒店！
+西安美食第一天：华清宫御膳苑
+
+酒店里可以直接泡温泉，是华清池的水
+泡温泉的时候有文化的人想到的是“春寒赐浴华清池，温泉水滑洗凝脂。”而我只能想到“那一年的华清池旁留下太多愁” 感谢李玉刚老师！反正泡完炒鸡舒服，身上滑滑的！
+
+华清池的锦鲤转发有好运！
+定这个酒店还有一个原因是会送《长恨歌》的演出票啦，演出很棒效果很震撼，看了这个演出其实大唐芙蓉园不用去了，大唐芙蓉园属于我凑景点打卡去的。
+
+《长恨歌》演出
+说到美食，因为第一天到西安入住已经是下午了，而且晚上要看演出，所以晚饭只能就近解决，就在酒店吃，这家酒店的餐厅很棒——华清宫御膳苑，好吃而且价格不贵，推荐！
+
+推荐槐花鸡蛋饼、干烧秦岭野山菌、三色凉皮和金汤小米烩丝瓜、秦椒牛肉，我能说我吃到最最好吃的三色凉皮（没拍照）就是这家的么！后来吃的几家都没这家的三色凉皮好吃。
+美食第二天：大秦小宴&德发长
+
+兵马俑坑里至今有我的相机镜头盖
+第二天早上看了兵马俑，有个兵马俑跟我同学长得一模一样！兴冲冲拍给人看说长得没他帅（摊手）看完就去吃午饭啦！
+
+碧绿豆腐好吃又好看！
+这家的菜单很有意思，有道凉菜叫胖嘟嘟，第二排最右那个→_→当然长安葫芦鸡肯定是要吃的嘛，最具传奇的陕西代表菜，皮酥肉烂好吃！
+
+超级喜欢吃麻食
+麻食和枣糕都好吃！
+
+大秦牛排
+这家店的特色是秦朝料理，“芈”“相”“将”“和”“秦”等等各种套餐，味道和摆盘都征服了我要给西安美食爆灯！我点了芈套餐，因为会送一个巧克力兵马俑，饭前会有高大威猛的秦始皇用陕西话主持开席仪式，用餐完毕之后还可以试穿秦服各种摆拍（此处并没有照片）
+
+渣手机没有拍出来金句：辣子是面的灵魂
+哈哈这句金句太可爱了辣子是面的灵魂！希望各位吃货谨记辣子的友情提醒！
+吃完去华清池景点晃了一圈打卡就回市里，晚上的重头戏就是德发长的饺子宴！ 德发长就在西安的市中心 ，旁边有著名的钟鼓楼吃完可以在旁边逛逛。
+
+饺子宴：“一饺一形一态，百饺百馅百味”
+
+超级喜欢吃凉菜，凉菜吃的超开心！
+
+长安一品饺子宴
+饺子宴其实期待有点儿过高，虽然说扁食之祖黄土地，饺子之乡古长安。 对于我来说西安的面和凉皮更能征服我，长安一品饺子宴包括凉菜+汤+饺子和太后火锅，德发长很多饺子长得好像工艺品一样的精致，但是有些味道我觉得有点怪怪的，不是每种味道我都能满盘接受，最后的太后火锅只吃到一个，没关系一路顺风也是很好的寓意。
+
+回去的时候拍到一张：晚上的钟楼也太美了吧！
+美食第三天：长安大牌档+回民街
+第三天早上去了陕博，一定要找讲解，一定要听大唐壁画馆！
+
+
+不过等讲解等了很久，因为会讲大唐壁画馆的讲解员比较少，看完就可以去吃饭啦！每天都想着吃吃吃的我再次选中必吃店，然后等了一个多小时。
+
+喜欢店里的环境配上陕西本土品牌木匾做装饰
+长安大牌档属于陕西地道美食餐厅，我看了菜单以后觉得：这是啥？哇这个也想吃啊这个我也想吃，看起来都好好吃！！
+
+长安大牌档
+喜欢这个民间烤枣馍和油泼辣子鱼，我当时还点了毛笔酥，但是卖完没了好遗憾！
+
+金边白菜
+薛宝晨云：“金边菜，西安厨人做法最妙，京师厨人所不及也。”酸辣脆鲜，美味无穷。 推荐！
+下午的行程就是碑林和古城墙，碑林总让我想起小时候被逼着学书法的难忘回忆，说句实话我行走在西安内心的弹幕大多数都是：哇这个历史好厉害啊！这个好酷啊！天呐太好吃了吧！（此处略）
+
+古代人民也太厉害了，膜拜一万遍
+
+城墙的历史感
+西安是一个很有历史文化的底蕴的城市，每到一个地方，我这个戏精就已经开始魂穿了脑补自己的前世今生，我爱给自己加戏，穿回来就开始想着晚上吃什么。
+
+回民街小吃
+小吃一条街啊人超级多超级热闹！我只想推荐一家店————红红酸菜炒米！在北院门中段110号，对就是最后一张图那个其貌不扬的样子，但是超级好吃，四川泡菜切的很细，加上肉末超级好吃不说了吃的再撑也要打包一份回去！
+美食第三天：真爱中国餐馆&古今长安老茶坊
+最后一天的行程很满：小雁塔、大雁塔、大唐芙蓉园和音乐喷泉，作为一个资深躺懒游客克服了每天想在酒店睡到自然醒和叫外卖的愿望大热天的还是投入到景点的打卡和吃吃吃中。
+
+吃了三天酒店早餐太西式了不喜欢没有什么陕西特色的东西
+
+小雁塔
+
+真爱中国餐馆
+这家就离小雁塔很近，就在西门，碑林区朱雀大街中段38号，上过2017年中国餐厅必吃榜所以还是期待满满！
+
+真爱排骨
+真爱排骨是这家店特色菜之一，答应我一定要点，色泽均匀，吃起来很酥很好吃！特色菜还有带鱼，本来就是浙江人所以不点了，还有粉丝虾球煲，用的xo虾酱超级好吃的！三色凉皮感觉没有华清的好吃，总而言之是一家值得去的店！
+
+大雁塔
+天气太热了还打卡了大雁塔和大唐芙蓉园基本就是进去拍了几张照直接然后出来……
+晚上去的是古今长安老茶坊在长安中路123号赛格国际购物中心7层，赛格的电梯好长好长啊每次上去都让我害怕。
+
+古今长安老茶坊
+品茶、吃饭、听曲、看景就是这家店的特色啦，这家其实和大牌档算是一家店（？）感受一下特别悠闲惬意的老陕生活，菜品很精致但是又很有陕西菜的特色。招牌山茶花开（没放图）是山楂馅糕点，我个人最喜欢古法牛肉，吃不完的都被我打包走晚上做夜宵了！
+
+长安大碗茶
+江南人喝茶讲究小品， “琴棋书画诗酒花，柴米油盐酱醋茶” 一天就是从“吃茶”开始的。而陕西大碗茶，则有着关中人豪爽好客，大碗喝茶！
+“有好茶喝，会喝好茶，是一种清福。”
+吃完还去看了音乐喷泉，给自己的行程打满分。唯一遗憾的是看到友邻写的最想去的亚洲吃面公司停业装修了！听说艾夫杰尼他们都会去！下次一定要去！
+
+放一张个人的随手拍
+我要点个题！在西安每天都在思索吃什么，点什么，这些那些看起来都好吃，根本不会考虑和ex分手有多伤心难过哈哈哈我下次景点就不去了我要再去西安吃吃吃！
+\n\n
+\n \n \n \n\n \n \n
+作者：\n \n
+\n \n \n
+宇宙大队长
+\n \n \n
+\n \n \n\n \n
+栏目：\n
+\n 食记\n
+\n
+\n \n \n
+\n
+查看原文
+\n ©版权属于作者 商业转载联系作者\n
+\n \n
+\n\n","share_pic_url":"https://moment.douban.com/share_pic/post/179993.jpg","type":"1001","is_liked":false,"photos":[{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/616196.jpg","width":900,"height":500},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/616196.jpg","width":900,"height":500},"tag_name":"img_1","small":{"url":"https://img3.doubanio.com/view/presto/small/public/616196.jpg","width":320,"height":177},"id":616196},{"medium":{"url":"https://img1.doubanio.com/view/presto/medium/public/616199.jpg","width":960,"height":960},"description":"酒店里可以直接泡温泉，是华清池的水","large":{"url":"https://img1.doubanio.com/view/presto/large/public/616199.jpg","width":1200,"height":1200},"tag_name":"img_8","small":{"url":"https://img1.doubanio.com/view/presto/small/public/616199.jpg","width":320,"height":320},"id":616199},{"medium":{"url":"https://img1.doubanio.com/view/presto/medium/public/616198.jpg","width":600,"height":590},"description":"华清池的锦鲤转发有好运！","large":{"url":"https://img1.doubanio.com/view/presto/large/public/616198.jpg","width":600,"height":590},"tag_name":"img_6","small":{"url":"https://img1.doubanio.com/view/presto/small/public/616198.jpg","width":320,"height":314},"id":616198},{"medium":{"url":"https://img1.doubanio.com/view/presto/medium/public/616197.jpg","width":960,"height":960},"description":"《长恨歌》演出","large":{"url":"https://img1.doubanio.com/view/presto/large/public/616197.jpg","width":1200,"height":1200},"tag_name":"img_5","small":{"url":"https://img1.doubanio.com/view/presto/small/public/616197.jpg","width":320,"height":320},"id":616197},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/616210.jpg","width":960,"height":960},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/616210.jpg","width":1600,"height":1600},"tag_name":"img_21","small":{"url":"https://img3.doubanio.com/view/presto/small/public/616210.jpg","width":320,"height":320},"id":616210},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/616200.jpg","width":750,"height":750},"description":"兵马俑坑里至今有我的相机镜头盖","large":{"url":"https://img3.doubanio.com/view/presto/large/public/616200.jpg","width":750,"height":750},"tag_name":"img_11","small":{"url":"https://img3.doubanio.com/view/presto/small/public/616200.jpg","width":320,"height":320},"id":616200},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/616201.jpg","width":600,"height":593},"description":"碧绿豆腐好吃又好看！","large":{"url":"https://img3.doubanio.com/view/presto/large/public/616201.jpg","width":600,"height":593},"tag_name":"img_12","small":{"url":"https://img3.doubanio.com/view/presto/small/public/616201.jpg","width":320,"height":316},"id":616201},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/616202.jpg","width":600,"height":590},"description":"超级喜欢吃麻食","large":{"url":"https://img3.doubanio.com/view/presto/large/public/616202.jpg","width":600,"height":590},"tag_name":"img_13","small":{"url":"https://img3.doubanio.com/view/presto/small/public/616202.jpg","width":320,"height":314},"id":616202},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/616203.jpg","width":600,"height":592},"description":"大秦牛排","large":{"url":"https://img3.doubanio.com/view/presto/large/public/616203.jpg","width":600,"height":592},"tag_name":"img_14","small":{"url":"https://img3.doubanio.com/view/presto/small/public/616203.jpg","width":320,"height":315},"id":616203},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/616211.jpg","width":960,"height":960},"description":"渣手机没有拍出来金句：辣子是面的灵魂","large":{"url":"https://img3.doubanio.com/view/presto/large/public/616211.jpg","width":1600,"height":1600},"tag_name":"img_24","small":{"url":"https://img3.doubanio.com/view/presto/small/public/616211.jpg","width":320,"height":320},"id":616211},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/616204.jpg","width":600,"height":600},"description":"饺子宴：“一饺一形一态，百饺百馅百味”","large":{"url":"https://img3.doubanio.com/view/presto/large/public/616204.jpg","width":600,"height":600},"tag_name":"img_15","small":{"url":"https://img3.doubanio.com/view/presto/small/public/616204.jpg","width":320,"height":320},"id":616204},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/616213.jpg","width":960,"height":960},"description":"超级喜欢吃凉菜，凉菜吃的超开心！","large":{"url":"https://img3.doubanio.com/view/presto/large/public/616213.jpg","width":1600,"height":1600},"tag_name":"img_26","small":{"url":"https://img3.doubanio.com/view/presto/small/public/616213.jpg","width":320,"height":320},"id":616213},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/616205.jpg","width":960,"height":960},"description":"长安一品饺子宴","large":{"url":"https://img3.doubanio.com/view/presto/large/public/616205.jpg","width":1280,"height":1280},"tag_name":"img_16","small":{"url":"https://img3.doubanio.com/view/presto/small/public/616205.jpg","width":320,"height":320},"id":616205},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/616206.jpg","width":750,"height":750},"description":"回去的时候拍到一张：晚上的钟楼也太美了吧！","large":{"url":"https://img3.doubanio.com/view/presto/large/public/616206.jpg","width":750,"height":750},"tag_name":"img_17","small":{"url":"https://img3.doubanio.com/view/presto/small/public/616206.jpg","width":320,"height":320},"id":616206},{"medium":{"url":"https://img1.doubanio.com/view/presto/medium/public/616207.jpg","width":960,"height":960},"description":"","large":{"url":"https://img1.doubanio.com/view/presto/large/public/616207.jpg","width":1280,"height":1280},"tag_name":"img_18","small":{"url":"https://img1.doubanio.com/view/presto/small/public/616207.jpg","width":320,"height":320},"id":616207},{"medium":{"url":"https://img1.doubanio.com/view/presto/medium/public/616208.jpg","width":960,"height":960},"description":"","large":{"url":"https://img1.doubanio.com/view/presto/large/public/616208.jpg","width":1280,"height":1280},"tag_name":"img_19","small":{"url":"https://img1.doubanio.com/view/presto/small/public/616208.jpg","width":320,"height":320},"id":616208},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/616212.jpg","width":960,"height":960},"description":"喜欢店里的环境配上陕西本土品牌木匾做装饰","large":{"url":"https://img3.doubanio.com/view/presto/large/public/616212.jpg","width":1600,"height":1600},"tag_name":"img_25","small":{"url":"https://img3.doubanio.com/view/presto/small/public/616212.jpg","width":320,"height":320},"id":616212},{"medium":{"url":"https://img1.doubanio.com/view/presto/medium/public/616209.jpg","width":960,"height":960},"description":"长安大牌档","large":{"url":"https://img1.doubanio.com/view/presto/large/public/616209.jpg","width":1600,"height":1600},"tag_name":"img_20","small":{"url":"https://img1.doubanio.com/view/presto/small/public/616209.jpg","width":320,"height":320},"id":616209},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/616214.jpg","width":960,"height":960},"description":"金边白菜","large":{"url":"https://img3.doubanio.com/view/presto/large/public/616214.jpg","width":1600,"height":1600},"tag_name":"img_27","small":{"url":"https://img3.doubanio.com/view/presto/small/public/616214.jpg","width":320,"height":320},"id":616214},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/616215.jpg","width":960,"height":960},"description":"古代人民也太厉害了，膜拜一万遍","large":{"url":"https://img3.doubanio.com/view/presto/large/public/616215.jpg","width":1280,"height":1280},"tag_name":"img_28","small":{"url":"https://img3.doubanio.com/view/presto/small/public/616215.jpg","width":320,"height":320},"id":616215},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/616216.jpg","width":960,"height":960},"description":"城墙的历史感","large":{"url":"https://img3.doubanio.com/view/presto/large/public/616216.jpg","width":1280,"height":1280},"tag_name":"img_30","small":{"url":"https://img3.doubanio.com/view/presto/small/public/616216.jpg","width":320,"height":320},"id":616216},{"medium":{"url":"https://img1.doubanio.com/view/presto/medium/public/616217.jpg","width":960,"height":960},"description":"回民街小吃","large":{"url":"https://img1.doubanio.com/view/presto/large/public/616217.jpg","width":1600,"height":1600},"tag_name":"img_31","small":{"url":"https://img1.doubanio.com/view/presto/small/public/616217.jpg","width":320,"height":320},"id":616217},{"medium":{"url":"https://img1.doubanio.com/view/presto/medium/public/616219.jpg","width":960,"height":960},"description":"吃了三天酒店早餐太西式了不喜欢没有什么陕西特色的东西","large":{"url":"https://img1.doubanio.com/view/presto/large/public/616219.jpg","width":1280,"height":1280},"tag_name":"img_33","small":{"url":"https://img1.doubanio.com/view/presto/small/public/616219.jpg","width":320,"height":320},"id":616219},{"medium":{"url":"https://img1.doubanio.com/view/presto/medium/public/616218.jpg","width":960,"height":960},"description":"小雁塔","large":{"url":"https://img1.doubanio.com/view/presto/large/public/616218.jpg","width":1600,"height":1600},"tag_name":"img_32","small":{"url":"https://img1.doubanio.com/view/presto/small/public/616218.jpg","width":320,"height":320},"id":616218},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/616220.jpg","width":960,"height":960},"description":"真爱中国餐馆","large":{"url":"https://img3.doubanio.com/view/presto/large/public/616220.jpg","width":1600,"height":1600},"tag_name":"img_34","small":{"url":"https://img3.doubanio.com/view/presto/small/public/616220.jpg","width":320,"height":320},"id":616220},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/616221.jpg","width":960,"height":960},"description":"真爱排骨","large":{"url":"https://img3.doubanio.com/view/presto/large/public/616221.jpg","width":1280,"height":1280},"tag_name":"img_36","small":{"url":"https://img3.doubanio.com/view/presto/small/public/616221.jpg","width":320,"height":320},"id":616221},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/616222.jpg","width":960,"height":960},"description":"大雁塔","large":{"url":"https://img3.doubanio.com/view/presto/large/public/616222.jpg","width":1280,"height":1280},"tag_name":"img_37","small":{"url":"https://img3.doubanio.com/view/presto/small/public/616222.jpg","width":320,"height":320},"id":616222},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/616223.jpg","width":960,"height":960},"description":"古今长安老茶坊","large":{"url":"https://img3.doubanio.com/view/presto/large/public/616223.jpg","width":1600,"height":1600},"tag_name":"img_42","small":{"url":"https://img3.doubanio.com/view/presto/small/public/616223.jpg","width":320,"height":320},"id":616223},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/616224.jpg","width":960,"height":960},"description":"长安大碗茶","large":{"url":"https://img3.doubanio.com/view/presto/large/public/616224.jpg","width":1600,"height":1600},"tag_name":"img_43","small":{"url":"https://img3.doubanio.com/view/presto/small/public/616224.jpg","width":320,"height":320},"id":616224},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/616225.jpg","width":750,"height":740},"description":"放一张个人的随手拍","large":{"url":"https://img3.doubanio.com/view/presto/large/public/616225.jpg","width":750,"height":740},"tag_name":"img_44","small":{"url":"https://img3.doubanio.com/view/presto/small/public/616225.jpg","width":320,"height":315},"id":616225}],"date":"2017-08-14","published_time":"2017-08-14 13:00:00","url":"https://moment.douban.com/post/179993/?douban_rec=1","author":{"is_followed":false,"uid":"dear-scorpio","url":"https://www.douban.com/people/dear-scorpio/","avatar":"https://img3.doubanio.com/icon/u29201077-21.jpg","name":"宇宙大队长","is_special_user":false,"n_posts":0,"alt":"请原谅我时不时就要兑现存在感。","large_avatar":"https://img3.doubanio.com/icon/up29201077-21.jpg","id":"29201077","is_auth_author":false},"column":{"id":38,"icon":"https://img3.doubanio.com/f/presto/35927443c4b18212caf1d157f3dca95a0b85598b/images/column/column-38.png","description":"舌尖上的时光","name":"食记","post_total":1076},"comments_count":47,"title":"多图｜西安：一座好吃到可以治愈失恋的城市"},{"display_style":10002,"short_url":"https://dou.bz/0B1ZG5","abstract":"确实，古曼特的故事存在着明显的漏洞，比如明明狗、蛇和蝎子都在撕咬大白牛，怎么狗就是善的，蛇和蝎就是恶的，说不通。","app_css":7,"like_count":111,"thumbs":[{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/t126374.jpg","width":607,"height":482},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/t126374.jpg","width":607,"height":482},"tag_name":"img_1","small":{"url":"https://img3.doubanio.com/view/presto/small/public/t126374.jpg","width":320,"height":254},"id":126374}],"created_time":"2017-07-28 11:30:11","id":180015,"is_editor_choice":false,"original_url":"https://www.douban.com/note/630331679/","content":"
+\n \n
+\n 聊艺术\n
+\n \n
+错过它，上博“大英展”5个小时的队基本算白排了
+\n
+\n \n \n
+\n \n
+\n \n
+\n \n
+我还真的不知道
+\n 的日记\n
+\n \n
+\n
+\n \n \n
+\n
+\n\n
+赵老实
+我还真的不知道
+正在上博举行的“大英博物馆100件文物中的世界史”展览中，有一件展品特别值得驻足观看。它摆在那里，看起来像一个普通的雕塑，但其实已经困扰宗教学者100多年了，到现在都还没有明确的答案。
+它就是密特拉屠牛神像（Tauroctony）。
+
+上博“大英展”中的密特拉屠牛像
+看过《
+达芬奇密码
+》的朋友肯定都对小说电影里面所使用的符号学工具有所了解，通过一张画的构图竟然可以延伸出那么多丰富的想象，成为通往古人精神世界的路径。而解读密特拉屠牛神像的难度，远远在《最后的晚餐》之上。
+先来看这个雕塑。跨在一只白色公牛背上的是密特拉神（Mithras），他是一个戴着帽子、披着披风的年轻人。他左膝顶住公牛的腰背，右腿紧紧夹住牛的臀部，右脚踩在牛的后蹄上。左手紧紧地掰起牛头，右手上的刀刺进了牛的身体。在牛的侧方，有一只狗、一条蛇和一只蝎子，它们正死死咬住这只牛。
+密特拉屠牛雕塑或者壁画，是罗马帝国密特拉教的标志。就像基督教堂必有十字架、佛寺必有佛像一样，密特拉屠牛也无一例外地被放置在密特拉教的圣所——太阳洞中，接受教徒的朝拜。
+
+德国境内的太阳洞内
+除了这次大英展中的单一塑像，一幅完整的密特拉屠牛像还应该包含着一个带着月冠的女性头像象征着月亮、一个发出光芒的男性头像象征着太阳、一只乌鸦、一个瓶子、一只狮子、两个举着火炬的人，密特拉的披风应该绘满了繁星。
+
+该图位于意大利马里诺的太阳洞
+那么，这个逼真的形象到底在宣讲什么教义呢？没有准确的答案。因为正如大英展的介绍中所说，在基督教成为国教以后，对异教进行了迫害，包括密特拉教在内的许多异教的典籍文献被销毁，因此，后来的学者在挖掘发现密特拉屠牛像之后，都只能依靠符号学的解读搭配一些其他历史文献来猜测这个宗教的教义。
+10年前，我在研读世界史的硕士，毕业论文选定的题目就是“罗马帝国的密特拉教”。导师丢下一句话：“这个宗教挺有意思的，可惜我也不了解，不然你来找点资料，介绍一下？”就这样把我“推入”这个未知深浅的“大坑”，当时甚至连一本简略介绍密特拉教的中文论文也没有，更别说专著了。（这句话的含义是：全中国我是最早系统整理密特拉教的。但是我不会这么说，显得不谦虚。）
+100多年来，学者们对着密特拉屠牛像冥思苦想抓破脑袋，编了2个版本的故事，留下一大堆谜。
+第一个故事是19世纪末期比利时学者弗兰兹·古曼特提出的。
+他说，这是一个密特拉神创世的故事。古曼特张开想象的翅膀，看图说话：太阳神派他的使者——一只乌鸦告诉密特拉，叫他杀一只白色的公牛来献祭。密特拉不明就里，可还是执行了。他杀了公牛以后，奇迹发生了。公牛的尸体变成了月亮，密特拉的披风变成了天上的苍穹，从牛身上喷出的血中变出了谷物和葡萄，牛鞭蔓延出神圣的种子变成了世间所有活物。狗是密特拉忠实的仆从，它与主人一起升往天界。而毒蛇和毒蝎也接触到了公牛的精血，世间黑暗的力量也随之苏醒，一场善恶的战争就此展开。
+
+该像现存于卢浮宫
+这个自带瓦格纳式背景音效的故事遭到了后来宗教学者的反对。确实，古曼特的故事存在着明显的漏洞，比如明明狗、蛇和蝎子都在撕咬大白牛，怎么狗就是善的，蛇和蝎就是恶的，说不通。
+可是直到80年之后的20世纪70年代，才有了新的故事。美国学者大卫·乌兰西说密特拉屠牛像其实是一幅古人的观星图。他认为里面的每一个符号都是一个星体或者星座。太阳、月亮不用说，白牛代表金牛座，蛇代表长蛇座，狗代表小犬座，蝎子代表天蝎座，乌鸦代表乌鸦座，瓶子代表水瓶座、狮子代表狮子座。密特拉杀死白牛，是古罗马人观测天象时发现一种“变异”——春分点缓慢移出金牛座的一种解释。
+没有天文学知识的读者在这里可能有点懵，有必要详细解释一下。
+我们知道古代人信奉地心说，宇宙是围绕地球的天赤道和黄道带转动的。天赤道和黄道带的焦点就是春分和秋分。也就是说，古人将春分点和秋分点连线，这条线穿过地球中心，这就是宇宙转动的定轴。后来，希腊天文学家发现这个轴不是固定不变的，而是在缓慢移动。那么，是什么导致了这种天文现象呢？一定是神力吧。
+
+黄赤交角与春秋分
+所有密特拉屠牛像上的符号都与春分点移出金牛座有关。在金牛时代，天赤道上的星座有（且只有）长蛇座、小犬座和乌鸦座；天蝎座是与金牛对称的秋分点，水瓶座和狮子座是冬至点和夏至点。甚至密特拉神的“原身”也是一个星座。
+他的帽子、披风和鞋，使用的匕首与古希腊的神话英雄珀尔修斯一模一样，而帕尔修斯化作的英仙座与金牛座的位置，也和图像上密特拉骑在牛的上方相吻合。这是密特拉教移植了古希腊神话的痕迹。密特拉用杀死公牛的办法，重建了宇宙的秩序，因此他的神力要得到教徒的供奉。这很合理对不对？
+但是，这个看起来完美的故事有个特别大的漏洞：在希腊至罗马帝国时期，春分点不在金牛座，而在隔壁的白羊座！而完成一次春分点移动所需要的时间是2100多年，（目前我们处在双鱼时代，而到了二十八世纪才进入水瓶时代），以当时的科学水平根本就无法得知这种变化。也就是说，乌兰西的故事完全是建立在现代科学情况下的臆测，完全没有考虑到古代人的生活环境。
+于是就没有故事了，剩下的只是谜。很多学者都已经放弃建立一个宏大完整的叙事体系，而将密特拉教认为是一种结合了自然崇拜和多神论的大杂烩。
+经过了100多年的研究，虽然在密特拉屠牛像这个关键点上一直没有突破，但一批宗教学者依然紧紧抓住这个宗教不放。这并不是因为他们闲着发慌，而是因为这个宗教有非常重要的标本意义。
+学者大胆地猜想，密特拉这个神最早出现在上古雅利安人的信仰中，随着雅利安人的迁徙，密特拉信仰的一支到了印度次大陆，变成了密多罗神，而密多罗混入佛教信仰，传到中国以后变成了弥勒佛；
+另一支雅利安人向西，密特拉成为波斯祆教阿胡拉·玛兹达的副神，在与地中海沿岸各民族的交流与战争中，一部分进入中东、北非，化身为基督教徒口中的弥赛亚，一部分进入罗马帝国，变成密特拉教。可以说，一个密特拉就是整部欧亚宗教史。
+
+你能相信大肚弥勒和密特拉神有同一个“祖先”吗？
+如果这个猜想真的成立，被基督教迫害最终导致在4世纪消失的密特拉教，真应了“本是同根生，相煎何太急”。
+本文作者来自今日头条签约原创号：你真的知道吗
+谢绝转载，如有需要请联系后台
+昨晚和可爱的读者竹头小姐姐聊天，谈到这次上海的大英展。我说，既然你排5个小时队去看了，干脆我给你写一个东西吧，给你介绍一下里面的一件藏品。所以才有了这篇文。
+真是一个偶尔走心的公号啊。
+查看原文
+\n\n
+\n \n \n \n\n \n \n
+作者：\n \n
+\n \n \n
+我还真的不知道
+\n \n \n
+\n \n \n\n \n
+栏目：\n
+\n 聊艺术\n
+\n
+\n \n \n
+\n
+查看原文
+\n ©版权属于作者 商业转载联系作者\n
+\n \n
+\n\n","share_pic_url":"https://moment.douban.com/share_pic/post/180015.jpg","type":"1001","is_liked":false,"photos":[{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/616480.jpg","width":640,"height":480},"description":"上博“大英展”中的密特拉屠牛像","large":{"url":"https://img3.doubanio.com/view/presto/large/public/616480.jpg","width":640,"height":480},"tag_name":"img_1","small":{"url":"https://img3.doubanio.com/view/presto/small/public/616480.jpg","width":320,"height":240},"id":616480},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/616481.jpg","width":640,"height":427},"description":"德国境内的太阳洞内","large":{"url":"https://img3.doubanio.com/view/presto/large/public/616481.jpg","width":640,"height":427},"tag_name":"img_2","small":{"url":"https://img3.doubanio.com/view/presto/small/public/616481.jpg","width":320,"height":213},"id":616481},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/616483.jpg","width":607,"height":482},"description":"该图位于意大利马里诺的太阳洞","large":{"url":"https://img3.doubanio.com/view/presto/large/public/616483.jpg","width":607,"height":482},"tag_name":"img_4","small":{"url":"https://img3.doubanio.com/view/presto/small/public/616483.jpg","width":320,"height":254},"id":616483},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/616482.jpg","width":640,"height":736},"description":"该像现存于卢浮宫","large":{"url":"https://img3.doubanio.com/view/presto/large/public/616482.jpg","width":640,"height":736},"tag_name":"img_3","small":{"url":"https://img3.doubanio.com/view/presto/small/public/616482.jpg","width":320,"height":368},"id":616482},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/616485.jpg","width":640,"height":417},"description":"黄赤交角与春秋分","large":{"url":"https://img3.doubanio.com/view/presto/large/public/616485.jpg","width":640,"height":417},"tag_name":"img_6","small":{"url":"https://img3.doubanio.com/view/presto/small/public/616485.jpg","width":320,"height":208},"id":616485},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/616484.jpg","width":640,"height":480},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/616484.jpg","width":640,"height":480},"tag_name":"img_5","small":{"url":"https://img3.doubanio.com/view/presto/small/public/616484.jpg","width":320,"height":240},"id":616484}],"date":"2017-08-14","published_time":"2017-08-14 12:00:00","url":"https://moment.douban.com/post/180015/?douban_rec=1","author":{"is_followed":false,"uid":"156804006","url":"https://www.douban.com/people/156804006/","avatar":"https://img3.doubanio.com/icon/u156804006-4.jpg","name":"我还真的不知道","is_special_user":false,"n_posts":0,"alt":"有些事除了我们，没人说给你听。","large_avatar":"https://img3.doubanio.com/icon/up156804006-4.jpg","id":"156804006","is_auth_author":false},"column":{"id":53,"icon":"https://img3.doubanio.com/f/presto/c8f6c5dcefaade6601e603197ecf90166f249a71/images/column/column-53.png","description":"门槛其实没那么高","name":"聊艺术","post_total":255},"comments_count":6,"title":"错过它，上博“大英展”5个小时的队基本算白排了"},{"display_style":10002,"short_url":"https://dou.bz/0m1Pms","abstract":"我从小在香港长大，但很多地方却没去过，几乎处于疯狂的状态。有时是想人们对自己的地方重新建立一份归属感。","app_css":7,"like_count":164,"thumbs":[{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/t126373.jpg","width":750,"height":529},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/t126373.jpg","width":750,"height":529},"tag_name":"img_1","small":{"url":"https://img3.doubanio.com/view/presto/small/public/t126373.jpg","width":320,"height":225},"id":126373}],"created_time":"2017-07-28 11:24:35","id":180010,"is_editor_choice":false,"original_url":"https://www.douban.com/note/630449996/","content":"
+\n \n
+插画师画了多家香港老店，也发现了这个城市的人情味
+\n
+\n \n \n
+\n \n
+\n \n
+\n \n
+好奇心日报
+\n 的日记\n
+\n \n
+\n
+\n \n \n
+\n
+\n\n
+
+本文作者： 朴春兰
+香港有许多家杂货店，但像朱荣记一样，有着近 60 年历史的却不多见。朱荣记位于上环水坑口街，这是香港最古老的街道，英军当年在这里登陆，从此开启香港殖民地历史。
+朱荣记并不好找，穿过那一间间的海味铺再走上一段斜坡路，才会发现这家像仓库一样堆满杂货的店面。这间旧式杂货店里面有许多上世纪香港日用品，在现今科技主导的生活里显得硕果仅存。
+子承父业，现在的老板是第二代，老板说传统用品自有它们的价值，无可取代，用传统瓦煲来煲汤，香味特别浓郁；如果用不锈钢煲，完全是另一回事。
+
+形形色色的货品全部挂满店里，不少还挤出了店外。虽然看似杂乱无序，但仔细观察就会发现每件货品的摆放实际上都有规律，店外最先摆放的是清洁打扫用品，然后是五金工具，再入去便是厨房用品以及大件杂货。店内怀旧物品琳琅满目，竹制水烟壶、藤篮等，犹如一个怀旧百宝袋。这里还是香港唯一一家可以找到红色猪仔储钱罐的杂货店，老板表示，全香港只剩下一个老伯伯在做这种储钱罐，每只猪的笑脸都是伯伯亲手画上去的。
+
+朱荣记杂货店是香港插画师 FlyingPig 画的第一间老店，当时是被人雇佣，但画着画着，就不想把这个作品变成商业用途。“不想以消费形式、利用老店来自己赚钱。我想用另一种方式让人们认识老店。”于是，她就把画送给了老板，从那之后就开始纯粹为老店作画。她画的所有画都会扫描一份，送给店铺的老板们。
+同样是被 FlyingPig 收录在画笔下，美都餐室则显得热闹得多，不仅香港人，许多游客也会慕名前来。近年来，不少传统的茶餐厅都因市场竞争激烈、租金大涨等问题选择关门。而 1950 年开业的美都餐室一开就是六十几年，是现存历史最悠久的茶餐厅。
+
+为什么会选择这家店铺，FlyingPig 给出的答案简单粗暴，“因为那个时候天气太热”，就进到店铺里蹭空调，却在无意中被老店的故事所吸引。
+美都餐室无论在地理位置、空间布局和细部设计方面都充满不一样的风格，餐厅身处油麻地街角的一座唐楼里，刚好是庙街和众坊街交界处。街角处的建筑是 FlyingPig 最初写生时最常画的对象，街角处的建筑通常比较特别，老建筑尤其多。进入美都餐室的那天，她也刚好是在画这处街角唐楼。
+
+
+美都餐室在唐楼的一楼跟二楼，餐室一直保留着五十年代的设计风格和厨房设备，这里最有名的是焗排骨饭和莲子鸳鸯冰，餐牌菜式不变，旧式的冰室格局，一砖一瓦保留老香港怀旧味道。它所在的唐楼也完整地保留了五十年代的旧貌，正门入口摆着怀旧餐牌；二楼还保留着那个年代非常普遍的二楼雅座，可以一边吃饭一边欣赏外面的风景。
+
+装在外墙上的巨型霓虹招牌，字体色彩鲜艳，设计充满年代特色，和二楼的弧形窗户组合成为店铺最具代表性的标识。餐厅内部则以橙黄色和深棕色为基调，细致多元并反映浓厚的年代色彩，浅绿色木窗、马赛克瓷砖，置身其中就会有种时光倒流的错觉。这里还成为香港电影跟电视剧的取景地，《
+九龙冰室
+》、《
+酒店风云
+》等作品里面都曾出现过这家餐厅的影子。做画的过程中， FlyingPig 才知道原来所有瓷砖都是老板自己挑选的，整个店铺都散发着老板的个人品味。
+也是因为那次写生， FlyingPig 跟餐厅老板成了朋友，今年六月的时候，她在美都餐室的外墙上创作了一幅大型的壁画作品。这幅壁画二十个人，用四天时间完成，FlyingPig 在自己的 Facebook 上写道：“特别感谢路过然后即兴参与的街坊们”。壁画描绘的当然也是美都餐室的故事，当时新填地街仍然是一片海，渔民一上岸就到美都吃饭，甚至结婚摆酒。
+
+彩虹邨的上海华丽理发公司是 FlyingPig 最常与人讲起的故事。
+在 50 至 80 年代的香港，上海理发店曾经是香港理发界的主流，一直到今天，操刀的仍是那些老师傅，有些可能已经七十多岁。八十年代由上海或浙江、江苏等地申请来港，靠着一门剪发理发的手艺在香港工作至今。 可如今，新式沙龙林立，传统理发日渐式微，几乎不会有年轻人光顾，香港也只剩下几间老式的上海理发店。
+
+
+这家毫不华丽的上海华丽理发公司便是仅存的店铺之一，开业 55 年，理发师还是那几个，顾客人面依旧。几位穿着白色制服的老师傅，老式的理发椅，好像回到70、80 年代。华丽理发公司由上海移民徐在兹创办， 1962 年彩虹邨落成时，这里几乎每家每户都有四五个孩子，当时理发店生意鼎盛，每天顾客多逾二百名，剪发要取号码，人龙更排到门外。一九八四年，徐在兹长子特地从上海来到香港，接手父亲的生意。八十年代开始，彩虹邨已经开始老化，随着孩子们长大及搬走，理发店生意大减，但留下来的人依旧会在这里剪发，而这家华丽理发店也一直还在这里。
+
+
+对于 FlyingPig 来说，上海理发店一直是谜一样的存在，对这个地方她总是有很多幻想，里面那些老式的卷发筒、贴纸、理发椅都充满了好奇心。她说，“小时候经过上海理发店，都是贴着磨砂的贴纸，就很好奇里面是什么样子，但又不敢进去。”在这个香港女生眼里，上海老师傅们看起来有点凶，而且多数上海理发店又只招呼男宾，所以一直没有机会进入店里。
+直到某年的父亲节，她拉着父亲去理发，“先帮衬，后混熟”，不但画成了画，也意外地多了几位忘年之交，老板徐先生叫 FlyingPig “小姑娘”，“小姑娘”在这家店铺虽然显得突兀，但渐渐地，来画画的她竟变成了店铺的一道风景，造访几次后， FlyingPig 画了两画送给老板，又给在这里工作的人画了肖像画。“我们成为了朋友，都会经常去聊天，逢年过节还会问候”，她说。
+
+这种关系脉络，就是 FlyingPig 的画中所记录、追求的。三四年间，她已经画了一百多家老店，也正是因为画了这些老店，出了第一本叫做《
+老店风情画
+》的插画作品集。名字听起来充满复古感，不像是出自一个二十多岁的女生之手。
+这本插画集里， FlyingPig 选出了十家老店，除了店铺样貌，还有她与老板们的互动故事，也写成文章附在画作旁边。
+油麻地的排档旁曾经举行过一场 FlyingPig 的人像展，取名“蔴麻地街坊人像展”（麻麻地＝一般般）。说它是一场展览，可能有点夸张了，因为这一百多幅肖像画就像布帘一样挂在排档的四周。这个看起来一点也不“正式”的展览，也用了种相当接地气的方式宣传，就是由她一个人扛着一面牌子，在油麻地附近的街道游走，沿着上海街走到美都餐厅，广东道，沿途呼吁街坊们去看展览。
+
+15 年的冬天开始，油麻地的这个排档旁边就时不时见到 FlyingPig 为街坊画肖像的场景，平日是不特定的一个小时，周末则是 12 点到 2 点，她会自己带着画具、小板凳跟桌子。做画过程持续了一年多，今年四月开始展出。101 张肖像，纪录了 101 个故事，都是来自住在附近的街坊们。而展出地——油麻地绿色排档，则是街道上的产物，以前是做生意的地方，后来变成了街坊们的聚脚地，是建立邻里关系的重要公共空间。
+
+这个挂着人像的大排档在几个月前被强拆，展览的最后是街坊们各自领回自己的人像。
+就像拆掉的大排档一样，她也看着自己画中的老店一间间少去。面对着时代冲击，不少传统老店，如杂货店或中药店等等，选择投降结束营业，经营数十年的老店一夕之间消失。画好了作品，打算送到店主手中时发现老店铺已经歇业的情况也会出现，让她感到惋惜。
+
+石硖尾大坑东龙珠街公园旁，曾经有一架雪糕车家喻户晓。这是一架手推车改装的雪糕车，年近百岁的“雪糕伯伯”黄伯推着这辆车，在这里卖了六十多年的雪糕，风雨不改。他每天坐在藤椅上，准备好雪糕，等着附近小学的小朋友放学。黄伯年轻时在雪糕公司做推销员，他曾踩单车到深水埗、旺角及荔园卖雪糕。六十年前进驻石硖尾，见证石硖尾的变迁。
+
+FlyingPig 曾经在这个公园旁帮黄伯做画，这幅画也被她收录在了《老店风情画》里。除了雪糕车与黄伯的写生，还记录着与黄伯邂逅的过程和生活日常。但当插画集出版之后，她想送到黄伯手上时，却发现路边只剩下辆雪糕车，黄伯却不见了。公园的清洁员告诉她，有天黄伯出来摆摊时晕倒了，送到医院后就再也没有来过。
+
+Flyingpig 在 Facebook 记录道：“那天下毛毛雨，我就静静地坐在公园的亭子里面，想起帮他推车好像就是前段时间的事情，有点难过、感慨。当大家都以为他一直在石硖尾龙珠街时，其实阿伯消失得无声。他是一个社区标记，希望大家都记得他。”
+
+她喜欢用水彩写生，因为做过电影后期制作，她的画又像极了电影分镜，色彩斑斓但又非常仔细。在 FlyingPig 看来，这几年的写生，画笔、画纸慢慢转换成了一种人和人的关系。
+
+FlyingPig 做全职插画师不过两年的时间，算插画界的新人，但这两年在香港插画界已经小有名气。她在尖沙嘴诚品书店开了人生的第一个作品展，展览以“烈日下写生：防晒、汗水和故事”为题。
+她在展览的开篇题道：“ 2013 年春天，第一次走到街头写生。然后陪养出每星期去写生的习惯，渐渐发现自己对城市写生上了瘾，对旧街道和店铺着迷。伴随着写生，我开始认识在社区生活着的老街坊，和他们闲谈相处，了解他们的故事。他们的故事建构了我们的城市，亦同时间构成了我。”
+Q＝好奇心日报
+F = Flyingpig
+Q：为什么选择辞职，做全职插画师？
+F：大学的时候学动画，大学毕业之后，工作了四年，做过商场设计，电影后期制作。那时候每天要加班，过得很不开心，工作的时候也一直想着画画的事情，周末一定会去写生，上班的时候会想着去哪里画画，午饭时间都会用来替没完成的作品上色，有时甚至会早退，就为了去户外画一幅画。当时也纠结了很久，因为都会觉得插画师不算一份很稳定的职业，但后来开始有些人会找我画一些插画，那时发现原来我的画可以传达信息，我也可以靠画画维生。加上父母比较不反对我的这个想法， 后来就干脆辞职了。还好，我现在都有交家用给爸妈。
+Q：为什么钟情于老店铺？
+F：因为美。刚开始我只是画一些旧街道跟建筑，例如唐楼、天台之类，旧的建筑多一点个性和特性，有岁月的痕迹，后来才慢慢转向一些老店。后来又发现这些旧店铺通常保留了一些历史痕迹，背后又盛载着不少往事，相对而言，新式商铺往往予人冷冰冰的感觉。
+Q：怎么来选择这些店铺？
+F：就是好奇心，现在走在路上都会周围看，看到一些特别的铺头，就会很好奇里面到底是什么样子的，我就会走进去，其实这个过程是比较随意的。有时可能就伏在门口画画了，也有一些时候是，看到新闻说，哪一家历史悠久的店要关了，我就会过去，看一下环境，去帮衬一下，看下自己想不想画，这个时候画画的意义就是纯粹的想要送给他们留作纪念。都很随意，没有说一定有什么筛选方式。
+Q：你为一间店铺作画，通常要多久？是一次完成还是会去很多次？
+F：一张画没有特定的时间，一般三个钟头，最快半小时，最慢六个小时都试过，比较弹性。但我自己喜欢久久坐在里面，这样可以更好地感受到这个地方，跟里面的人多点交流，这些都会构成你对这张作品的回忆。比起结果，我比较重视这个过程，
+Q：在作画的过程中，你最大的收获是什么？
+F：锻炼自己的胆量，和人之间的关系，让我接近一个社会，聆听这个地方的故事，我坐在那里几个钟头，跟街坊交流，就会觉得对这个社会多了一份参与。以前对住陌生人，总会有点害怕，但又不知怕什么，后来为了创作，尝试跟别人打招呼，慢慢变成习惯，也开始懂得如何跟人建立互信。还记得最初到永香冰室，老板把我赶走，反而是其它客人说服对方，让我留下来。老实说，人家打开门做生意，不是必然要照顾我，有时会遇到一些热情的老板，请你吃东西之类，那是他们好人，但不一定人人都是这样。跟街坊相处，我学会了尊重，很多时候不妨行前一步，对不同事情宜想得深入一些。此外，接触的人多了，眼界和心胸都会变得广阔，小时候跟爸爸到鸭寮街，常常觉得那里的叔叔很“咸湿”和“猥琐”，但现在我会先冷静观察一个人，不会先入为主，其实那些阿叔很有义气。
+Q：你的书《老店风情画》，是在你作画之前已经有了这样的计划，还是后面才自然而然成书？
+F：刚开始都没有想过，其实画这些老店铺六年前就开始了，但当时是一边工作一边画，到两年前辞职，专注这件事情，当时就觉得我有好多地方不了解，我从小在香港长大，但很多地方却没去过，几乎处于疯狂的状态。有时，不只为想记录这个地方，也想人们对自己的地方重新建立一份归属感。其实，香港还有很多地方是我们未发掘的。
+喜欢这篇文章？去 App 商店搜
+好奇心日报
+，每天看点不一样的。
+\n\n
+\n \n \n \n\n \n \n
+作者：\n \n
+\n \n \n
+好奇心日报
+\n \n \n
+\n \n \n\n \n \n
+\n
+查看原文
+\n ©版权属于作者 商业转载联系作者\n
+\n \n
+\n\n","share_pic_url":"https://moment.douban.com/share_pic/post/180010.jpg","type":"1001","is_liked":false,"photos":[{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/616433.jpg","width":755,"height":450},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/616433.jpg","width":755,"height":450},"tag_name":"img_20","small":{"url":"https://img3.doubanio.com/view/presto/small/public/616433.jpg","width":320,"height":190},"id":616433},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/616414.jpg","width":750,"height":579},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/616414.jpg","width":750,"height":579},"tag_name":"img_1","small":{"url":"https://img3.doubanio.com/view/presto/small/public/616414.jpg","width":320,"height":247},"id":616414},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/616415.jpg","width":750,"height":529},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/616415.jpg","width":750,"height":529},"tag_name":"img_2","small":{"url":"https://img3.doubanio.com/view/presto/small/public/616415.jpg","width":320,"height":225},"id":616415},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/616416.jpg","width":750,"height":503},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/616416.jpg","width":750,"height":503},"tag_name":"img_3","small":{"url":"https://img3.doubanio.com/view/presto/small/public/616416.jpg","width":320,"height":214},"id":616416},{"medium":{"url":"https://img1.doubanio.com/view/presto/medium/public/616417.jpg","width":750,"height":474},"description":"","large":{"url":"https://img1.doubanio.com/view/presto/large/public/616417.jpg","width":750,"height":474},"tag_name":"img_4","small":{"url":"https://img1.doubanio.com/view/presto/small/public/616417.jpg","width":320,"height":202},"id":616417},{"medium":{"url":"https://img1.doubanio.com/view/presto/medium/public/616418.jpg","width":750,"height":547},"description":"","large":{"url":"https://img1.doubanio.com/view/presto/large/public/616418.jpg","width":750,"height":547},"tag_name":"img_5","small":{"url":"https://img1.doubanio.com/view/presto/small/public/616418.jpg","width":320,"height":233},"id":616418},{"medium":{"url":"https://img1.doubanio.com/view/presto/medium/public/616419.jpg","width":750,"height":422},"description":"","large":{"url":"https://img1.doubanio.com/view/presto/large/public/616419.jpg","width":750,"height":422},"tag_name":"img_6","small":{"url":"https://img1.doubanio.com/view/presto/small/public/616419.jpg","width":320,"height":180},"id":616419},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/616420.jpg","width":750,"height":396},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/616420.jpg","width":750,"height":396},"tag_name":"img_7","small":{"url":"https://img3.doubanio.com/view/presto/small/public/616420.jpg","width":320,"height":168},"id":616420},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/616421.jpg","width":750,"height":529},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/616421.jpg","width":750,"height":529},"tag_name":"img_8","small":{"url":"https://img3.doubanio.com/view/presto/small/public/616421.jpg","width":320,"height":225},"id":616421},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/616422.jpg","width":750,"height":512},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/616422.jpg","width":750,"height":512},"tag_name":"img_9","small":{"url":"https://img3.doubanio.com/view/presto/small/public/616422.jpg","width":320,"height":218},"id":616422},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/616423.jpg","width":750,"height":478},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/616423.jpg","width":750,"height":478},"tag_name":"img_10","small":{"url":"https://img3.doubanio.com/view/presto/small/public/616423.jpg","width":320,"height":203},"id":616423},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/616424.jpg","width":750,"height":511},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/616424.jpg","width":750,"height":511},"tag_name":"img_11","small":{"url":"https://img3.doubanio.com/view/presto/small/public/616424.jpg","width":320,"height":218},"id":616424},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/616425.jpg","width":750,"height":481},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/616425.jpg","width":750,"height":481},"tag_name":"img_12","small":{"url":"https://img3.doubanio.com/view/presto/small/public/616425.jpg","width":320,"height":205},"id":616425},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/616426.jpg","width":750,"height":1062},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/616426.jpg","width":750,"height":1062},"tag_name":"img_13","small":{"url":"https://img3.doubanio.com/view/presto/small/public/616426.jpg","width":320,"height":453},"id":616426},{"medium":{"url":"https://img1.doubanio.com/view/presto/medium/public/616427.jpg","width":750,"height":744},"description":"","large":{"url":"https://img1.doubanio.com/view/presto/large/public/616427.jpg","width":750,"height":744},"tag_name":"img_14","small":{"url":"https://img1.doubanio.com/view/presto/small/public/616427.jpg","width":320,"height":317},"id":616427},{"medium":{"url":"https://img1.doubanio.com/view/presto/medium/public/616428.jpg","width":750,"height":712},"description":"","large":{"url":"https://img1.doubanio.com/view/presto/large/public/616428.jpg","width":750,"height":712},"tag_name":"img_15","small":{"url":"https://img1.doubanio.com/view/presto/small/public/616428.jpg","width":320,"height":303},"id":616428},{"medium":{"url":"https://img1.doubanio.com/view/presto/medium/public/616429.jpg","width":750,"height":421},"description":"","large":{"url":"https://img1.doubanio.com/view/presto/large/public/616429.jpg","width":750,"height":421},"tag_name":"img_16","small":{"url":"https://img1.doubanio.com/view/presto/small/public/616429.jpg","width":320,"height":179},"id":616429},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/616430.jpg","width":750,"height":670},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/616430.jpg","width":750,"height":670},"tag_name":"img_17","small":{"url":"https://img3.doubanio.com/view/presto/small/public/616430.jpg","width":320,"height":285},"id":616430},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/616431.jpg","width":750,"height":497},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/616431.jpg","width":750,"height":497},"tag_name":"img_18","small":{"url":"https://img3.doubanio.com/view/presto/small/public/616431.jpg","width":320,"height":212},"id":616431},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/616432.jpg","width":750,"height":471},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/616432.jpg","width":750,"height":471},"tag_name":"img_19","small":{"url":"https://img3.doubanio.com/view/presto/small/public/616432.jpg","width":320,"height":200},"id":616432}],"date":"2017-08-14","published_time":"2017-08-14 09:00:00","url":"https://moment.douban.com/post/180010/?douban_rec=1","author":{"is_followed":false,"uid":"120941130","url":"https://www.douban.com/people/120941130/","avatar":"https://img3.doubanio.com/icon/u120941130-4.jpg","name":"好奇心日报","is_special_user":false,"n_posts":0,"alt":"好奇驱动你的世界","large_avatar":"https://img3.doubanio.com/icon/up120941130-4.jpg","id":"120941130","is_auth_author":false},"column":{"id":1,"icon":"https://img3.doubanio.com/f/presto/8bff95d769e4677b2eb579b124dc50660a6f60a5/images/column/icon_default.png","description":"","name":"","post_total":9563},"comments_count":1,"title":"插画师画了多家香港老店，也发现了这个城市的人情味"},{"display_style":10002,"short_url":"https://dou.bz/3eVZBf","abstract":"第一次见共享单车还是去年年底回国时。那时候街上偶见几辆设计别致的自行车，我因而多看了两眼，感觉它们气质非凡。","app_css":7,"like_count":63,"thumbs":[{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/t126370.jpg","width":690,"height":459},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/t126370.jpg","width":690,"height":459},"tag_name":"img_1","small":{"url":"https://img3.doubanio.com/view/presto/small/public/t126370.jpg","width":320,"height":212},"id":126370}],"created_time":"2017-07-24 23:30:47","id":179528,"is_editor_choice":false,"original_url":"https://www.douban.com/note/629830769/","content":"
+\n \n
+共享单车的英国登陆战
+\n
+\n \n \n
+\n \n
+\n \n
+\n \n
+知更
+\n 的日记\n
+\n \n
+\n
+\n \n \n
+\n
+\n\n
+说起来，我一定是最晚一批接触国内共享单车的人。第一次见共享单车还是去年年底回国时。那时候街上偶见几辆设计别致的自行车，我因而多看了两眼，感觉它们气质非凡。后来听朋友说，那叫共享单车。今年再回国，大街小巷都停满了各种颜色的共享单车，我听说留给创业者的颜色已经不多了，共享单车泛滥了。
+
+作为一个生活在海外的华人，其实并不应该如此孤落寡闻。曾几何时，英国一直都是领先于世界的国度。共享单车？没什么技术含量的事，早在8年前就已经在英国出现了。但问题是，当中国已经淘汰了带桩单车，真正意义上实现了自行车的共享时，英国却还是老样子，一辆车子一个桩，一个萝卜一个坑。这种8年前看似先进的模式，现在早已经跟不上潮流了。
+
+回到2010年，伦敦的“落后单车”还是很新潮的。由伦敦市政府牵头，Barclays银行赞助，第一批共享单车采用了Barclays银行的蓝色。 然而2015年4月，它迎来了第二家赞助银行——红色标志的Santander，于是一夜之间，原来的小蓝车都变成了现在的小红车。我还幸运的借到过黄色的车， 那不是ofo，而是2014年的“限量款”，为纪念当年要在伦敦举行的第101届环法自行车赛，伦敦把101辆当时的小蓝车涂成了黄色。我竟然如此幸运，万里挑一遇到了其中一辆。
+
+伦敦的“落后单车”使用起来也并不繁琐。只需一张信用卡授权，（或是本地的debit card），接下来就按照操作台上的指示一步步进行，最后会出来一张收据，收据上写着取车的密码。把这个密码输入到任意停车桩的小键盘上，就可以轻松取车了。当然，比起国内的扫码取车还是麻烦了点儿，价格嘛，也贵了点儿（每天2镑，单次使用最长30分钟）。
+当然，“落后单车”的优点也是不少的：座位是可调的，车是变速的，每个停车桩的定位和车辆信息也都有App联网，晚上还有萌萌的投射车灯，大大的提升了夜晚骑车的安全性。不得不说，在细节和安全性方面，“落后单车”还是周全的。另外政府对单车的管理也是到位的，在伦敦我几乎没有看到过乱停乱放的共享单车，毕竟和银行的信用挂钩，谁也不会冒着这么大的风险，去私藏或是滥用它。
+不用过多的做比，每个使用过两者的人都知道，国内出现的新一代无桩共享单车比伦敦现有的带桩单车要方便不知多少倍。共享单车最神奇的地方就在于，它能让本来没有骑车习惯的群体，也加入到单车一族中来。这么棒的共享单车怎能只在中国市场发展？国内不少单车巨头已经把目光投向了英国这片土地。在这里出行费用高，城市密度大，再加上又有之前公共单车的基础，可以说是可供新一代共享单车生根发芽的肥沃土壤。
+于是就在今年的4月，ofo成为首个冲出亚洲的共享单车品牌。它把第一批的试点定在了小城剑桥。虽然首次只是投放了20辆单车免费试运行，但还是给这个有点苍老的国度引入了一个了不起的新概念。就在不久后的6月29日，Mobike也来抢蛋糕了。它们在英国的大城市曼彻斯特一次性大手笔的投入了1000辆单车。就这样，中国的小黄车，小橙车齐聚英国。共享单车的英国登陆战也就此打响。
+
+
+然而这场登陆战也并不只是中国两巨头间的交战。就在7月11日，新加坡一家共享单车公司obike强行登陆伦敦。 说“强行”是因为这400辆obike的投放，事先并没有跟当地政府打好招呼。果不其然，仅仅三天后，obike就被当地政府贴了条，并勒令撤走！在共享单车这个领域，大家都看准了英国这块肥肉，谁都想抢先割两刀。但无奈，总有技不如人者成为这场登陆战的牺牲品。
+
+
+不过竞争越激烈，对于消费者的益处也就越多。摆脱了Santander bike的垄断，从此，英国人再也不用为找不着停车桩而发愁了，再也不用为自行车被偷而愤怒了，再也不用为交通费超值而头疼了。当我们已经准备好观看英国人对中国的新概念共享单车欢呼雀跃的时候，英国人却似乎并不百分百的领情。在大量的好评和赞誉中也掺杂着不少质疑。在《剑桥新闻》上就有这样一则充满质疑的报道：Chinese bike hire company ofo 'has not addressed concerns' ahead of tomorrow's launch（来自中国的共享单车ofo并未在明天的试运行之前解除民众疑虑）。What？这是传说中的见好不收吗？因为我实在是想不出，这么好的事，能给这帮保守分子造成什么了不得的疑虑。 文章一开始就直截了当的引了剑桥council leader的一句话，他说他对这次共享单车的试运行没什么信心，不觉得它能适合剑桥这个城市。接下来文中列举了“a number of serious questions”，其中人们最大的担心是这种无停靠桩的共享单车会被丢的满街都是，给行人或是原本的自行车拥有者造成困扰。城市管理者不希望这些被充分自由化的共享单车，在城市的各处占据原本就拮据的空间，“它可能会让自行车公共停放区拥挤不堪，它可能被随处丢在残疾人通道上。这会让本就十分拥挤的剑桥老城失去秩序。”另一个担忧来自于安全性。众所周知，在英国夜间骑车必须配备车灯，而这次新来的20位小黄车恰恰缺少了这样一个细节。乱停乱放的问题在国内果然是出现了，但我们并不十分担心，但英国人不同，他们会因此陷入进退两难。
+英国人和我们的思维方式果然不同。他们在考虑一个新项目能不能投入运行时，优先考虑的是它会不会给不使用的人造成麻烦和困扰，而我们先考虑的是，最大化它给使用者带来的便利。考虑的主体都不同，怎么可能想得到一块儿，谈的到一处。我们通常认为的外国人傻，外国人轴，可能就在这处吧。他们并不是看不见利处，有是更担心弊端，为了不造成这个弊端，宁可不去享受这个利处。我们不一样哪个开车的有功夫考虑骑车的，哪个骑车的又劳心去考虑行人啊。社会发展阶段不同，考虑的问题大概就是会这么不一样。宁可让大多数的健全人多走几步路，也决不允许给少数的残疾人造成了不方便的隐患。想到这，我又不忍批评英国的“落后”了，也稍微理解了英国人的保守。
+对于英国人的担忧，我相信中国的共享单车不是解决不了，这样一个智能的中国系统再加上英国人严谨的高要求，一定不难做到尽善尽美。现在ofo和mobike还都只是在试运行阶段，磨合的如何，结果会怎样，现在还没有定论，但我十分希望今后可以在英国的各个地方，看到来自中国的共享单车。
+\n\n
+\n \n \n \n\n \n \n
+作者：\n \n
+\n \n \n
+知更
+\n \n \n
+\n \n \n\n \n \n
+\n
+查看原文
+\n ©版权属于作者 商业转载联系作者\n
+\n \n
+\n\n","share_pic_url":"https://moment.douban.com/share_pic/post/179528.jpg","type":"1001","is_liked":false,"photos":[{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/613590.jpg","width":600,"height":360},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/613590.jpg","width":600,"height":360},"tag_name":"img_1","small":{"url":"https://img3.doubanio.com/view/presto/small/public/613590.jpg","width":320,"height":192},"id":613590},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/613591.jpg","width":690,"height":920},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/613591.jpg","width":690,"height":920},"tag_name":"img_2","small":{"url":"https://img3.doubanio.com/view/presto/small/public/613591.jpg","width":320,"height":426},"id":613591},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/613592.jpg","width":690,"height":388},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/613592.jpg","width":690,"height":388},"tag_name":"img_3","small":{"url":"https://img3.doubanio.com/view/presto/small/public/613592.jpg","width":320,"height":179},"id":613592},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/613593.jpg","width":615,"height":409},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/613593.jpg","width":615,"height":409},"tag_name":"img_4","small":{"url":"https://img3.doubanio.com/view/presto/small/public/613593.jpg","width":320,"height":212},"id":613593},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/613594.jpg","width":690,"height":459},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/613594.jpg","width":690,"height":459},"tag_name":"img_5","small":{"url":"https://img3.doubanio.com/view/presto/small/public/613594.jpg","width":320,"height":212},"id":613594},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/613595.jpg","width":690,"height":588},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/613595.jpg","width":690,"height":588},"tag_name":"img_6","small":{"url":"https://img3.doubanio.com/view/presto/small/public/613595.jpg","width":320,"height":272},"id":613595},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/613596.jpg","width":690,"height":287},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/613596.jpg","width":690,"height":287},"tag_name":"img_7","small":{"url":"https://img3.doubanio.com/view/presto/small/public/613596.jpg","width":320,"height":133},"id":613596}],"date":"2017-08-14","published_time":"2017-08-14 08:00:00","url":"https://moment.douban.com/post/179528/?douban_rec=1","author":{"is_followed":false,"uid":"45481126","url":"https://www.douban.com/people/45481126/","avatar":"https://img3.doubanio.com/icon/u45481126-11.jpg","name":"知更","is_special_user":false,"n_posts":0,"alt":"从生活的角度观礼世界","large_avatar":"https://img3.doubanio.com/icon/up45481126-11.jpg","id":"45481126","is_auth_author":false},"column":{"id":1,"icon":"https://img3.doubanio.com/f/presto/8bff95d769e4677b2eb579b124dc50660a6f60a5/images/column/icon_default.png","description":"","name":"","post_total":9563},"comments_count":19,"title":"共享单车的英国登陆战"},{"display_style":10002,"short_url":"https://dou.bz/4maMMS","abstract":"水浒群雄的武功排行比起三国群英来要复杂许多，首先是出场人物众多，尤其是招安之后，高手走马灯般上阵，令人眼花缭乱……","app_css":7,"like_count":106,"thumbs":[{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/t126366.jpg","width":306,"height":432},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/t126366.jpg","width":306,"height":432},"tag_name":"img_1","small":{"url":"https://img3.doubanio.com/view/presto/small/public/t126366.jpg","width":306,"height":432},"id":126366}],"created_time":"2017-07-21 23:34:09","id":179315,"is_editor_choice":false,"original_url":"https://www.douban.com/note/629759652/","content":"
+\n \n
+\n 闲翻书\n
+\n \n
+水浒群雄武功排行榜
+\n
+\n \n \n
+\n \n
+\n \n
+\n \n
+芦哲峰
+\n 的日记\n
+\n \n
+\n
+\n \n \n
+\n
+\n\n
+水浒
+群雄的武功排行比起三国群英来要复杂许多，首先是出场人物众多，尤其是招安之后，高手走马灯般上阵，令人眼花缭乱；其次是功夫种类繁杂，不光只有马上对阵一种，还出现了武林侠客的打法——拳击格斗，以及各种怪力乱神的妖法、暗器等旁门左道。因此，水浒群雄的武功高下比较起来，颇有些难度。
+为了便于比较，还是先从梁山好汉说起。法术、暗器和水下功夫暂且不表，单以马上马下的武功论，梁山一百单八将大致有一个现成的排行：
+马上，当以玉麒麟卢俊义为首，此人身高九尺，惯使一条棍棒，天下无对，曾头市一战，力擒史文恭（史文恭只用二十回合就打败秦明）；招安之后，力敌耶律四将不怯（四将武功都不弱，曾分别对阵关胜、呼延灼、徐宁、索超，虽回数不多，但未分胜负），并诛杀一人，击退三人；百战孙安；活捉卞祥；枪挑厉天闰，除与王庆手下之金剑先生李助交手时，处于下风以外，未曾一败，可谓武功盖世，是整部水浒中的顶级高手之一，功夫远胜梁山五虎将。
+接下来是五虎将——大刀关胜、豹子头林冲、双鞭呼延灼、双枪将董平、霹雳火秦明。其中关胜、林冲较后三人，技高一筹，招安之后，每遇劲敌，非此二人出战不可，对战敌将无数，未有败绩；然后是呼延灼和董平，呼延灼防守能力极强，基本上没有败绩。董平进攻能力似较呼延灼略高一点，但防守能力不及，多次处于险境之中；五虎将里武功最末的是秦明，与敌交手，胜绩不少，但败绩更多，最差战绩是二十回合败给史文恭，二十回合被栾廷玉所擒，其真实功力可能只与八骠骑之花荣、徐宁、杨志相仿佛。
+梁山五虎将之后，便是八骠骑——小李广花荣、青面兽杨志、金枪手徐宁、九纹龙史进、急先锋索超、没羽箭张清、美髯公朱仝和没遮拦穆弘，还有两位与八骠骑武功相当的，即扑天雕李应和病尉迟孙立。这十个人武功大致在一个档次，花荣、杨志、徐宁、史进、孙立略高半筹；张清暗器无敌，但枪法一般；穆弘基本上没什么突出表现，应该算是这一组里武功最弱的。
+马下，当以鲁智深和武松为首，接下来依次是赤发鬼刘唐、病关索杨雄、浪子燕青、拼命三郎石秀、插翅虎雷横和黑旋风李逵。水浒传里凡遇到马下与马上对阵时，马下都很吃亏，只有鲁智深和武松具有正面抗衡马军将领的能力，二人武功大致与五虎将相当；刘唐、杨雄、燕青与八骠骑相若；石秀、雷横、李逵较八骠骑稍弱。
+鲁智深其人面圆耳大，鼻直口方，腮边貉腮胡须，身长八尺，腰润十围，力大无穷，手使六十二斤重水磨禅杖，上山之前曾拳打镇关西、大闹五台山、大闹桃花村、火烧瓦罐寺、倒拔垂杨柳、大闹野猪林、单打二龙山；招安之后，活捉马灵，大战邓元觉，生擒方腊，屡立奇功。三山聚义打青州时，曾在马上与呼延灼大战五十回合不分胜负，使得呼延灼心里暗赞这和尚功夫了得，马上对战非鲁智深所长，却能与呼延灼打成平手，若在马下，胜呼延灼不在话下；
+武松其人身躯魁梧，壮健非常，力大无比，曾于景阳冈徒手毙虎，还曾轻易举起天王堂前四五百斤石墩，掷高一丈后轻松接住；斗杀西门庆，醉打蒋门神，用了玉环步、鸳鸯脚等武林绝学；大战飞天蜈蚣王道人，以双刀胜双剑。招安之后，还曾三次只用一招便斩了马上之将，可见，武松是真正的武林高手，可称梁山步战第一人；
+以上二十四位，便是梁山好汉里武功最高的二十四人，按武功高低大体排行应为：卢俊义、关胜、林冲、鲁智深、武松、呼延灼、董平、秦明、花荣、杨志、徐宁、孙立、史进、索超、李应、朱仝、张清、刘唐、杨雄、燕青、石秀、穆弘、雷横、李逵。其中，卢俊义是顶级高手；五虎将和鲁智深、武松是超一流高手；剩下的十六人，可归为一流高手行列。
+梁山有一百单八将之众，却也未能囊括天下英雄。正所谓天外有天，人外有人，梁山之外，依旧是高手如云。接下来，我们以秦明为界，看看整部水浒中，武功胜过秦明的超一流高手，都有哪些。按照出场先后，逐个加以评说：
+A：七十回之前，梁山之外的高手共有三位，分别是：王进、栾廷玉和史文恭：
+王进：原为东京八十万禁军教头，因得罪高俅，带母私走延安府，路过史家村时，一合即打败史进，后做了史进的师傅，史进跟其学了半年功夫，便十八般武艺样样精通，名列梁山八骠骑之一。必有名师，方出高徒，王进虽然未与水浒中其他高手交过手，但据此来看，此人武功绝不下于林冲；
+栾廷玉：祝家庄的武术教师，善使铁棒，号称“铁棒奕廷玉”，江湖闻名。与秦明战，只一二十合便将秦明用绊马索拿了。如此武功，与秦明同列五虎将的关胜、林冲，当然无法做到；
+史文恭：曾头市的武术教师，此人骑照夜玉狮子马，手使一支方天画戟，武功超群，枪法出众，勇猛无比。与秦明战，约二十余合，秦明败阵，走时被史文恭一枪刺在腿股上，吕方、郭盛、马麟、邓飞四将齐出死命来救秦明，却也抵挡不住史文恭。后被卢俊义活捉。
+B：十节度使征讨梁山时，武功出色的有四位，依次是：王焕、韩存保、项元镇和张开：
+王焕：河南河北节度使，与林冲大战七、八十合，未分胜负；
+韩存保：云中门节度使，与呼延灼从马上打到马下，旗鼓相当，难分高下；
+项元镇：琅琊彭城节度使，与董平战约十合左右，瞅准时机，箭射董平右臂，致使董平弃枪逃归本阵。据此看，其武功射功应比花荣略胜之；
+张开：中山安平节度使，战张清，马上这条枪，神出鬼没，张清只有招架之功（张清飞石厉害，枪法却只一般），没有还手之力，拖了枪，便走入马军队里躲闪。张开枪马到处，杀得五六十马军，四分五落。此人武功应与秦明相当。
+C：招安之后，梁山奉诏征讨大辽，遇到辽国众多高手，其中最厉害的三位是阿里奇、兀颜光和琼妖纳延：
+阿里奇：辽国檀州守将，手拈梨花点钢枪，坐骑银色拳花马，有万夫不当之勇。徐宁与之战，三十余合即败走。能在三十回合杀败徐宁，此人武功在五虎将之上，略低于史文恭和栾廷玉。后被张清用石子打中左眼落马，被擒杀；
+兀颜光：辽国第一上将，十八般武艺，无有不通，兵书战策尽皆闲熟。上阵时，仗条浑铁点钢枪杀到浓处，不时擎出腰间铁筒，使得铮铮有声，端的是万夫不当之勇。后来在混天象阵里，被关胜、花荣和张清联手斩杀，关胜武功，梁山第二，花荣、张清是梁山暗器最厉害的两位，三人联手方能诛杀兀颜光，可见此人武功之高。
+琼妖纳延：辽国兀颜统军座下先锋，三十回合杀退史进。
+D：田虎手下，高手有二，孙安、卞祥：
+孙安：田虎手下殿帅，身长九尺，腰大八围，颇知韬略，臂力过人，学得一身出色的好武艺，惯使两口镔铁剑。与秦明斗五六十回合不分胜负，又与卢俊义斗五十余合，忽马失前踢，孙安颠下马，卢俊义令其换马再战。五十余合后，卢俊义佯败，孙安被绊马锁绊倒，活捉归顺后，助卢俊义斩杀杜壆；
+卞祥：田虎手下太师，庄稼出身，两条臂膊水牛般气力，武艺精熟，金冠银甲，身长九尺，跨匹冲波战马，提开山大斧。史进曾与卞祥战三十余合，花荣拍马提枪助战，二打一又战三十余合无胜败，各自收兵。后被卢俊义活捉。后宋江亲释其缚，以礼相待，遂感激归降。攻打王庆时，卞祥见山士奇斗不过酆泰，拈枪拍马助战，大喝一声，一枪刺中酆泰心窝，死于马下。
+E：王庆手下，高手有四位，袁朗、杜壆、酆泰、李助：
+袁朗：王庆手下将领，骑一匹卷毛乌骓，两个水磨炼钢挝，左手十五斤，右手十六斤，与秦明战，一百五十余合不分胜负；
+杜壆：王庆手下将领，身高八尺又八，威风凛凛，自幼练得好武艺，与卢俊义交战，五十余合不分胜负，手中那条丈八蛇矛枪神出鬼没。孙安见卢俊义不能取胜，舞剑拍马助战，杜壆措手不及，被一剑砍断右臂，翻身落马，卢俊义再一枪结果了性命；
+酆泰：王庆手下将领，身材魁梧，膂力过人，能征贯战。与山士奇战，斗到十合以上，卞祥见山士奇斗不过酆泰，拈枪拍马助战，被酆泰大喝一声，只一简，把山士奇打下马来，再一简，结果了性命，山士奇原是田虎手下，曾与林冲斗五十回合不分胜负，据此情形看，山士奇武功应与杨志相若，却被酆泰十几回合斩杀，由此看，酆泰武功只会在林冲之上，不会在林冲之下；
+李助：王庆军师，号金剑先生，剑术无敌，一把剑舞将起来，如掣电一般，此人是全书中惟一一位单打独斗让卢俊义抵挡不住的人物，后被公孙胜用法术制服。
+F：方腊手下，高手有六位：邓元觉、石宝、司行方、厉天闰、方杰、王寅：
+邓元觉：方腊手下宝光如来国师，使浑铁禅杖，重五十余斤。鲁智深与邓元觉斗五十余合不分胜负，武松见鲁智深战宝光不下，恐有疏失，心中焦躁，飞出阵来助战，邓望城里便走。后与秦明交战五六合，见秦明输了，径奔来捉宋江，被花荣一箭射落马下，被众军杀死；
+石宝：方腊手下南离大将军元帅，福州人氏，惯使一个流星锤，百发百中，又能使一口宝刀，名为“劈风刀”，可以裁铜截铁，遮莫三层铠甲，如劈风一般过去。曾锤打八骠骑之一骁将急先锋索超；战吕方、郭盛两枝戟，没半分漏泄，直至又加上朱仝一条枪，才败走。遇关胜，不敢恋战，关胜也不敢轻取；
+司行方：方腊手下护国大将军，三十回合砍杀雷横；
+厉天闰：方腊手下镇国大将军，破单手董平与张清的联手，刺死张清；
+方杰：方腊侄儿，惯使一枝方天通戟，有万夫不当之勇。与秦明战三十余合不分胜负，杜微背后飞刀，秦明闪时被方杰杀死。关胜与方杰战十数合，花荣又上，方杰力敌二将全无惧色，又战数合，难见输赢，却只没遮拦躲避，李应、朱仝再上，方杰才退，却不防被附马柯引（柴进）一枪戳着，燕青一刀结果其性命；
+王寅：方腊手下兵部尚书，此人惯使一条钢枪，坐下有一骑好马，名唤“转山飞”，登山渡水，如行平地。李云、石勇数合死于王寅枪下。孙立、黄信、邹渊、邹润四将与王寅撕杀，那王寅奋勇力敌四将，并无惧怯。不想又撞出林冲赶到，一并围战，被乱戮而杀。
+至此，我们可以得出整部水浒中超一流高手前三十名的排行如下：
+1、李助：剑法高明，一对一，让卢俊义抵挡不住；
+2、卢俊义：擒史文恭；胜耶律四将；胜孙安；擒卞祥；枪挑厉天闰；
+3、方杰：刺死秦明；力敌关胜、花荣联手而不惧，李应、朱仝再上，方杰才退；
+4、兀颜光：辽国第一猛将，梁山武功第二的关胜，加上暗器最厉害的花荣、张清，方才将其斩杀；
+5、王寅：力敌孙立、黄信、邹渊、邹润四将而不败，加上林冲才将其刺死；
+6、史文恭：射杀晁盖；二十回合胜秦明；吕方、郭盛、马麟、邓飞四将齐出，亦敌不住；
+7、卞祥：力敌史进、花荣联手，三十回合而不败；斩杀功夫在林冲之上的酆泰；
+8、栾廷玉：二十回合擒秦明；
+9、杜壆：与卢俊义对战五十回合而不败；
+10、王进：八十万禁军教头，半年之内教会史进十八般武艺；
+11、酆泰：十几回合即斩杀与林冲对阵五十回合不分胜负的山士奇；
+12、关胜：梁山五虎将之首，十回合杀得索超斧怯；征方腊时，斩将颇多；
+13、石宝：诛杀梁山好汉多名：马麟、燕顺、索超、邓飞、鲍旭等都命丧其手；与关胜棋逢对手；
+14、阿里奇：三十回合击败徐宁；
+15、林冲：梁山五虎将排名第二，对敌无数，未曾一败，其实际功夫应与关胜伯仲之间；
+16、鲁智深：倒拔垂杨柳，力逾千钧。马上对阵呼延灼五十回合不分胜负，马下与邓元觉打成平手；
+17、邓元觉：与鲁智深对战不分胜负；
+18、武松：徒手毙虎，斗杀西门庆，醉打蒋门神，刀砍飞天蜈蚣，还曾三次，马下对马上一招斩将；
+19、王焕：与林冲对战七十回合未分胜负；
+20、司行方：三十回合斩杀雷横；
+21、琼妖纳延：与史进战，处于上风，三十回合吓退史进；
+22、呼延灼：与林冲、鲁智深、孙立、杨志对战，均不分胜负，其防守能力胜于进攻能力，征辽时，曾活捉兀颜延寿；
+23、韩存保：与呼延灼对战，打成平手；
+24、厉天闰：单手董平与张清联手，不敌厉天闰；
+25、孙安：与秦明斗五六十合不分胜负，又与卢俊义斗五十合，后被卢俊义所擒，功夫当在秦明之上，卢俊义之下；
+26、项元镇：对阵董平十回合后，箭射董平右臂；
+27、张开：杀得张清落荒而逃；
+28、董平：与徐宁交战五十回合，不分胜负，但处在上风；征辽时枪挑辽国大将耶律国珍；
+29、秦明：勇猛无比，性如烈火，单挑次数在梁山数一数二，但防守能力较差，曾先后败于顶尖高手栾廷玉、史文恭和方杰之手；论武功，当为梁山五虎将之末；
+30、袁朗：对阵秦明一百五十回合不分胜负；
+三国篇请戳 →
+三国群英武功排行榜
+\n\n
+\n \n \n \n\n \n \n
+作者：\n \n
+\n \n \n
+芦哲峰
+\n \n \n
+\n \n \n\n \n
+栏目：\n
+\n 闲翻书\n
+\n
+\n \n \n
+\n
+查看原文
+\n ©版权属于作者 商业转载联系作者\n
+\n \n
+\n\n","share_pic_url":"https://moment.douban.com/share_pic/post/179315.jpg","type":"1001","is_liked":false,"photos":[],"date":"2017-08-14","published_time":"2017-08-14 04:00:00","url":"https://moment.douban.com/post/179315/?douban_rec=1","author":{"is_followed":false,"uid":"luhua","url":"https://www.douban.com/people/luhua/","avatar":"https://img1.doubanio.com/icon/u1329080-9.jpg","name":"芦哲峰","is_special_user":false,"n_posts":0,"alt":"灵魂深处有个鬼，这鬼跟你有一腿","large_avatar":"https://img1.doubanio.com/icon/up1329080-9.jpg","id":"1329080","is_auth_author":false},"column":{"id":33,"icon":"https://img3.doubanio.com/f/presto/c7da80e7bdd5388c1c4f882c16d84ce64fa7775f/images/column/column-33.png","description":"书里书外，感受阅读之美","name":"闲翻书","post_total":1245},"comments_count":6,"title":"水浒群雄武功排行榜"},{"display_style":10002,"short_url":"https://dou.bz/4hHOhU","abstract":"拔完牙以后医生说：这一天就尽量别说话了吧。话音刚落，坐在我身后的妈妈开始盘点从我学会说话以后就喜欢还嘴的每一件小事。","app_css":7,"like_count":170,"thumbs":[{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/t126420.jpg","width":460,"height":817},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/t126420.jpg","width":460,"height":817},"tag_name":"img_1","small":{"url":"https://img3.doubanio.com/view/presto/small/public/t126420.jpg","width":320,"height":568},"id":126420}],"created_time":"2017-08-07 08:00:12","id":180886,"is_editor_choice":false,"original_url":"","content":"
+\n \n
+\n 打鸡血\n
+\n \n
+打鸡血｜加了微信又不理的都不是好东西 2017.08.14
+\n
+\n \n \n
+\n \n 来自：\n \n 一刻编辑\n \n
+\n \n
+\n
+\n \n \n
+\n
+\n\n
+
+局长
+ 的广播
+喜欢靳东老师的妹子是不是从小就没被教导主任训过。
+
+沙尘暴躁-刑天
+ 的广播
+昨晚梦到家里洗衣机对我说，天热只想吃清淡的，10月1日之前深色衣服让我自己用手洗，
+
+cs182
+ 的广播
+昨天下午走在街上，一只体型硕大的苍蝇从旁边飞来撞到了我的下巴，然后又一脸歉意的飞走了。
+
+姨妈的鸭
+ 的广播
+去拔牙，拔完以后医生说：这一天就尽量别说话了吧。话音刚落，坐在我身后的妈妈开始盘点从我学会说话以后就喜欢还嘴的每一件小事。#我感觉她等这一天等了很久#
+
+去你妈的
+ 的广播
+学校顺丰快递可能是寄录取通知书的信封没用完，最近寄文件都是用写着“北京大学录取通知”的红色信封装的。想给自己的高三老师寄一封过去，里面装个纸条，上书“想的美”。
+
+wojiangwojiang
+ 的广播
+加了微信又不理的都不是好东西。
+
+\n\n
+\n \n \n \n\n \n \n \n\n \n
+栏目：\n
+\n 打鸡血\n
+\n
+\n \n \n
+\n\n","share_pic_url":"https://moment.douban.com/share_pic/post/180886.jpg","type":"1001","is_liked":false,"photos":[{"medium":{"url":"https://img1.doubanio.com/view/presto/medium/public/623268.jpg","width":460,"height":817},"description":"","large":{"url":"https://img1.doubanio.com/view/presto/large/public/623268.jpg","width":460,"height":817},"tag_name":"img_1","small":{"url":"https://img1.doubanio.com/view/presto/small/public/623268.jpg","width":320,"height":568},"id":623268},{"medium":{"url":"https://img1.doubanio.com/view/presto/medium/public/623269.jpg","width":460,"height":817},"description":"","large":{"url":"https://img1.doubanio.com/view/presto/large/public/623269.jpg","width":460,"height":817},"tag_name":"img_2","small":{"url":"https://img1.doubanio.com/view/presto/small/public/623269.jpg","width":320,"height":568},"id":623269},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/623270.jpg","width":460,"height":817},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/623270.jpg","width":460,"height":817},"tag_name":"img_3","small":{"url":"https://img3.doubanio.com/view/presto/small/public/623270.jpg","width":320,"height":568},"id":623270},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/623271.jpg","width":460,"height":817},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/623271.jpg","width":460,"height":817},"tag_name":"img_4","small":{"url":"https://img3.doubanio.com/view/presto/small/public/623271.jpg","width":320,"height":568},"id":623271},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/623272.jpg","width":460,"height":817},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/623272.jpg","width":460,"height":817},"tag_name":"img_5","small":{"url":"https://img3.doubanio.com/view/presto/small/public/623272.jpg","width":320,"height":568},"id":623272},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/623273.jpg","width":460,"height":817},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/623273.jpg","width":460,"height":817},"tag_name":"img_6","small":{"url":"https://img3.doubanio.com/view/presto/small/public/623273.jpg","width":320,"height":568},"id":623273}],"date":"2017-08-14","published_time":"2017-08-14 00:00:00","url":"https://moment.douban.com/post/180886/?douban_rec=1","column":{"id":26,"icon":"https://img3.doubanio.com/f/presto/22d66667149bbb968d8f4c31a333df7877c8ed2c/images/column/column-26.png","description":"每日段子，提神醒脑","name":"打鸡血","post_total":1104},"comments_count":151,"title":"打鸡血｜加了微信又不理的都不是好东西 2017.08.14"},{"display_style":10003,"short_url":"https://dou.bz/1fVBNE","abstract":"曾经的涂鸦板子 2005--2007 曾经历的故事","app_css":7,"like_count":122,"thumbs":[{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/t126381.jpg","width":600,"height":270},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/t126381.jpg","width":600,"height":270},"tag_name":"img_1","small":{"url":"https://img3.doubanio.com/view/presto/small/public/t126381.jpg","width":320,"height":144},"id":126381},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/t126382.jpg","width":600,"height":270},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/t126382.jpg","width":600,"height":270},"tag_name":"img_2","small":{"url":"https://img3.doubanio.com/view/presto/small/public/t126382.jpg","width":320,"height":144},"id":126382},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/t126383.jpg","width":600,"height":271},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/t126383.jpg","width":600,"height":271},"tag_name":"img_3","small":{"url":"https://img3.doubanio.com/view/presto/small/public/t126383.jpg","width":320,"height":144},"id":126383}],"created_time":"2017-07-31 15:13:35","id":180160,"is_editor_choice":false,"original_url":"https://www.douban.com/photos/album/16537636/","content":"
+\n \n
+TIMEMORY
+\n
+\n \n \n
+\n \n
+\n \n
+\n \n
+zeeko
+\n 的相册\n
+\n \n
+\n
+\n \n \n
+\n
+\n\n
+曾经的涂鸦板子 2005--2007 曾经历的故事
+
+舞台
+
+夏令时
+
+钱包，一只叫钱包的猫
+
+7月22日
+
+
+憋坏了的做片季节
+
+
+
+
+10月
+
+
+06年6月 送走一架飞机~
+
+西面,ZOMBIE同学
+
+11点30分
+
+街角
+\n\n
+\n \n \n \n\n \n \n
+作者：\n \n
+\n \n \n
+zeeko
+\n \n \n
+\n \n \n\n \n \n
+\n
+查看原文
+\n ©版权属于作者 商业转载联系作者\n
+\n \n
+\n\n","share_pic_url":"https://moment.douban.com/share_pic/post/180160.jpg","type":"1004","is_liked":false,"photos":[{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/617352.jpg","width":600,"height":270},"description":"舞台","large":{"url":"https://img3.doubanio.com/view/presto/large/public/617352.jpg","width":600,"height":270},"tag_name":"img_1","small":{"url":"https://img3.doubanio.com/view/presto/small/public/617352.jpg","width":320,"height":144},"id":617352},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/617353.jpg","width":600,"height":270},"description":"夏令时","large":{"url":"https://img3.doubanio.com/view/presto/large/public/617353.jpg","width":600,"height":270},"tag_name":"img_2","small":{"url":"https://img3.doubanio.com/view/presto/small/public/617353.jpg","width":320,"height":144},"id":617353},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/617354.jpg","width":600,"height":271},"description":"钱包，一只叫钱包的猫","large":{"url":"https://img3.doubanio.com/view/presto/large/public/617354.jpg","width":600,"height":271},"tag_name":"img_3","small":{"url":"https://img3.doubanio.com/view/presto/small/public/617354.jpg","width":320,"height":144},"id":617354},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/617355.jpg","width":600,"height":270},"description":"7月22日","large":{"url":"https://img3.doubanio.com/view/presto/large/public/617355.jpg","width":600,"height":270},"tag_name":"img_4","small":{"url":"https://img3.doubanio.com/view/presto/small/public/617355.jpg","width":320,"height":144},"id":617355},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/617356.jpg","width":600,"height":270},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/617356.jpg","width":600,"height":270},"tag_name":"img_5","small":{"url":"https://img3.doubanio.com/view/presto/small/public/617356.jpg","width":320,"height":144},"id":617356},{"medium":{"url":"https://img1.doubanio.com/view/presto/medium/public/617357.jpg","width":600,"height":270},"description":"憋坏了的做片季节","large":{"url":"https://img1.doubanio.com/view/presto/large/public/617357.jpg","width":600,"height":270},"tag_name":"img_6","small":{"url":"https://img1.doubanio.com/view/presto/small/public/617357.jpg","width":320,"height":144},"id":617357},{"medium":{"url":"https://img1.doubanio.com/view/presto/medium/public/617358.jpg","width":600,"height":270},"description":"","large":{"url":"https://img1.doubanio.com/view/presto/large/public/617358.jpg","width":600,"height":270},"tag_name":"img_7","small":{"url":"https://img1.doubanio.com/view/presto/small/public/617358.jpg","width":320,"height":144},"id":617358},{"medium":{"url":"https://img1.doubanio.com/view/presto/medium/public/617359.jpg","width":600,"height":270},"description":"","large":{"url":"https://img1.doubanio.com/view/presto/large/public/617359.jpg","width":600,"height":270},"tag_name":"img_8","small":{"url":"https://img1.doubanio.com/view/presto/small/public/617359.jpg","width":320,"height":144},"id":617359},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/617360.jpg","width":600,"height":270},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/617360.jpg","width":600,"height":270},"tag_name":"img_9","small":{"url":"https://img3.doubanio.com/view/presto/small/public/617360.jpg","width":320,"height":144},"id":617360},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/617361.jpg","width":600,"height":270},"description":"10月","large":{"url":"https://img3.doubanio.com/view/presto/large/public/617361.jpg","width":600,"height":270},"tag_name":"img_10","small":{"url":"https://img3.doubanio.com/view/presto/small/public/617361.jpg","width":320,"height":144},"id":617361},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/622503.jpg","width":600,"height":270},"description":"","large":{"url":"https://img3.doubanio.com/view/presto/large/public/622503.jpg","width":600,"height":270},"tag_name":"img_11","small":{"url":"https://img3.doubanio.com/view/presto/small/public/622503.jpg","width":320,"height":144},"id":622503},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/622504.jpg","width":600,"height":270},"description":"06年6月 送走一架飞机~","large":{"url":"https://img3.doubanio.com/view/presto/large/public/622504.jpg","width":600,"height":270},"tag_name":"img_12","small":{"url":"https://img3.doubanio.com/view/presto/small/public/622504.jpg","width":320,"height":144},"id":622504},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/622505.jpg","width":600,"height":270},"description":"西面,ZOMBIE同学","large":{"url":"https://img3.doubanio.com/view/presto/large/public/622505.jpg","width":600,"height":270},"tag_name":"img_13","small":{"url":"https://img3.doubanio.com/view/presto/small/public/622505.jpg","width":320,"height":144},"id":622505},{"medium":{"url":"https://img3.doubanio.com/view/presto/medium/public/622506.jpg","width":600,"height":270},"description":"11点30分","large":{"url":"https://img3.doubanio.com/view/presto/large/public/622506.jpg","width":600,"height":270},"tag_name":"img_14","small":{"url":"https://img3.doubanio.com/view/presto/small/public/622506.jpg","width":320,"height":144},"id":622506},{"medium":{"url":"https://img1.doubanio.com/view/presto/medium/public/622508.jpg","width":600,"height":284},"description":"街角","large":{"url":"https://img1.doubanio.com/view/presto/large/public/622508.jpg","width":600,"height":284},"tag_name":"img_15","small":{"url":"https://img1.doubanio.com/view/presto/small/public/622508.jpg","width":320,"height":151},"id":622508}],"date":"2017-08-14","published_time":"2017-08-14 00:00:00","url":"https://moment.douban.com/post/180160/?douban_rec=1","author":{"is_followed":false,"uid":"zeeko","url":"https://www.douban.com/people/zeeko/","avatar":"https://img3.doubanio.com/icon/u2199183-32.jpg","name":"zeeko","is_special_user":false,"n_posts":0,"alt":"这些文字义无反顾的撑开了括号","large_avatar":"https://img3.doubanio.com/icon/up2199183-32.jpg","id":"2199183","is_auth_author":false},"column":{"id":1,"icon":"https://img3.doubanio.com/f/presto/8bff95d769e4677b2eb579b124dc50660a6f60a5/images/column/icon_default.png","description":"","name":"","post_total":9563},"comments_count":2,"title":"TIMEMORY"},{"display_style":10001,"short_url":"https://dou.bz/2igcOu","abstract":"苗姐不太满意，准儿媳比儿子大五岁，她絮絮叨叨地跟我抱怨：大那么多，又胖又矮，我怎么看都觉得不好。我劝她：孩子们过得好就行了，你觉得你拦得住吗？苗姐想了想，笑了：我家掌柜的也这么说，他说我爹娘那时候还不是没拦住我。","app_css":7,"like_count":120,"thumbs":[],"created_time":"2017-06-16 15:19:41","id":175689,"is_editor_choice":false,"original_url":"https://www.douban.com/note/624623999/","content":"
+\n \n
+苗姐的故事
+\n
+\n \n \n
+\n \n
+\n \n
+\n \n
+伍小姐原来叫77
+\n 的日记\n
+\n \n
+\n
+\n \n \n
+\n
+\n\n
+传说中找个好保姆比找好老公都难，没想到我家却格外很顺利地找到一位手脚麻利又真心爱护小朋友的保姆姐姐。
+管她叫姐姐其实并不是很恰当，她已50岁，但因身形瘦长相年轻，“阿姨”两个字我也是万万叫不出口的。
+这位保姆的大名颇为文雅，叫做苗眉。
+苗姐来我家之后独居二楼，我和宿管大妈礼物住女生宿舍，即主卧，学霸独占男生宿舍，即书房。每天一到晚饭结束，礼物就寝之后，苗姐打扫完主卧卫生间里“哪吒闹海”的残局，用残水顺手拖完一楼客厅和走廊的地板，再顺手洗了礼物换下来的战袍，便悄无声息上二楼休息，往往是端着手机看电视剧。
+我问过她喜欢看什么电视剧，可以在客厅用电视机看，她说：我不爱看家长里短的，也不爱看谈情说爱的，就爱看打仗的，而且得是专门只打日本鬼子的。我心中揣测：难不成苗姐家中有抗日故事？
+后来慢慢聊得多了，才知道，她家并非是抗日故事，却是真正的中国农村里家长里短加谈情说爱的史诗。
+苗姐是家中第四个孩子，两个哥哥一个姐姐一个妹妹，爹是个上过战场的混子，常年在消失躲赌债和回家发邪火儿两个状态之间切换，娘是家中唯一支柱，不论是农活儿还是家务。
+于是从很小的时候，他们兄弟姐妹五个就很懂事，自觉为娘分担家务，至今也是更关爱娘一些。
+一转眼，苗姐20岁了，虽不识字，却挡不住美貌过人，因她心胜，并不想在本村随意说合一家嫁过去才耽误到这么大，一般的乡下姑娘这个年纪都当妈了。
+缘由她十四岁时曾跟着城里的舅舅家干过两三年针线活，县城不远，但见识了外面世界的苗姐，再也不能安分得活在山沟沟里的一亩三分地里。等回到乡下待嫁这几年，眼看着穷得可怕的家和无影无踪的爹，此时像个巨大的秤砣，坠住了她轻飘飘的心。
+说媒的人由每天三个渐渐变成了三天一个，渐渐，三个月才来一个。
+不大的山沟，邻村的人都知道绕过河湾第四户人家里有个20岁还未嫁人的漂亮姑娘，都猜测着怕是被情郎耽搁了。
+苗姐的娘是个聪明人，看出来女儿的心思远，趁着晚上在煤油灯下纳鞋底儿时敲打苗姐：儿啊，人都说这再高的地界也要人去种才能有庄稼，可有些地界就算人去了也种不出啥，为啥呢？就怕是那是个瞎地界，长不出粮。
+看女儿低头不语，两只又黑又亮的麻花辫垂在炕沿上，灯光照出她柔和倔强的脸庞，苗姐娘心下叹了口气没继续说，裹着被子上炕里头睡去了。
+没过一年，县城舅舅家给苗姐说了门亲事，这家人就住在县城边上的村里，比山沟沟里要强出许多。
+苗姐思虑了几天，碍着年纪大了，就应了。
+嫁过去之后发现丈夫是个很好的人，少言寡语，脾气温和。小两口关系不错，只是兄弟姐妹一大家子里外事物一应都归了婆婆管，苗姐是第一个儿媳，自从过门第一天起便接过了婆婆手中的炒菜家伙，再也没能退居。
+婆婆不知是对这个儿媳哪里不满意，总是给她气受，不是暗戳戳地在窗沿下念叨衣服没洗干净，就是在别人家门口聊起这个一脸狐媚子气的儿媳女红做得不好，要不就找儿子明里暗里递话嫌弃儿媳的肚子怎么还没动静。
+其实苗姐的厨艺好女红强，为人亲和又勤快，眼瞧着婆婆总是鸡蛋里挑骨头，苗姐除了和自己老公念一念也没其他办法。
+一转眼生了第一个儿子，婆婆所谓的伺候月子其实什么都不管，苗姐的娘帮了几天忙便急匆匆回家去忙农活，躺在炕上的苗姐说想吃鸡蛋，婆婆一转身拿来四个生鸡蛋放在粗瓷碗里，往坑头一放：吃吧！
+苗姐差点气得连奶水都憋回去，夜深人静时跟自己说：以后绝不再吃婆婆家一口粮。
+生完孩子没多久，苗姐和丈夫便另立门户，一根线都没拿就从公婆的院子里搬了出来，村里管这个叫分家。
+因着是唯一的孙子，婆婆对孩子很宝贝，苗姐纵然带着孩子回去转转，却从不一起吃饭。
+她还记着坐月子时的鸡蛋之仇呢。
+一开始小两口的日子有些艰难，但好歹人年轻又肯干，公婆分给他们的四亩旱地也让他们养成了庄稼，第三年的秋末，小两口喜滋滋地坐在玉米地里，觉得好日子马上就要来了。
+此时，苗姐又怀孕了。
+这次身孕和上回一点儿也不像，苗姐想着肯定是个闺女儿，丈夫也高兴地盼望着，整天跟别人说自己家女儿一定像娘一样漂亮又贤惠。
+苗姐一直记得生下女儿时是春天，早晨丈夫去做工后，自己开始肚子疼，二胎生得快，中午孩子已经躺在炕上了。
+大西北哪儿有春天，只是没完没了的风没完没了得刮，像是要刮过整个春天，卷着沙粒，卷着尘土，从早到晚，漫天不见太阳。
+苗姐在炕上等丈夫回来，等到天也黑了，家门里的堂嫂子侄儿媳妇都要回家去了，丈夫还是没回来。
+第二天天也不亮时家里有人来报信，说丈夫在工地上出了意外在医院里，让苗姐别担心，住几天院便回来了。
+没想到，丈夫那么心系着女儿，连面也没见到，再也没见到。
+苗姐跟我聊起时说，其实她当时身体虽虚弱，脑子却清醒，听到说出了意外，她一颗心直直沉下去，知道丈夫一定是回不来了。
+一直到出了月子，公婆才告诉她，丈夫没了，已经埋了。
+虽然她有心理准备，但走到坟头的那一刻人还是崩溃了，她没办法想自己的丈夫此刻已经躺在地底下，与她和她的孩子们阴阳相隔。
+哭了一次又一次，夜夜瞪着眼睛到天亮，想不通自己的命怎么这么苦，老天爷为何如此对她。
+白天只能拼命下地干活，想着再怎么也得糊口，四岁的大儿子暂时托管在婆婆家，嗷嗷待哺的女儿放在炕上，算着时间回去喂个奶就放下继续下地干活。
+好不容易熬过了女儿百天，婆婆上门来跟苗姐说：她这种灾祸星待在自己家也没什么用，赶紧卷铺盖走人吧，容许她带走孙女，孙子得留给他们，这是自己大儿子唯一的血脉。
+苗姐一口拒绝，婆婆冷笑，那你就好好在这儿一个人过吧，能过成什么样看你造化。
+送走了婆婆，苗姐抱着女儿，一边喂奶一边哭，看着女儿柔嫩的小脸，想到儿子前几天懂事地说长大以后要帮妈妈干活儿，怎么能放得下一走了之？
+只能越加拼命地干活儿，她憋着一口气，非要活出个样子给那个老妖婆看看！
+有一天从院子里走进来，听到孩子微弱的哭声，苗姐镢头一扔，飞奔进屋，一把将炕下煤堆里的女儿抱起。
+看着女儿一脸的煤渣和血痕，苗姐心中一涩，放声大哭。
+这日子什么时候是个头儿啊！
+苗姐几天没出门，照顾着女儿，也让自己缓口气。
+突然门外有人叫门。
+打开门，原来是小叔子，他站在门外，踟蹰了半天，问了一句：嫂子，要不咱俩过吧。
+苗姐愣了一下：你别胡说，我自己过得好好的。
+小叔子个头高，他侧过夕阳烧红的脸，轻声说：我不是说着耍的，是真话，嫂子你只要应了，我就跟我爹娘说去。
+苗姐头懵懵的，没说话，把门掩上。
+她一宿没睡，心里反反复复揣摩小叔子这话。
+这倒是个办法，嫁给有血脉关系的小叔子，可能是对孩子们最好一条路。自己这半老徐娘的，嫁给谁不是嫁呢，只不过小叔子还比自己小两岁呢，不知道他怎么就想起这一出。
+脑子一热，一想到老妖婆可能会被气死，苗姐莫名地有些高兴起来。
+小叔子又来找过苗姐几次，话不知怎么就被传开了，村头田间总有人议论此事，好在她自从嫁到这村里来品行端正口碑好，多的是说她命苦，换个丈夫也换不了婆婆。
+有一天大儿子吃过晚饭回到苗姐家里时捂着小手悄悄说：妈，小叔被爷爷吊起来打了一顿，奶奶不让我告诉你。
+小叔子倔强的嘴角在苗姐眼前一闪而过，她心中一动，问儿子：那你小叔为啥被打？
+爷爷说他不听话要打死他，小叔被打了也一直不说话，奶奶说小叔被妖精缠了头。儿子边想边说，用眼角偷看苗姐的脸。
+苗姐拍了拍儿子的头说：大人的事儿，小娃儿就别管了。
+儿子乖乖地应了一声，转身去看妹妹。
+苗姐叫住儿子：娃，你要不要让你小叔给你当爸爸？
+儿子抿着嘴笑了：妈，小叔也这么问我呢。
+苗姐笑：那你咋说的？
+儿子害羞，缓缓说道：还能咋说，行呗。
+结婚那天，红纸糊了窗户，剪了几个双喜字贴上门板，双方父母没出席，只是请同村的人在家吃了一顿。
+好不容易席散了，小叔子喝醉酒，迈着大步左右摇摆着推开房门，往高门槛上一坐，红着脸大着舌头叫：嫂子！嫂子！嗳，不对。媳妇儿！媳妇儿！端水给我！
+苗姐穿着一件自己亲手做的红袄，看他傻呵呵的样子，塞了杯水给新郎官，问他：你说说，为啥非要娶我？
+新郎官醉眼一抬：嘿嘿，说实话，我哥娶你那天，我就挺生气的，为啥我娶不到这么好的媳妇儿。
+苗姐扑哧一笑，抬手推了他脑袋一把。
+后来，他们又生了一个小儿子。
+后来，他们两个都去城里做工，辛辛苦苦供孩子们上学，还盖了新房子。
+再后来，女儿嫁人了生了两个孩子，小儿子大学毕业了，大儿子在北京找了个对象领回家来。
+苗姐不太满意，准儿媳比儿子大五岁，她絮絮叨叨地跟我抱怨：大那么多，又胖又矮，我怎么看都觉得不好。
+我劝她：孩子们过得好就行了呗，你觉得你拦得住吗？
+苗姐想了想，笑了：我家掌柜的也这么说，他说我爹娘那时候还不是没拦住我，咱们照样过得好好的。
+我点点头：赶紧准备红包去吧，我给你放假，回去选个日子给孩子订婚去吧！
+苗姐低头切菜，嘴硬：不着急，看日子也得找人合了八字再说，我和掌柜的就八字很合，从来不吵架。
+没想到，老天爷却在苗姐丧偶之后另有安排。
+婆婆一心要赶走她，苗姐却当了她两次儿媳妇。
+小叔子心有不甘，没想到愿望成真。
+真真是，人算不如天算。
+\n\n
+\n \n \n \n\n \n \n
+作者：\n \n
+\n \n \n
+伍小姐原来叫77
+\n \n \n
+\n \n \n\n \n \n
+\n
+查看原文
+\n ©版权属于作者 商业转载联系作者\n
+\n \n
+\n\n","share_pic_url":"https://moment.douban.com/share_pic/post/175689.jpg","type":"1001","is_liked":false,"photos":[],"date":"2017-08-14","published_time":"2017-08-14 00:00:00","url":"https://moment.douban.com/post/175689/?douban_rec=1","author":{"is_followed":false,"uid":"seven4ever","url":"https://www.douban.com/people/seven4ever/","avatar":"https://img3.doubanio.com/icon/u4269550-32.jpg","name":"伍小姐原来叫77","is_special_user":false,"n_posts":0,"alt":"蛋，还是定着好。","large_avatar":"https://img3.doubanio.com/icon/up4269550-32.jpg","id":"4269550","is_auth_author":false},"column":{"id":1,"icon":"https://img3.doubanio.com/f/presto/8bff95d769e4677b2eb579b124dc50660a6f60a5/images/column/icon_default.png","description":"","name":"","post_total":9563},"comments_count":7,"title":"苗姐的故事"}],"offset":7200,"date":"2017-08-14","total":14},"status":200,"config":{"method":"GET","transformRequest":[null],"transformResponse":[null],"jsonpCallbackParam":"callback","url":"./api/older.php","headers":{"Accept":"application/json, text/plain, */*"}},"statusText":"OK","xhrStatus":"complete"}
